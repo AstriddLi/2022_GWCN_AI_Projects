@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Select Countries/Regions</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>  
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css')}}">  
+  </head>
+  <body>
+    <h1 style="text-align:center">Number of Deaths Caused by Unsafe Water Usage in Worldwide</h1>
+    <h2 style="text-align:center">1990 - 2019 Data Analysis</h2>
+    <p>
+      Clean water is important to human health. 
+      Unsafe water sources can cause various kinds of health problems, and increase the risk for death. 
+      Lack of access to improved water sources is one of the major factors for infectious diseases and has been a worldwide challenge. 
+      This boxplot will display the annual number of death from 1990 to 2019 caused by unsafe water usage. 
+      Whisker of the boxplot is defined as 1.5 times the interquartile range. Each log graph can show 5 regions. 
+    </p>
+  </body>
+  <div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <p><h3>Select 5 countries/regions to get the boxplot for data analysis</h3></p>
+            <form action="/show_boxplot" method="POST">
+                {{ form.csrf_token}}
+                <div class="form-group">
+                    <label for="country1">Country/Region 1:</label>
+                    {{ form.country1(class="form-control") }}
+                </div>
+                <div class="form-group">
+                    <label for="country2">Country/Region 2:</label>
+                    {{ form.country2(class="form-control") }}
+                </div>
+                <div class="form-group">
+                    <label for="country3">Country/Region 3:</label>
+                    {{ form.country3(class="form-control") }}
+                </div>
+                <div class="form-group">
+                  <label for="country4">Country/Region 4:</label>
+                  {{ form.country4(class="form-control") }}
+              </div>
+                <div class="form-group">
+                  <label for="country5">Country/Region 5:</label>
+                  {{ form.country5(class="form-control") }}
+              </div>
+                <input type="submit" name="submit" class="btn btn--sm type--uppercase" btn-lg>
+            </form>
+        </div>
+    </div> 
+  </div>
+  <h6>data source: https://ourworldindata.org/water-access</h6>
+</html>

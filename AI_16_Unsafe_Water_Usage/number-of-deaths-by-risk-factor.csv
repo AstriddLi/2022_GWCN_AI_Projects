@@ -1,0 +1,7411 @@
+Country,Code,Year,Deaths
+Afghanistan,AFG,1990,3702
+Afghanistan,AFG,1991,4309
+Afghanistan,AFG,1992,5356
+Afghanistan,AFG,1993,7152
+Afghanistan,AFG,1994,7192
+Afghanistan,AFG,1995,8378
+Afghanistan,AFG,1996,8487
+Afghanistan,AFG,1997,9348
+Afghanistan,AFG,1998,9788
+Afghanistan,AFG,1999,9931
+Afghanistan,AFG,2000,9942
+Afghanistan,AFG,2001,10052
+Afghanistan,AFG,2002,10004
+Afghanistan,AFG,2003,10841
+Afghanistan,AFG,2004,10761
+Afghanistan,AFG,2005,10118
+Afghanistan,AFG,2006,9081
+Afghanistan,AFG,2007,8168
+Afghanistan,AFG,2008,7245
+Afghanistan,AFG,2009,6437
+Afghanistan,AFG,2010,6021
+Afghanistan,AFG,2011,5600
+Afghanistan,AFG,2012,5243
+Afghanistan,AFG,2013,5220
+Afghanistan,AFG,2014,5010
+Afghanistan,AFG,2015,4796
+Afghanistan,AFG,2016,4678
+Afghanistan,AFG,2017,4632
+Afghanistan,AFG,2018,3994
+Afghanistan,AFG,2019,3751
+Africa,,1990,875626
+Africa,,1991,891975
+Africa,,1992,879864
+Africa,,1993,874695
+Africa,,1994,890821
+Africa,,1995,881504
+Africa,,1996,882094
+Africa,,1997,876974
+Africa,,1998,872669
+Africa,,1999,862106
+Africa,,2000,848137
+Africa,,2001,833377
+Africa,,2002,813565
+Africa,,2003,789867
+Africa,,2004,767564
+Africa,,2005,750806
+Africa,,2006,748529
+Africa,,2007,734495
+Africa,,2008,715541
+Africa,,2009,700251
+Africa,,2010,679174
+Africa,,2011,656814
+Africa,,2012,635673
+Africa,,2013,620251
+Africa,,2014,605706
+Africa,,2015,588800
+Africa,,2016,577519
+Africa,,2017,568445
+Africa,,2018,538930
+Africa,,2019,516789
+Albania,ALB,1990,53
+Albania,ALB,1991,54
+Albania,ALB,1992,52
+Albania,ALB,1993,47
+Albania,ALB,1994,57
+Albania,ALB,1995,29
+Albania,ALB,1996,23
+Albania,ALB,1997,19
+Albania,ALB,1998,16
+Albania,ALB,1999,12
+Albania,ALB,2000,10
+Albania,ALB,2001,9
+Albania,ALB,2002,8
+Albania,ALB,2003,7
+Albania,ALB,2004,6
+Albania,ALB,2005,6
+Albania,ALB,2006,5
+Albania,ALB,2007,5
+Albania,ALB,2008,5
+Albania,ALB,2009,4
+Albania,ALB,2010,4
+Albania,ALB,2011,4
+Albania,ALB,2012,4
+Albania,ALB,2013,4
+Albania,ALB,2014,4
+Albania,ALB,2015,4
+Albania,ALB,2016,4
+Albania,ALB,2017,4
+Albania,ALB,2018,4
+Albania,ALB,2019,4
+Algeria,DZA,1990,1851
+Algeria,DZA,1991,1625
+Algeria,DZA,1992,1455
+Algeria,DZA,1993,1336
+Algeria,DZA,1994,1240
+Algeria,DZA,1995,1145
+Algeria,DZA,1996,1028
+Algeria,DZA,1997,970
+Algeria,DZA,1998,904
+Algeria,DZA,1999,850
+Algeria,DZA,2000,789
+Algeria,DZA,2001,726
+Algeria,DZA,2002,658
+Algeria,DZA,2003,596
+Algeria,DZA,2004,548
+Algeria,DZA,2005,500
+Algeria,DZA,2006,466
+Algeria,DZA,2007,436
+Algeria,DZA,2008,410
+Algeria,DZA,2009,386
+Algeria,DZA,2010,366
+Algeria,DZA,2011,350
+Algeria,DZA,2012,337
+Algeria,DZA,2013,329
+Algeria,DZA,2014,324
+Algeria,DZA,2015,319
+Algeria,DZA,2016,310
+Algeria,DZA,2017,299
+Algeria,DZA,2018,287
+Algeria,DZA,2019,277
+Americas,,1990,94454
+Americas,,1991,89985
+Americas,,1992,82789
+Americas,,1993,76983
+Americas,,1994,70517
+Americas,,1995,64142
+Americas,,1996,58257
+Americas,,1997,53015
+Americas,,1998,48832
+Americas,,1999,44422
+Americas,,2000,40577
+Americas,,2001,37720
+Americas,,2002,35528
+Americas,,2003,33804
+Americas,,2004,31713
+Americas,,2005,29789
+Americas,,2006,27724
+Americas,,2007,25962
+Americas,,2008,24509
+Americas,,2009,23219
+Americas,,2010,23196
+Americas,,2011,25923
+Americas,,2012,20620
+Americas,,2013,20586
+Americas,,2014,19836
+Americas,,2015,19386
+Americas,,2016,19397
+Americas,,2017,18643
+Americas,,2018,18325
+Americas,,2019,18122
+American Samoa,ASM,1990,2
+American Samoa,ASM,1991,2
+American Samoa,ASM,1992,2
+American Samoa,ASM,1993,2
+American Samoa,ASM,1994,2
+American Samoa,ASM,1995,2
+American Samoa,ASM,1996,2
+American Samoa,ASM,1997,2
+American Samoa,ASM,1998,2
+American Samoa,ASM,1999,2
+American Samoa,ASM,2000,2
+American Samoa,ASM,2001,2
+American Samoa,ASM,2002,2
+American Samoa,ASM,2003,2
+American Samoa,ASM,2004,2
+American Samoa,ASM,2005,2
+American Samoa,ASM,2006,2
+American Samoa,ASM,2007,2
+American Samoa,ASM,2008,2
+American Samoa,ASM,2009,2
+American Samoa,ASM,2010,2
+American Samoa,ASM,2011,2
+American Samoa,ASM,2012,2
+American Samoa,ASM,2013,2
+American Samoa,ASM,2014,2
+American Samoa,ASM,2015,2
+American Samoa,ASM,2016,2
+American Samoa,ASM,2017,2
+American Samoa,ASM,2018,2
+American Samoa,ASM,2019,2
+Andean Latin America,,1990,8784
+Andean Latin America,,1991,9843
+Andean Latin America,,1992,8406
+Andean Latin America,,1993,7530
+Andean Latin America,,1994,6469
+Andean Latin America,,1995,5957
+Andean Latin America,,1996,5418
+Andean Latin America,,1997,4892
+Andean Latin America,,1998,4485
+Andean Latin America,,1999,4063
+Andean Latin America,,2000,3605
+Andean Latin America,,2001,3196
+Andean Latin America,,2002,2937
+Andean Latin America,,2003,2739
+Andean Latin America,,2004,2546
+Andean Latin America,,2005,2378
+Andean Latin America,,2006,2201
+Andean Latin America,,2007,2015
+Andean Latin America,,2008,1899
+Andean Latin America,,2009,1838
+Andean Latin America,,2010,1756
+Andean Latin America,,2011,1668
+Andean Latin America,,2012,1603
+Andean Latin America,,2013,1571
+Andean Latin America,,2014,1576
+Andean Latin America,,2015,1533
+Andean Latin America,,2016,1479
+Andean Latin America,,2017,1470
+Andean Latin America,,2018,1456
+Andean Latin America,,2019,1447
+Andorra,AND,1990,0
+Andorra,AND,1991,0
+Andorra,AND,1992,0
+Andorra,AND,1993,0
+Andorra,AND,1994,0
+Andorra,AND,1995,0
+Andorra,AND,1996,0
+Andorra,AND,1997,0
+Andorra,AND,1998,0
+Andorra,AND,1999,0
+Andorra,AND,2000,0
+Andorra,AND,2001,0
+Andorra,AND,2002,0
+Andorra,AND,2003,0
+Andorra,AND,2004,0
+Andorra,AND,2005,0
+Andorra,AND,2006,0
+Andorra,AND,2007,0
+Andorra,AND,2008,0
+Andorra,AND,2009,0
+Andorra,AND,2010,0
+Andorra,AND,2011,0
+Andorra,AND,2012,0
+Andorra,AND,2013,0
+Andorra,AND,2014,0
+Andorra,AND,2015,0
+Andorra,AND,2016,0
+Andorra,AND,2017,0
+Andorra,AND,2018,0
+Andorra,AND,2019,0
+Angola,AGO,1990,31350
+Angola,AGO,1991,31616
+Angola,AGO,1992,31705
+Angola,AGO,1993,32239
+Angola,AGO,1994,33189
+Angola,AGO,1995,33649
+Angola,AGO,1996,32788
+Angola,AGO,1997,32143
+Angola,AGO,1998,31686
+Angola,AGO,1999,30764
+Angola,AGO,2000,29748
+Angola,AGO,2001,27905
+Angola,AGO,2002,26018
+Angola,AGO,2003,24116
+Angola,AGO,2004,23163
+Angola,AGO,2005,21669
+Angola,AGO,2006,22212
+Angola,AGO,2007,20492
+Angola,AGO,2008,19588
+Angola,AGO,2009,18803
+Angola,AGO,2010,18415
+Angola,AGO,2011,18118
+Angola,AGO,2012,17601
+Angola,AGO,2013,16872
+Angola,AGO,2014,15667
+Angola,AGO,2015,14786
+Angola,AGO,2016,13587
+Angola,AGO,2017,13022
+Angola,AGO,2018,11736
+Angola,AGO,2019,11143
+Antigua and Barbuda,ATG,1990,2
+Antigua and Barbuda,ATG,1991,2
+Antigua and Barbuda,ATG,1992,2
+Antigua and Barbuda,ATG,1993,2
+Antigua and Barbuda,ATG,1994,2
+Antigua and Barbuda,ATG,1995,2
+Antigua and Barbuda,ATG,1996,2
+Antigua and Barbuda,ATG,1997,2
+Antigua and Barbuda,ATG,1998,2
+Antigua and Barbuda,ATG,1999,2
+Antigua and Barbuda,ATG,2000,1
+Antigua and Barbuda,ATG,2001,1
+Antigua and Barbuda,ATG,2002,1
+Antigua and Barbuda,ATG,2003,1
+Antigua and Barbuda,ATG,2004,1
+Antigua and Barbuda,ATG,2005,1
+Antigua and Barbuda,ATG,2006,1
+Antigua and Barbuda,ATG,2007,1
+Antigua and Barbuda,ATG,2008,1
+Antigua and Barbuda,ATG,2009,1
+Antigua and Barbuda,ATG,2010,1
+Antigua and Barbuda,ATG,2011,1
+Antigua and Barbuda,ATG,2012,1
+Antigua and Barbuda,ATG,2013,1
+Antigua and Barbuda,ATG,2014,1
+Antigua and Barbuda,ATG,2015,1
+Antigua and Barbuda,ATG,2016,1
+Antigua and Barbuda,ATG,2017,1
+Antigua and Barbuda,ATG,2018,1
+Antigua and Barbuda,ATG,2019,1
+Argentina,ARG,1990,827
+Argentina,ARG,1991,769
+Argentina,ARG,1992,693
+Argentina,ARG,1993,621
+Argentina,ARG,1994,576
+Argentina,ARG,1995,567
+Argentina,ARG,1996,557
+Argentina,ARG,1997,558
+Argentina,ARG,1998,544
+Argentina,ARG,1999,517
+Argentina,ARG,2000,474
+Argentina,ARG,2001,454
+Argentina,ARG,2002,452
+Argentina,ARG,2003,428
+Argentina,ARG,2004,387
+Argentina,ARG,2005,354
+Argentina,ARG,2006,338
+Argentina,ARG,2007,332
+Argentina,ARG,2008,322
+Argentina,ARG,2009,318
+Argentina,ARG,2010,321
+Argentina,ARG,2011,326
+Argentina,ARG,2012,326
+Argentina,ARG,2013,334
+Argentina,ARG,2014,341
+Argentina,ARG,2015,341
+Argentina,ARG,2016,345
+Argentina,ARG,2017,334
+Argentina,ARG,2018,320
+Argentina,ARG,2019,315
+Armenia,ARM,1990,182
+Armenia,ARM,1991,177
+Armenia,ARM,1992,173
+Armenia,ARM,1993,155
+Armenia,ARM,1994,139
+Armenia,ARM,1995,121
+Armenia,ARM,1996,101
+Armenia,ARM,1997,86
+Armenia,ARM,1998,71
+Armenia,ARM,1999,57
+Armenia,ARM,2000,45
+Armenia,ARM,2001,36
+Armenia,ARM,2002,27
+Armenia,ARM,2003,21
+Armenia,ARM,2004,17
+Armenia,ARM,2005,13
+Armenia,ARM,2006,10
+Armenia,ARM,2007,8
+Armenia,ARM,2008,7
+Armenia,ARM,2009,6
+Armenia,ARM,2010,5
+Armenia,ARM,2011,5
+Armenia,ARM,2012,4
+Armenia,ARM,2013,4
+Armenia,ARM,2014,4
+Armenia,ARM,2015,3
+Armenia,ARM,2016,3
+Armenia,ARM,2017,3
+Armenia,ARM,2018,3
+Armenia,ARM,2019,3
+Asia,,1990,1465067
+Asia,,1991,1462449
+Asia,,1992,1456840
+Asia,,1993,1403477
+Asia,,1994,1342729
+Asia,,1995,1301701
+Asia,,1996,1257845
+Asia,,1997,1236694
+Asia,,1998,1214469
+Asia,,1999,1188124
+Asia,,2000,1156622
+Asia,,2001,1118730
+Asia,,2002,1081980
+Asia,,2003,1046113
+Asia,,2004,1003176
+Asia,,2005,984112
+Asia,,2006,973177
+Asia,,2007,959777
+Asia,,2008,951725
+Asia,,2009,909554
+Asia,,2010,887506
+Asia,,2011,881100
+Asia,,2012,845968
+Asia,,2013,818321
+Asia,,2014,778256
+Asia,,2015,752510
+Asia,,2016,728403
+Asia,,2017,730091
+Asia,,2018,710861
+Asia,,2019,693148
+Australasia,,1990,11
+Australasia,,1991,12
+Australasia,,1992,13
+Australasia,,1993,14
+Australasia,,1994,16
+Australasia,,1995,17
+Australasia,,1996,17
+Australasia,,1997,17
+Australasia,,1998,16
+Australasia,,1999,16
+Australasia,,2000,16
+Australasia,,2001,17
+Australasia,,2002,19
+Australasia,,2003,21
+Australasia,,2004,24
+Australasia,,2005,26
+Australasia,,2006,30
+Australasia,,2007,35
+Australasia,,2008,38
+Australasia,,2009,42
+Australasia,,2010,45
+Australasia,,2011,50
+Australasia,,2012,53
+Australasia,,2013,52
+Australasia,,2014,54
+Australasia,,2015,55
+Australasia,,2016,53
+Australasia,,2017,53
+Australasia,,2018,53
+Australasia,,2019,53
+Australia,AUS,1990,8
+Australia,AUS,1991,10
+Australia,AUS,1992,11
+Australia,AUS,1993,12
+Australia,AUS,1994,14
+Australia,AUS,1995,15
+Australia,AUS,1996,15
+Australia,AUS,1997,14
+Australia,AUS,1998,14
+Australia,AUS,1999,14
+Australia,AUS,2000,14
+Australia,AUS,2001,15
+Australia,AUS,2002,16
+Australia,AUS,2003,18
+Australia,AUS,2004,20
+Australia,AUS,2005,21
+Australia,AUS,2006,25
+Australia,AUS,2007,27
+Australia,AUS,2008,29
+Australia,AUS,2009,31
+Australia,AUS,2010,33
+Australia,AUS,2011,37
+Australia,AUS,2012,39
+Australia,AUS,2013,38
+Australia,AUS,2014,39
+Australia,AUS,2015,40
+Australia,AUS,2016,40
+Australia,AUS,2017,39
+Australia,AUS,2018,39
+Australia,AUS,2019,40
+Austria,AUT,1990,1
+Austria,AUT,1991,1
+Austria,AUT,1992,1
+Austria,AUT,1993,0
+Austria,AUT,1994,0
+Austria,AUT,1995,0
+Austria,AUT,1996,0
+Austria,AUT,1997,0
+Austria,AUT,1998,0
+Austria,AUT,1999,0
+Austria,AUT,2000,0
+Austria,AUT,2001,0
+Austria,AUT,2002,0
+Austria,AUT,2003,1
+Austria,AUT,2004,1
+Austria,AUT,2005,1
+Austria,AUT,2006,1
+Austria,AUT,2007,1
+Austria,AUT,2008,2
+Austria,AUT,2009,2
+Austria,AUT,2010,2
+Austria,AUT,2011,2
+Austria,AUT,2012,2
+Austria,AUT,2013,3
+Austria,AUT,2014,3
+Austria,AUT,2015,3
+Austria,AUT,2016,3
+Austria,AUT,2017,4
+Austria,AUT,2018,3
+Austria,AUT,2019,3
+Azerbaijan,AZE,1990,1090
+Azerbaijan,AZE,1991,1033
+Azerbaijan,AZE,1992,987
+Azerbaijan,AZE,1993,947
+Azerbaijan,AZE,1994,899
+Azerbaijan,AZE,1995,856
+Azerbaijan,AZE,1996,785
+Azerbaijan,AZE,1997,730
+Azerbaijan,AZE,1998,686
+Azerbaijan,AZE,1999,620
+Azerbaijan,AZE,2000,554
+Azerbaijan,AZE,2001,459
+Azerbaijan,AZE,2002,371
+Azerbaijan,AZE,2003,303
+Azerbaijan,AZE,2004,254
+Azerbaijan,AZE,2005,203
+Azerbaijan,AZE,2006,165
+Azerbaijan,AZE,2007,135
+Azerbaijan,AZE,2008,116
+Azerbaijan,AZE,2009,102
+Azerbaijan,AZE,2010,92
+Azerbaijan,AZE,2011,87
+Azerbaijan,AZE,2012,82
+Azerbaijan,AZE,2013,81
+Azerbaijan,AZE,2014,78
+Azerbaijan,AZE,2015,75
+Azerbaijan,AZE,2016,72
+Azerbaijan,AZE,2017,68
+Azerbaijan,AZE,2018,64
+Azerbaijan,AZE,2019,60
+Bahamas,BHS,1990,5
+Bahamas,BHS,1991,5
+Bahamas,BHS,1992,5
+Bahamas,BHS,1993,6
+Bahamas,BHS,1994,5
+Bahamas,BHS,1995,5
+Bahamas,BHS,1996,5
+Bahamas,BHS,1997,5
+Bahamas,BHS,1998,4
+Bahamas,BHS,1999,4
+Bahamas,BHS,2000,3
+Bahamas,BHS,2001,3
+Bahamas,BHS,2002,3
+Bahamas,BHS,2003,3
+Bahamas,BHS,2004,3
+Bahamas,BHS,2005,3
+Bahamas,BHS,2006,3
+Bahamas,BHS,2007,3
+Bahamas,BHS,2008,3
+Bahamas,BHS,2009,3
+Bahamas,BHS,2010,3
+Bahamas,BHS,2011,3
+Bahamas,BHS,2012,3
+Bahamas,BHS,2013,3
+Bahamas,BHS,2014,3
+Bahamas,BHS,2015,3
+Bahamas,BHS,2016,3
+Bahamas,BHS,2017,3
+Bahamas,BHS,2018,3
+Bahamas,BHS,2019,3
+Bahrain,BHR,1990,4
+Bahrain,BHR,1991,5
+Bahrain,BHR,1992,5
+Bahrain,BHR,1993,5
+Bahrain,BHR,1994,5
+Bahrain,BHR,1995,5
+Bahrain,BHR,1996,4
+Bahrain,BHR,1997,5
+Bahrain,BHR,1998,5
+Bahrain,BHR,1999,5
+Bahrain,BHR,2000,5
+Bahrain,BHR,2001,5
+Bahrain,BHR,2002,5
+Bahrain,BHR,2003,5
+Bahrain,BHR,2004,5
+Bahrain,BHR,2005,5
+Bahrain,BHR,2006,5
+Bahrain,BHR,2007,5
+Bahrain,BHR,2008,5
+Bahrain,BHR,2009,5
+Bahrain,BHR,2010,5
+Bahrain,BHR,2011,5
+Bahrain,BHR,2012,5
+Bahrain,BHR,2013,5
+Bahrain,BHR,2014,5
+Bahrain,BHR,2015,5
+Bahrain,BHR,2016,6
+Bahrain,BHR,2017,6
+Bahrain,BHR,2018,6
+Bahrain,BHR,2019,6
+Bangladesh,BGD,1990,99476
+Bangladesh,BGD,1991,95492
+Bangladesh,BGD,1992,89123
+Bangladesh,BGD,1993,83665
+Bangladesh,BGD,1994,77456
+Bangladesh,BGD,1995,71501
+Bangladesh,BGD,1996,64564
+Bangladesh,BGD,1997,58230
+Bangladesh,BGD,1998,52955
+Bangladesh,BGD,1999,48661
+Bangladesh,BGD,2000,45435
+Bangladesh,BGD,2001,42089
+Bangladesh,BGD,2002,39789
+Bangladesh,BGD,2003,37243
+Bangladesh,BGD,2004,35020
+Bangladesh,BGD,2005,33636
+Bangladesh,BGD,2006,32354
+Bangladesh,BGD,2007,30699
+Bangladesh,BGD,2008,28720
+Bangladesh,BGD,2009,27817
+Bangladesh,BGD,2010,27141
+Bangladesh,BGD,2011,26040
+Bangladesh,BGD,2012,25403
+Bangladesh,BGD,2013,25828
+Bangladesh,BGD,2014,26455
+Bangladesh,BGD,2015,26866
+Bangladesh,BGD,2016,27599
+Bangladesh,BGD,2017,28727
+Bangladesh,BGD,2018,28336
+Bangladesh,BGD,2019,28158
+Barbados,BRB,1990,6
+Barbados,BRB,1991,5
+Barbados,BRB,1992,5
+Barbados,BRB,1993,6
+Barbados,BRB,1994,5
+Barbados,BRB,1995,5
+Barbados,BRB,1996,5
+Barbados,BRB,1997,4
+Barbados,BRB,1998,4
+Barbados,BRB,1999,4
+Barbados,BRB,2000,3
+Barbados,BRB,2001,3
+Barbados,BRB,2002,3
+Barbados,BRB,2003,3
+Barbados,BRB,2004,3
+Barbados,BRB,2005,3
+Barbados,BRB,2006,3
+Barbados,BRB,2007,3
+Barbados,BRB,2008,3
+Barbados,BRB,2009,3
+Barbados,BRB,2010,3
+Barbados,BRB,2011,3
+Barbados,BRB,2012,3
+Barbados,BRB,2013,3
+Barbados,BRB,2014,3
+Barbados,BRB,2015,3
+Barbados,BRB,2016,3
+Barbados,BRB,2017,3
+Barbados,BRB,2018,3
+Barbados,BRB,2019,3
+Belarus,BLR,1990,36
+Belarus,BLR,1991,34
+Belarus,BLR,1992,33
+Belarus,BLR,1993,32
+Belarus,BLR,1994,32
+Belarus,BLR,1995,31
+Belarus,BLR,1996,28
+Belarus,BLR,1997,26
+Belarus,BLR,1998,26
+Belarus,BLR,1999,25
+Belarus,BLR,2000,20
+Belarus,BLR,2001,18
+Belarus,BLR,2002,14
+Belarus,BLR,2003,11
+Belarus,BLR,2004,9
+Belarus,BLR,2005,8
+Belarus,BLR,2006,6
+Belarus,BLR,2007,5
+Belarus,BLR,2008,5
+Belarus,BLR,2009,5
+Belarus,BLR,2010,5
+Belarus,BLR,2011,5
+Belarus,BLR,2012,5
+Belarus,BLR,2013,5
+Belarus,BLR,2014,5
+Belarus,BLR,2015,5
+Belarus,BLR,2016,5
+Belarus,BLR,2017,5
+Belarus,BLR,2018,4
+Belarus,BLR,2019,4
+Belgium,BEL,1990,7
+Belgium,BEL,1991,7
+Belgium,BEL,1992,8
+Belgium,BEL,1993,8
+Belgium,BEL,1994,8
+Belgium,BEL,1995,8
+Belgium,BEL,1996,8
+Belgium,BEL,1997,8
+Belgium,BEL,1998,8
+Belgium,BEL,1999,9
+Belgium,BEL,2000,11
+Belgium,BEL,2001,12
+Belgium,BEL,2002,14
+Belgium,BEL,2003,16
+Belgium,BEL,2004,18
+Belgium,BEL,2005,20
+Belgium,BEL,2006,22
+Belgium,BEL,2007,23
+Belgium,BEL,2008,25
+Belgium,BEL,2009,27
+Belgium,BEL,2010,27
+Belgium,BEL,2011,27
+Belgium,BEL,2012,27
+Belgium,BEL,2013,28
+Belgium,BEL,2014,28
+Belgium,BEL,2015,29
+Belgium,BEL,2016,29
+Belgium,BEL,2017,28
+Belgium,BEL,2018,28
+Belgium,BEL,2019,28
+Belize,BLZ,1990,23
+Belize,BLZ,1991,21
+Belize,BLZ,1992,19
+Belize,BLZ,1993,17
+Belize,BLZ,1994,16
+Belize,BLZ,1995,16
+Belize,BLZ,1996,16
+Belize,BLZ,1997,16
+Belize,BLZ,1998,16
+Belize,BLZ,1999,15
+Belize,BLZ,2000,13
+Belize,BLZ,2001,12
+Belize,BLZ,2002,11
+Belize,BLZ,2003,11
+Belize,BLZ,2004,11
+Belize,BLZ,2005,10
+Belize,BLZ,2006,10
+Belize,BLZ,2007,10
+Belize,BLZ,2008,10
+Belize,BLZ,2009,10
+Belize,BLZ,2010,10
+Belize,BLZ,2011,9
+Belize,BLZ,2012,9
+Belize,BLZ,2013,9
+Belize,BLZ,2014,9
+Belize,BLZ,2015,9
+Belize,BLZ,2016,9
+Belize,BLZ,2017,9
+Belize,BLZ,2018,9
+Belize,BLZ,2019,9
+Benin,BEN,1990,6530
+Benin,BEN,1991,6761
+Benin,BEN,1992,6561
+Benin,BEN,1993,6504
+Benin,BEN,1994,6494
+Benin,BEN,1995,6440
+Benin,BEN,1996,6553
+Benin,BEN,1997,6343
+Benin,BEN,1998,6291
+Benin,BEN,1999,6226
+Benin,BEN,2000,6128
+Benin,BEN,2001,5892
+Benin,BEN,2002,5899
+Benin,BEN,2003,5689
+Benin,BEN,2004,5616
+Benin,BEN,2005,5383
+Benin,BEN,2006,5253
+Benin,BEN,2007,5083
+Benin,BEN,2008,4970
+Benin,BEN,2009,4933
+Benin,BEN,2010,4891
+Benin,BEN,2011,4837
+Benin,BEN,2012,4887
+Benin,BEN,2013,4899
+Benin,BEN,2014,4857
+Benin,BEN,2015,5015
+Benin,BEN,2016,5051
+Benin,BEN,2017,5077
+Benin,BEN,2018,4607
+Benin,BEN,2019,4408
+Bermuda,BMU,1990,1
+Bermuda,BMU,1991,1
+Bermuda,BMU,1992,1
+Bermuda,BMU,1993,1
+Bermuda,BMU,1994,1
+Bermuda,BMU,1995,1
+Bermuda,BMU,1996,1
+Bermuda,BMU,1997,0
+Bermuda,BMU,1998,0
+Bermuda,BMU,1999,0
+Bermuda,BMU,2000,0
+Bermuda,BMU,2001,0
+Bermuda,BMU,2002,0
+Bermuda,BMU,2003,0
+Bermuda,BMU,2004,0
+Bermuda,BMU,2005,0
+Bermuda,BMU,2006,0
+Bermuda,BMU,2007,0
+Bermuda,BMU,2008,0
+Bermuda,BMU,2009,0
+Bermuda,BMU,2010,0
+Bermuda,BMU,2011,0
+Bermuda,BMU,2012,0
+Bermuda,BMU,2013,0
+Bermuda,BMU,2014,0
+Bermuda,BMU,2015,0
+Bermuda,BMU,2016,0
+Bermuda,BMU,2017,0
+Bermuda,BMU,2018,0
+Bermuda,BMU,2019,0
+Bhutan,BTN,1990,319
+Bhutan,BTN,1991,324
+Bhutan,BTN,1992,297
+Bhutan,BTN,1993,277
+Bhutan,BTN,1994,262
+Bhutan,BTN,1995,251
+Bhutan,BTN,1996,240
+Bhutan,BTN,1997,228
+Bhutan,BTN,1998,213
+Bhutan,BTN,1999,189
+Bhutan,BTN,2000,180
+Bhutan,BTN,2001,167
+Bhutan,BTN,2002,150
+Bhutan,BTN,2003,138
+Bhutan,BTN,2004,125
+Bhutan,BTN,2005,112
+Bhutan,BTN,2006,103
+Bhutan,BTN,2007,105
+Bhutan,BTN,2008,100
+Bhutan,BTN,2009,95
+Bhutan,BTN,2010,91
+Bhutan,BTN,2011,89
+Bhutan,BTN,2012,86
+Bhutan,BTN,2013,85
+Bhutan,BTN,2014,84
+Bhutan,BTN,2015,82
+Bhutan,BTN,2016,81
+Bhutan,BTN,2017,80
+Bhutan,BTN,2018,77
+Bhutan,BTN,2019,75
+Bolivia,BOL,1990,2145
+Bolivia,BOL,1991,2245
+Bolivia,BOL,1992,2166
+Bolivia,BOL,1993,1992
+Bolivia,BOL,1994,1763
+Bolivia,BOL,1995,1692
+Bolivia,BOL,1996,1632
+Bolivia,BOL,1997,1477
+Bolivia,BOL,1998,1400
+Bolivia,BOL,1999,1341
+Bolivia,BOL,2000,1236
+Bolivia,BOL,2001,1145
+Bolivia,BOL,2002,1051
+Bolivia,BOL,2003,966
+Bolivia,BOL,2004,886
+Bolivia,BOL,2005,834
+Bolivia,BOL,2006,771
+Bolivia,BOL,2007,714
+Bolivia,BOL,2008,672
+Bolivia,BOL,2009,642
+Bolivia,BOL,2010,608
+Bolivia,BOL,2011,576
+Bolivia,BOL,2012,552
+Bolivia,BOL,2013,538
+Bolivia,BOL,2014,557
+Bolivia,BOL,2015,526
+Bolivia,BOL,2016,478
+Bolivia,BOL,2017,470
+Bolivia,BOL,2018,452
+Bolivia,BOL,2019,439
+Bosnia and Herzegovina,BIH,1990,14
+Bosnia and Herzegovina,BIH,1991,14
+Bosnia and Herzegovina,BIH,1992,13
+Bosnia and Herzegovina,BIH,1993,12
+Bosnia and Herzegovina,BIH,1994,12
+Bosnia and Herzegovina,BIH,1995,11
+Bosnia and Herzegovina,BIH,1996,9
+Bosnia and Herzegovina,BIH,1997,8
+Bosnia and Herzegovina,BIH,1998,6
+Bosnia and Herzegovina,BIH,1999,5
+Bosnia and Herzegovina,BIH,2000,5
+Bosnia and Herzegovina,BIH,2001,4
+Bosnia and Herzegovina,BIH,2002,4
+Bosnia and Herzegovina,BIH,2003,4
+Bosnia and Herzegovina,BIH,2004,4
+Bosnia and Herzegovina,BIH,2005,4
+Bosnia and Herzegovina,BIH,2006,4
+Bosnia and Herzegovina,BIH,2007,4
+Bosnia and Herzegovina,BIH,2008,3
+Bosnia and Herzegovina,BIH,2009,3
+Bosnia and Herzegovina,BIH,2010,3
+Bosnia and Herzegovina,BIH,2011,3
+Bosnia and Herzegovina,BIH,2012,3
+Bosnia and Herzegovina,BIH,2013,3
+Bosnia and Herzegovina,BIH,2014,3
+Bosnia and Herzegovina,BIH,2015,3
+Bosnia and Herzegovina,BIH,2016,3
+Bosnia and Herzegovina,BIH,2017,3
+Bosnia and Herzegovina,BIH,2018,3
+Bosnia and Herzegovina,BIH,2019,3
+Botswana,BWA,1990,853
+Botswana,BWA,1991,839
+Botswana,BWA,1992,833
+Botswana,BWA,1993,818
+Botswana,BWA,1994,815
+Botswana,BWA,1995,811
+Botswana,BWA,1996,799
+Botswana,BWA,1997,789
+Botswana,BWA,1998,819
+Botswana,BWA,1999,822
+Botswana,BWA,2000,822
+Botswana,BWA,2001,816
+Botswana,BWA,2002,788
+Botswana,BWA,2003,748
+Botswana,BWA,2004,716
+Botswana,BWA,2005,693
+Botswana,BWA,2006,1040
+Botswana,BWA,2007,619
+Botswana,BWA,2008,587
+Botswana,BWA,2009,566
+Botswana,BWA,2010,541
+Botswana,BWA,2011,519
+Botswana,BWA,2012,493
+Botswana,BWA,2013,466
+Botswana,BWA,2014,450
+Botswana,BWA,2015,435
+Botswana,BWA,2016,421
+Botswana,BWA,2017,420
+Botswana,BWA,2018,407
+Botswana,BWA,2019,398
+Brazil,BRA,1990,33061
+Brazil,BRA,1991,30835
+Brazil,BRA,1992,28486
+Brazil,BRA,1993,26483
+Brazil,BRA,1994,24237
+Brazil,BRA,1995,21776
+Brazil,BRA,1996,19693
+Brazil,BRA,1997,17849
+Brazil,BRA,1998,16497
+Brazil,BRA,1999,14954
+Brazil,BRA,2000,13389
+Brazil,BRA,2001,12399
+Brazil,BRA,2002,11583
+Brazil,BRA,2003,10860
+Brazil,BRA,2004,10111
+Brazil,BRA,2005,9417
+Brazil,BRA,2006,8627
+Brazil,BRA,2007,7880
+Brazil,BRA,2008,7218
+Brazil,BRA,2009,6633
+Brazil,BRA,2010,6140
+Brazil,BRA,2011,5749
+Brazil,BRA,2012,5439
+Brazil,BRA,2013,5194
+Brazil,BRA,2014,4869
+Brazil,BRA,2015,4693
+Brazil,BRA,2016,4605
+Brazil,BRA,2017,4465
+Brazil,BRA,2018,4375
+Brazil,BRA,2019,4309
+Brunei,BRN,1990,0
+Brunei,BRN,1991,0
+Brunei,BRN,1992,0
+Brunei,BRN,1993,0
+Brunei,BRN,1994,0
+Brunei,BRN,1995,0
+Brunei,BRN,1996,0
+Brunei,BRN,1997,0
+Brunei,BRN,1998,0
+Brunei,BRN,1999,0
+Brunei,BRN,2000,0
+Brunei,BRN,2001,0
+Brunei,BRN,2002,0
+Brunei,BRN,2003,0
+Brunei,BRN,2004,0
+Brunei,BRN,2005,0
+Brunei,BRN,2006,0
+Brunei,BRN,2007,0
+Brunei,BRN,2008,0
+Brunei,BRN,2009,0
+Brunei,BRN,2010,0
+Brunei,BRN,2011,0
+Brunei,BRN,2012,1
+Brunei,BRN,2013,1
+Brunei,BRN,2014,1
+Brunei,BRN,2015,1
+Brunei,BRN,2016,1
+Brunei,BRN,2017,1
+Brunei,BRN,2018,1
+Brunei,BRN,2019,1
+Bulgaria,BGR,1990,21
+Bulgaria,BGR,1991,22
+Bulgaria,BGR,1992,21
+Bulgaria,BGR,1993,20
+Bulgaria,BGR,1994,20
+Bulgaria,BGR,1995,17
+Bulgaria,BGR,1996,16
+Bulgaria,BGR,1997,16
+Bulgaria,BGR,1998,14
+Bulgaria,BGR,1999,13
+Bulgaria,BGR,2000,13
+Bulgaria,BGR,2001,12
+Bulgaria,BGR,2002,12
+Bulgaria,BGR,2003,11
+Bulgaria,BGR,2004,11
+Bulgaria,BGR,2005,12
+Bulgaria,BGR,2006,12
+Bulgaria,BGR,2007,12
+Bulgaria,BGR,2008,12
+Bulgaria,BGR,2009,11
+Bulgaria,BGR,2010,11
+Bulgaria,BGR,2011,10
+Bulgaria,BGR,2012,10
+Bulgaria,BGR,2013,10
+Bulgaria,BGR,2014,11
+Bulgaria,BGR,2015,10
+Bulgaria,BGR,2016,10
+Bulgaria,BGR,2017,9
+Bulgaria,BGR,2018,9
+Bulgaria,BGR,2019,9
+Burkina Faso,BFA,1990,20729
+Burkina Faso,BFA,1991,20536
+Burkina Faso,BFA,1992,20338
+Burkina Faso,BFA,1993,20184
+Burkina Faso,BFA,1994,19956
+Burkina Faso,BFA,1995,19777
+Burkina Faso,BFA,1996,19332
+Burkina Faso,BFA,1997,18770
+Burkina Faso,BFA,1998,18205
+Burkina Faso,BFA,1999,17961
+Burkina Faso,BFA,2000,17971
+Burkina Faso,BFA,2001,17555
+Burkina Faso,BFA,2002,17604
+Burkina Faso,BFA,2003,16570
+Burkina Faso,BFA,2004,15974
+Burkina Faso,BFA,2005,15542
+Burkina Faso,BFA,2006,15142
+Burkina Faso,BFA,2007,14327
+Burkina Faso,BFA,2008,14175
+Burkina Faso,BFA,2009,13752
+Burkina Faso,BFA,2010,13270
+Burkina Faso,BFA,2011,12853
+Burkina Faso,BFA,2012,12634
+Burkina Faso,BFA,2013,12384
+Burkina Faso,BFA,2014,12265
+Burkina Faso,BFA,2015,12602
+Burkina Faso,BFA,2016,13110
+Burkina Faso,BFA,2017,13557
+Burkina Faso,BFA,2018,13357
+Burkina Faso,BFA,2019,12948
+Burundi,BDI,1990,7833
+Burundi,BDI,1991,7815
+Burundi,BDI,1992,8014
+Burundi,BDI,1993,8191
+Burundi,BDI,1994,8282
+Burundi,BDI,1995,8275
+Burundi,BDI,1996,8201
+Burundi,BDI,1997,8212
+Burundi,BDI,1998,8153
+Burundi,BDI,1999,8026
+Burundi,BDI,2000,7918
+Burundi,BDI,2001,7686
+Burundi,BDI,2002,7907
+Burundi,BDI,2003,7913
+Burundi,BDI,2004,7998
+Burundi,BDI,2005,8175
+Burundi,BDI,2006,8132
+Burundi,BDI,2007,8073
+Burundi,BDI,2008,7929
+Burundi,BDI,2009,7855
+Burundi,BDI,2010,8136
+Burundi,BDI,2011,8320
+Burundi,BDI,2012,8552
+Burundi,BDI,2013,8580
+Burundi,BDI,2014,8585
+Burundi,BDI,2015,8343
+Burundi,BDI,2016,7937
+Burundi,BDI,2017,7782
+Burundi,BDI,2018,8130
+Burundi,BDI,2019,8097
+Cambodia,KHM,1990,6256
+Cambodia,KHM,1991,6222
+Cambodia,KHM,1992,6062
+Cambodia,KHM,1993,5962
+Cambodia,KHM,1994,5896
+Cambodia,KHM,1995,5629
+Cambodia,KHM,1996,5286
+Cambodia,KHM,1997,5012
+Cambodia,KHM,1998,4762
+Cambodia,KHM,1999,4463
+Cambodia,KHM,2000,4062
+Cambodia,KHM,2001,3690
+Cambodia,KHM,2002,3412
+Cambodia,KHM,2003,3119
+Cambodia,KHM,2004,2840
+Cambodia,KHM,2005,2577
+Cambodia,KHM,2006,2357
+Cambodia,KHM,2007,2168
+Cambodia,KHM,2008,2006
+Cambodia,KHM,2009,1885
+Cambodia,KHM,2010,1790
+Cambodia,KHM,2011,1699
+Cambodia,KHM,2012,1634
+Cambodia,KHM,2013,1563
+Cambodia,KHM,2014,1521
+Cambodia,KHM,2015,1485
+Cambodia,KHM,2016,1450
+Cambodia,KHM,2017,1439
+Cambodia,KHM,2018,1382
+Cambodia,KHM,2019,1333
+Cameroon,CMR,1990,17826
+Cameroon,CMR,1991,18399
+Cameroon,CMR,1992,18616
+Cameroon,CMR,1993,19039
+Cameroon,CMR,1994,19515
+Cameroon,CMR,1995,19919
+Cameroon,CMR,1996,20366
+Cameroon,CMR,1997,20435
+Cameroon,CMR,1998,20615
+Cameroon,CMR,1999,20755
+Cameroon,CMR,2000,21438
+Cameroon,CMR,2001,22081
+Cameroon,CMR,2002,24776
+Cameroon,CMR,2003,25284
+Cameroon,CMR,2004,25102
+Cameroon,CMR,2005,25093
+Cameroon,CMR,2006,24979
+Cameroon,CMR,2007,23562
+Cameroon,CMR,2008,22613
+Cameroon,CMR,2009,22039
+Cameroon,CMR,2010,22216
+Cameroon,CMR,2011,21741
+Cameroon,CMR,2012,20181
+Cameroon,CMR,2013,19884
+Cameroon,CMR,2014,18939
+Cameroon,CMR,2015,17657
+Cameroon,CMR,2016,18064
+Cameroon,CMR,2017,17517
+Cameroon,CMR,2018,16156
+Cameroon,CMR,2019,15130
+Canada,CAN,1990,8
+Canada,CAN,1991,8
+Canada,CAN,1992,8
+Canada,CAN,1993,9
+Canada,CAN,1994,9
+Canada,CAN,1995,10
+Canada,CAN,1996,12
+Canada,CAN,1997,14
+Canada,CAN,1998,18
+Canada,CAN,1999,23
+Canada,CAN,2000,33
+Canada,CAN,2001,39
+Canada,CAN,2002,44
+Canada,CAN,2003,50
+Canada,CAN,2004,56
+Canada,CAN,2005,58
+Canada,CAN,2006,62
+Canada,CAN,2007,65
+Canada,CAN,2008,66
+Canada,CAN,2009,65
+Canada,CAN,2010,64
+Canada,CAN,2011,64
+Canada,CAN,2012,63
+Canada,CAN,2013,61
+Canada,CAN,2014,59
+Canada,CAN,2015,58
+Canada,CAN,2016,58
+Canada,CAN,2017,57
+Canada,CAN,2018,59
+Canada,CAN,2019,59
+Cape Verde,CPV,1990,254
+Cape Verde,CPV,1991,241
+Cape Verde,CPV,1992,232
+Cape Verde,CPV,1993,220
+Cape Verde,CPV,1994,233
+Cape Verde,CPV,1995,358
+Cape Verde,CPV,1996,160
+Cape Verde,CPV,1997,138
+Cape Verde,CPV,1998,124
+Cape Verde,CPV,1999,114
+Cape Verde,CPV,2000,104
+Cape Verde,CPV,2001,96
+Cape Verde,CPV,2002,89
+Cape Verde,CPV,2003,82
+Cape Verde,CPV,2004,75
+Cape Verde,CPV,2005,69
+Cape Verde,CPV,2006,63
+Cape Verde,CPV,2007,57
+Cape Verde,CPV,2008,52
+Cape Verde,CPV,2009,49
+Cape Verde,CPV,2010,45
+Cape Verde,CPV,2011,43
+Cape Verde,CPV,2012,41
+Cape Verde,CPV,2013,40
+Cape Verde,CPV,2014,39
+Cape Verde,CPV,2015,38
+Cape Verde,CPV,2016,38
+Cape Verde,CPV,2017,37
+Cape Verde,CPV,2018,39
+Cape Verde,CPV,2019,36
+Caribbean,,1990,12483
+Caribbean,,1991,12304
+Caribbean,,1992,12115
+Caribbean,,1993,11896
+Caribbean,,1994,11662
+Caribbean,,1995,11135
+Caribbean,,1996,10266
+Caribbean,,1997,9518
+Caribbean,,1998,8896
+Caribbean,,1999,8365
+Caribbean,,2000,7866
+Caribbean,,2001,7409
+Caribbean,,2002,6983
+Caribbean,,2003,6702
+Caribbean,,2004,6478
+Caribbean,,2005,6201
+Caribbean,,2006,5921
+Caribbean,,2007,5693
+Caribbean,,2008,5475
+Caribbean,,2009,5257
+Caribbean,,2010,6277
+Caribbean,,2011,9927
+Caribbean,,2012,5068
+Caribbean,,2013,5474
+Caribbean,,2014,5156
+Caribbean,,2015,5067
+Caribbean,,2016,5331
+Caribbean,,2017,4848
+Caribbean,,2018,4672
+Caribbean,,2019,4528
+Central African Republic,CAF,1990,6365
+Central African Republic,CAF,1991,6394
+Central African Republic,CAF,1992,6462
+Central African Republic,CAF,1993,6593
+Central African Republic,CAF,1994,6657
+Central African Republic,CAF,1995,6654
+Central African Republic,CAF,1996,6639
+Central African Republic,CAF,1997,6663
+Central African Republic,CAF,1998,6603
+Central African Republic,CAF,1999,6594
+Central African Republic,CAF,2000,6526
+Central African Republic,CAF,2001,6506
+Central African Republic,CAF,2002,6486
+Central African Republic,CAF,2003,6429
+Central African Republic,CAF,2004,6393
+Central African Republic,CAF,2005,6359
+Central African Republic,CAF,2006,6618
+Central African Republic,CAF,2007,6685
+Central African Republic,CAF,2008,6759
+Central African Republic,CAF,2009,6887
+Central African Republic,CAF,2010,7002
+Central African Republic,CAF,2011,7089
+Central African Republic,CAF,2012,7063
+Central African Republic,CAF,2013,7130
+Central African Republic,CAF,2014,7237
+Central African Republic,CAF,2015,7403
+Central African Republic,CAF,2016,7589
+Central African Republic,CAF,2017,7682
+Central African Republic,CAF,2018,7470
+Central African Republic,CAF,2019,7366
+Central Asia,,1990,9889
+Central Asia,,1991,9584
+Central Asia,,1992,9354
+Central Asia,,1993,9018
+Central Asia,,1994,8867
+Central Asia,,1995,8394
+Central Asia,,1996,7751
+Central Asia,,1997,7149
+Central Asia,,1998,6415
+Central Asia,,1999,5605
+Central Asia,,2000,4884
+Central Asia,,2001,4097
+Central Asia,,2002,3402
+Central Asia,,2003,2847
+Central Asia,,2004,2395
+Central Asia,,2005,2094
+Central Asia,,2006,1948
+Central Asia,,2007,1785
+Central Asia,,2008,1652
+Central Asia,,2009,1541
+Central Asia,,2010,1439
+Central Asia,,2011,1339
+Central Asia,,2012,1263
+Central Asia,,2013,1199
+Central Asia,,2014,1133
+Central Asia,,2015,1043
+Central Asia,,2016,983
+Central Asia,,2017,952
+Central Asia,,2018,912
+Central Asia,,2019,875
+Central Europe,,1990,513
+Central Europe,,1991,450
+Central Europe,,1992,424
+Central Europe,,1993,400
+Central Europe,,1994,398
+Central Europe,,1995,325
+Central Europe,,1996,299
+Central Europe,,1997,274
+Central Europe,,1998,249
+Central Europe,,1999,217
+Central Europe,,2000,200
+Central Europe,,2001,177
+Central Europe,,2002,160
+Central Europe,,2003,150
+Central Europe,,2004,144
+Central Europe,,2005,140
+Central Europe,,2006,137
+Central Europe,,2007,137
+Central Europe,,2008,145
+Central Europe,,2009,159
+Central Europe,,2010,180
+Central Europe,,2011,214
+Central Europe,,2012,254
+Central Europe,,2013,292
+Central Europe,,2014,320
+Central Europe,,2015,344
+Central Europe,,2016,341
+Central Europe,,2017,322
+Central Europe,,2018,295
+Central Europe,,2019,275
+"Central Europe, Eastern Europe, and Central Asia",,1990,11533
+"Central Europe, Eastern Europe, and Central Asia",,1991,11092
+"Central Europe, Eastern Europe, and Central Asia",,1992,10797
+"Central Europe, Eastern Europe, and Central Asia",,1993,10514
+"Central Europe, Eastern Europe, and Central Asia",,1994,10427
+"Central Europe, Eastern Europe, and Central Asia",,1995,9767
+"Central Europe, Eastern Europe, and Central Asia",,1996,8952
+"Central Europe, Eastern Europe, and Central Asia",,1997,8234
+"Central Europe, Eastern Europe, and Central Asia",,1998,7426
+"Central Europe, Eastern Europe, and Central Asia",,1999,6594
+"Central Europe, Eastern Europe, and Central Asia",,2000,5800
+"Central Europe, Eastern Europe, and Central Asia",,2001,4935
+"Central Europe, Eastern Europe, and Central Asia",,2002,4154
+"Central Europe, Eastern Europe, and Central Asia",,2003,3532
+"Central Europe, Eastern Europe, and Central Asia",,2004,3000
+"Central Europe, Eastern Europe, and Central Asia",,2005,2649
+"Central Europe, Eastern Europe, and Central Asia",,2006,2441
+"Central Europe, Eastern Europe, and Central Asia",,2007,2244
+"Central Europe, Eastern Europe, and Central Asia",,2008,2096
+"Central Europe, Eastern Europe, and Central Asia",,2009,1978
+"Central Europe, Eastern Europe, and Central Asia",,2010,1887
+"Central Europe, Eastern Europe, and Central Asia",,2011,1820
+"Central Europe, Eastern Europe, and Central Asia",,2012,1794
+"Central Europe, Eastern Europe, and Central Asia",,2013,1762
+"Central Europe, Eastern Europe, and Central Asia",,2014,1720
+"Central Europe, Eastern Europe, and Central Asia",,2015,1648
+"Central Europe, Eastern Europe, and Central Asia",,2016,1574
+"Central Europe, Eastern Europe, and Central Asia",,2017,1508
+"Central Europe, Eastern Europe, and Central Asia",,2018,1436
+"Central Europe, Eastern Europe, and Central Asia",,2019,1371
+Central Latin America,,1990,38744
+Central Latin America,,1991,35716
+Central Latin America,,1992,32592
+Central Latin America,,1993,29977
+Central Latin America,,1994,27113
+Central Latin America,,1995,24248
+Central Latin America,,1996,21848
+Central Latin America,,1997,19715
+Central Latin America,,1998,17907
+Central Latin America,,1999,15967
+Central Latin America,,2000,14621
+Central Latin America,,2001,13632
+Central Latin America,,2002,12930
+Central Latin America,,2003,12430
+Central Latin America,,2004,11553
+Central Latin America,,2005,10810
+Central Latin America,,2006,10002
+Central Latin America,,2007,9421
+Central Latin America,,2008,8996
+Central Latin America,,2009,8609
+Central Latin America,,2010,8206
+Central Latin America,,2011,7880
+Central Latin America,,2012,7647
+Central Latin America,,2013,7497
+Central Latin America,,2014,7377
+Central Latin America,,2015,7243
+Central Latin America,,2016,7159
+Central Latin America,,2017,7043
+Central Latin America,,2018,7012
+Central Latin America,,2019,7024
+Central sub-Saharan Africa,,1990,74186
+Central sub-Saharan Africa,,1991,75977
+Central sub-Saharan Africa,,1992,77487
+Central sub-Saharan Africa,,1993,80187
+Central sub-Saharan Africa,,1994,87334
+Central sub-Saharan Africa,,1995,87179
+Central sub-Saharan Africa,,1996,90882
+Central sub-Saharan Africa,,1997,95042
+Central sub-Saharan Africa,,1998,100557
+Central sub-Saharan Africa,,1999,102045
+Central sub-Saharan Africa,,2000,103536
+Central sub-Saharan Africa,,2001,101248
+Central sub-Saharan Africa,,2002,98525
+Central sub-Saharan Africa,,2003,96419
+Central sub-Saharan Africa,,2004,93486
+Central sub-Saharan Africa,,2005,91586
+Central sub-Saharan Africa,,2006,92275
+Central sub-Saharan Africa,,2007,90962
+Central sub-Saharan Africa,,2008,89597
+Central sub-Saharan Africa,,2009,88376
+Central sub-Saharan Africa,,2010,86112
+Central sub-Saharan Africa,,2011,83591
+Central sub-Saharan Africa,,2012,80035
+Central sub-Saharan Africa,,2013,75450
+Central sub-Saharan Africa,,2014,70835
+Central sub-Saharan Africa,,2015,66427
+Central sub-Saharan Africa,,2016,62022
+Central sub-Saharan Africa,,2017,58055
+Central sub-Saharan Africa,,2018,53072
+Central sub-Saharan Africa,,2019,49514
+Chad,TCD,1990,15407
+Chad,TCD,1991,16589
+Chad,TCD,1992,15682
+Chad,TCD,1993,15985
+Chad,TCD,1994,16274
+Chad,TCD,1995,16514
+Chad,TCD,1996,16974
+Chad,TCD,1997,17810
+Chad,TCD,1998,18169
+Chad,TCD,1999,18716
+Chad,TCD,2000,19651
+Chad,TCD,2001,21010
+Chad,TCD,2002,22041
+Chad,TCD,2003,22921
+Chad,TCD,2004,23535
+Chad,TCD,2005,23652
+Chad,TCD,2006,24598
+Chad,TCD,2007,25497
+Chad,TCD,2008,25743
+Chad,TCD,2009,26048
+Chad,TCD,2010,26451
+Chad,TCD,2011,26490
+Chad,TCD,2012,25934
+Chad,TCD,2013,26288
+Chad,TCD,2014,26064
+Chad,TCD,2015,26604
+Chad,TCD,2016,26757
+Chad,TCD,2017,27131
+Chad,TCD,2018,26666
+Chad,TCD,2019,26457
+Chile,CHL,1990,222
+Chile,CHL,1991,194
+Chile,CHL,1992,171
+Chile,CHL,1993,152
+Chile,CHL,1994,140
+Chile,CHL,1995,135
+Chile,CHL,1996,129
+Chile,CHL,1997,120
+Chile,CHL,1998,114
+Chile,CHL,1999,108
+Chile,CHL,2000,99
+Chile,CHL,2001,92
+Chile,CHL,2002,86
+Chile,CHL,2003,85
+Chile,CHL,2004,82
+Chile,CHL,2005,79
+Chile,CHL,2006,77
+Chile,CHL,2007,77
+Chile,CHL,2008,79
+Chile,CHL,2009,84
+Chile,CHL,2010,89
+Chile,CHL,2011,92
+Chile,CHL,2012,97
+Chile,CHL,2013,104
+Chile,CHL,2014,109
+Chile,CHL,2015,111
+Chile,CHL,2016,109
+Chile,CHL,2017,110
+Chile,CHL,2018,111
+Chile,CHL,2019,111
+China,CHN,1990,75817
+China,CHN,1991,70793
+China,CHN,1992,63643
+China,CHN,1993,57228
+China,CHN,1994,52057
+China,CHN,1995,46248
+China,CHN,1996,41427
+China,CHN,1997,36540
+China,CHN,1998,32743
+China,CHN,1999,29012
+China,CHN,2000,25608
+China,CHN,2001,22280
+China,CHN,2002,19310
+China,CHN,2003,16884
+China,CHN,2004,14627
+China,CHN,2005,12363
+China,CHN,2006,10244
+China,CHN,2007,8531
+China,CHN,2008,7275
+China,CHN,2009,6338
+China,CHN,2010,5503
+China,CHN,2011,4931
+China,CHN,2012,4577
+China,CHN,2013,4305
+China,CHN,2014,4027
+China,CHN,2015,3963
+China,CHN,2016,4055
+China,CHN,2017,3830
+China,CHN,2018,3454
+China,CHN,2019,3270
+Colombia,COL,1990,3265
+Colombia,COL,1991,3172
+Colombia,COL,1992,3071
+Colombia,COL,1993,2881
+Colombia,COL,1994,2688
+Colombia,COL,1995,2450
+Colombia,COL,1996,2265
+Colombia,COL,1997,2020
+Colombia,COL,1998,1806
+Colombia,COL,1999,1650
+Colombia,COL,2000,1490
+Colombia,COL,2001,1367
+Colombia,COL,2002,1366
+Colombia,COL,2003,1275
+Colombia,COL,2004,1175
+Colombia,COL,2005,1060
+Colombia,COL,2006,976
+Colombia,COL,2007,887
+Colombia,COL,2008,805
+Colombia,COL,2009,729
+Colombia,COL,2010,646
+Colombia,COL,2011,573
+Colombia,COL,2012,542
+Colombia,COL,2013,527
+Colombia,COL,2014,519
+Colombia,COL,2015,518
+Colombia,COL,2016,514
+Colombia,COL,2017,517
+Colombia,COL,2018,524
+Colombia,COL,2019,528
+Comoros,COM,1990,504
+Comoros,COM,1991,509
+Comoros,COM,1992,525
+Comoros,COM,1993,515
+Comoros,COM,1994,522
+Comoros,COM,1995,520
+Comoros,COM,1996,519
+Comoros,COM,1997,520
+Comoros,COM,1998,550
+Comoros,COM,1999,522
+Comoros,COM,2000,584
+Comoros,COM,2001,481
+Comoros,COM,2002,490
+Comoros,COM,2003,421
+Comoros,COM,2004,402
+Comoros,COM,2005,385
+Comoros,COM,2006,352
+Comoros,COM,2007,383
+Comoros,COM,2008,345
+Comoros,COM,2009,310
+Comoros,COM,2010,274
+Comoros,COM,2011,269
+Comoros,COM,2012,252
+Comoros,COM,2013,245
+Comoros,COM,2014,270
+Comoros,COM,2015,266
+Comoros,COM,2016,259
+Comoros,COM,2017,256
+Comoros,COM,2018,238
+Comoros,COM,2019,226
+Congo,COG,1990,3028
+Congo,COG,1991,3011
+Congo,COG,1992,3023
+Congo,COG,1993,3050
+Congo,COG,1994,3148
+Congo,COG,1995,3195
+Congo,COG,1996,3214
+Congo,COG,1997,3278
+Congo,COG,1998,3239
+Congo,COG,1999,3247
+Congo,COG,2000,3231
+Congo,COG,2001,3197
+Congo,COG,2002,3204
+Congo,COG,2003,3230
+Congo,COG,2004,3236
+Congo,COG,2005,3318
+Congo,COG,2006,3295
+Congo,COG,2007,3299
+Congo,COG,2008,3230
+Congo,COG,2009,3097
+Congo,COG,2010,2861
+Congo,COG,2011,2650
+Congo,COG,2012,2476
+Congo,COG,2013,2266
+Congo,COG,2014,2079
+Congo,COG,2015,1940
+Congo,COG,2016,1813
+Congo,COG,2017,1742
+Congo,COG,2018,1635
+Congo,COG,2019,1561
+Cook Islands,COK,1990,0
+Cook Islands,COK,1991,0
+Cook Islands,COK,1992,0
+Cook Islands,COK,1993,0
+Cook Islands,COK,1994,0
+Cook Islands,COK,1995,0
+Cook Islands,COK,1996,0
+Cook Islands,COK,1997,0
+Cook Islands,COK,1998,0
+Cook Islands,COK,1999,0
+Cook Islands,COK,2000,0
+Cook Islands,COK,2001,0
+Cook Islands,COK,2002,0
+Cook Islands,COK,2003,0
+Cook Islands,COK,2004,0
+Cook Islands,COK,2005,0
+Cook Islands,COK,2006,0
+Cook Islands,COK,2007,0
+Cook Islands,COK,2008,0
+Cook Islands,COK,2009,0
+Cook Islands,COK,2010,0
+Cook Islands,COK,2011,0
+Cook Islands,COK,2012,0
+Cook Islands,COK,2013,0
+Cook Islands,COK,2014,0
+Cook Islands,COK,2015,0
+Cook Islands,COK,2016,0
+Cook Islands,COK,2017,0
+Cook Islands,COK,2018,0
+Cook Islands,COK,2019,0
+Costa Rica,CRI,1990,89
+Costa Rica,CRI,1991,80
+Costa Rica,CRI,1992,74
+Costa Rica,CRI,1993,71
+Costa Rica,CRI,1994,72
+Costa Rica,CRI,1995,74
+Costa Rica,CRI,1996,70
+Costa Rica,CRI,1997,70
+Costa Rica,CRI,1998,66
+Costa Rica,CRI,1999,62
+Costa Rica,CRI,2000,57
+Costa Rica,CRI,2001,57
+Costa Rica,CRI,2002,54
+Costa Rica,CRI,2003,52
+Costa Rica,CRI,2004,51
+Costa Rica,CRI,2005,46
+Costa Rica,CRI,2006,45
+Costa Rica,CRI,2007,42
+Costa Rica,CRI,2008,41
+Costa Rica,CRI,2009,43
+Costa Rica,CRI,2010,48
+Costa Rica,CRI,2011,47
+Costa Rica,CRI,2012,49
+Costa Rica,CRI,2013,50
+Costa Rica,CRI,2014,52
+Costa Rica,CRI,2015,54
+Costa Rica,CRI,2016,56
+Costa Rica,CRI,2017,55
+Costa Rica,CRI,2018,55
+Costa Rica,CRI,2019,55
+Cote d'Ivoire,CIV,1990,10439
+Cote d'Ivoire,CIV,1991,10813
+Cote d'Ivoire,CIV,1992,11128
+Cote d'Ivoire,CIV,1993,11629
+Cote d'Ivoire,CIV,1994,12137
+Cote d'Ivoire,CIV,1995,12696
+Cote d'Ivoire,CIV,1996,12693
+Cote d'Ivoire,CIV,1997,12773
+Cote d'Ivoire,CIV,1998,12765
+Cote d'Ivoire,CIV,1999,12608
+Cote d'Ivoire,CIV,2000,12265
+Cote d'Ivoire,CIV,2001,11764
+Cote d'Ivoire,CIV,2002,11066
+Cote d'Ivoire,CIV,2003,10556
+Cote d'Ivoire,CIV,2004,10270
+Cote d'Ivoire,CIV,2005,9964
+Cote d'Ivoire,CIV,2006,10131
+Cote d'Ivoire,CIV,2007,9706
+Cote d'Ivoire,CIV,2008,9244
+Cote d'Ivoire,CIV,2009,8895
+Cote d'Ivoire,CIV,2010,8502
+Cote d'Ivoire,CIV,2011,8057
+Cote d'Ivoire,CIV,2012,8129
+Cote d'Ivoire,CIV,2013,8260
+Cote d'Ivoire,CIV,2014,8227
+Cote d'Ivoire,CIV,2015,8198
+Cote d'Ivoire,CIV,2016,7692
+Cote d'Ivoire,CIV,2017,7229
+Cote d'Ivoire,CIV,2018,6741
+Cote d'Ivoire,CIV,2019,6214
+Croatia,HRV,1990,7
+Croatia,HRV,1991,7
+Croatia,HRV,1992,7
+Croatia,HRV,1993,7
+Croatia,HRV,1994,6
+Croatia,HRV,1995,5
+Croatia,HRV,1996,5
+Croatia,HRV,1997,5
+Croatia,HRV,1998,5
+Croatia,HRV,1999,4
+Croatia,HRV,2000,4
+Croatia,HRV,2001,4
+Croatia,HRV,2002,4
+Croatia,HRV,2003,4
+Croatia,HRV,2004,5
+Croatia,HRV,2005,5
+Croatia,HRV,2006,5
+Croatia,HRV,2007,5
+Croatia,HRV,2008,5
+Croatia,HRV,2009,5
+Croatia,HRV,2010,6
+Croatia,HRV,2011,6
+Croatia,HRV,2012,7
+Croatia,HRV,2013,7
+Croatia,HRV,2014,9
+Croatia,HRV,2015,9
+Croatia,HRV,2016,10
+Croatia,HRV,2017,9
+Croatia,HRV,2018,8
+Croatia,HRV,2019,8
+Cuba,CUB,1990,386
+Cuba,CUB,1991,412
+Cuba,CUB,1992,450
+Cuba,CUB,1993,504
+Cuba,CUB,1994,526
+Cuba,CUB,1995,515
+Cuba,CUB,1996,478
+Cuba,CUB,1997,434
+Cuba,CUB,1998,393
+Cuba,CUB,1999,344
+Cuba,CUB,2000,287
+Cuba,CUB,2001,260
+Cuba,CUB,2002,233
+Cuba,CUB,2003,220
+Cuba,CUB,2004,213
+Cuba,CUB,2005,214
+Cuba,CUB,2006,191
+Cuba,CUB,2007,186
+Cuba,CUB,2008,192
+Cuba,CUB,2009,196
+Cuba,CUB,2010,205
+Cuba,CUB,2011,200
+Cuba,CUB,2012,209
+Cuba,CUB,2013,212
+Cuba,CUB,2014,212
+Cuba,CUB,2015,205
+Cuba,CUB,2016,196
+Cuba,CUB,2017,205
+Cuba,CUB,2018,205
+Cuba,CUB,2019,199
+Cyprus,CYP,1990,1
+Cyprus,CYP,1991,1
+Cyprus,CYP,1992,1
+Cyprus,CYP,1993,1
+Cyprus,CYP,1994,1
+Cyprus,CYP,1995,1
+Cyprus,CYP,1996,1
+Cyprus,CYP,1997,1
+Cyprus,CYP,1998,1
+Cyprus,CYP,1999,1
+Cyprus,CYP,2000,1
+Cyprus,CYP,2001,0
+Cyprus,CYP,2002,0
+Cyprus,CYP,2003,0
+Cyprus,CYP,2004,1
+Cyprus,CYP,2005,1
+Cyprus,CYP,2006,1
+Cyprus,CYP,2007,1
+Cyprus,CYP,2008,1
+Cyprus,CYP,2009,1
+Cyprus,CYP,2010,1
+Cyprus,CYP,2011,1
+Cyprus,CYP,2012,1
+Cyprus,CYP,2013,1
+Cyprus,CYP,2014,1
+Cyprus,CYP,2015,1
+Cyprus,CYP,2016,1
+Cyprus,CYP,2017,1
+Cyprus,CYP,2018,1
+Cyprus,CYP,2019,1
+Czechia,CZE,1990,7
+Czechia,CZE,1991,6
+Czechia,CZE,1992,6
+Czechia,CZE,1993,5
+Czechia,CZE,1994,5
+Czechia,CZE,1995,4
+Czechia,CZE,1996,4
+Czechia,CZE,1997,4
+Czechia,CZE,1998,4
+Czechia,CZE,1999,4
+Czechia,CZE,2000,4
+Czechia,CZE,2001,4
+Czechia,CZE,2002,5
+Czechia,CZE,2003,6
+Czechia,CZE,2004,7
+Czechia,CZE,2005,8
+Czechia,CZE,2006,11
+Czechia,CZE,2007,14
+Czechia,CZE,2008,19
+Czechia,CZE,2009,25
+Czechia,CZE,2010,33
+Czechia,CZE,2011,44
+Czechia,CZE,2012,55
+Czechia,CZE,2013,63
+Czechia,CZE,2014,68
+Czechia,CZE,2015,73
+Czechia,CZE,2016,73
+Czechia,CZE,2017,70
+Czechia,CZE,2018,62
+Czechia,CZE,2019,57
+Democratic Republic of Congo,COD,1990,31698
+Democratic Republic of Congo,COD,1991,33207
+Democratic Republic of Congo,COD,1992,34559
+Democratic Republic of Congo,COD,1993,36578
+Democratic Republic of Congo,COD,1994,42628
+Democratic Republic of Congo,COD,1995,41987
+Democratic Republic of Congo,COD,1996,46625
+Democratic Republic of Congo,COD,1997,51483
+Democratic Republic of Congo,COD,1998,57684
+Democratic Republic of Congo,COD,1999,60257
+Democratic Republic of Congo,COD,2000,63002
+Democratic Republic of Congo,COD,2001,62721
+Democratic Republic of Congo,COD,2002,61986
+Democratic Republic of Congo,COD,2003,61880
+Democratic Republic of Congo,COD,2004,59979
+Democratic Republic of Congo,COD,2005,59530
+Democratic Republic of Congo,COD,2006,59498
+Democratic Republic of Congo,COD,2007,59871
+Democratic Republic of Congo,COD,2008,59450
+Democratic Republic of Congo,COD,2009,59055
+Democratic Republic of Congo,COD,2010,57344
+Democratic Republic of Congo,COD,2011,55283
+Democratic Republic of Congo,COD,2012,52488
+Democratic Republic of Congo,COD,2013,48808
+Democratic Republic of Congo,COD,2014,45497
+Democratic Republic of Congo,COD,2015,41961
+Democratic Republic of Congo,COD,2016,38710
+Democratic Republic of Congo,COD,2017,35294
+Democratic Republic of Congo,COD,2018,31932
+Democratic Republic of Congo,COD,2019,29153
+Denmark,DNK,1990,4
+Denmark,DNK,1991,4
+Denmark,DNK,1992,4
+Denmark,DNK,1993,4
+Denmark,DNK,1994,4
+Denmark,DNK,1995,4
+Denmark,DNK,1996,4
+Denmark,DNK,1997,4
+Denmark,DNK,1998,3
+Denmark,DNK,1999,4
+Denmark,DNK,2000,4
+Denmark,DNK,2001,4
+Denmark,DNK,2002,5
+Denmark,DNK,2003,6
+Denmark,DNK,2004,6
+Denmark,DNK,2005,7
+Denmark,DNK,2006,8
+Denmark,DNK,2007,8
+Denmark,DNK,2008,9
+Denmark,DNK,2009,9
+Denmark,DNK,2010,10
+Denmark,DNK,2011,10
+Denmark,DNK,2012,10
+Denmark,DNK,2013,10
+Denmark,DNK,2014,10
+Denmark,DNK,2015,10
+Denmark,DNK,2016,10
+Denmark,DNK,2017,10
+Denmark,DNK,2018,10
+Denmark,DNK,2019,10
+Djibouti,DJI,1990,546
+Djibouti,DJI,1991,527
+Djibouti,DJI,1992,523
+Djibouti,DJI,1993,615
+Djibouti,DJI,1994,537
+Djibouti,DJI,1995,537
+Djibouti,DJI,1996,517
+Djibouti,DJI,1997,521
+Djibouti,DJI,1998,493
+Djibouti,DJI,1999,475
+Djibouti,DJI,2000,463
+Djibouti,DJI,2001,437
+Djibouti,DJI,2002,407
+Djibouti,DJI,2003,381
+Djibouti,DJI,2004,372
+Djibouti,DJI,2005,339
+Djibouti,DJI,2006,337
+Djibouti,DJI,2007,333
+Djibouti,DJI,2008,320
+Djibouti,DJI,2009,310
+Djibouti,DJI,2010,324
+Djibouti,DJI,2011,307
+Djibouti,DJI,2012,304
+Djibouti,DJI,2013,303
+Djibouti,DJI,2014,284
+Djibouti,DJI,2015,281
+Djibouti,DJI,2016,284
+Djibouti,DJI,2017,284
+Djibouti,DJI,2018,274
+Djibouti,DJI,2019,264
+Dominica,DMA,1990,3
+Dominica,DMA,1991,4
+Dominica,DMA,1992,3
+Dominica,DMA,1993,3
+Dominica,DMA,1994,3
+Dominica,DMA,1995,3
+Dominica,DMA,1996,3
+Dominica,DMA,1997,3
+Dominica,DMA,1998,2
+Dominica,DMA,1999,2
+Dominica,DMA,2000,2
+Dominica,DMA,2001,2
+Dominica,DMA,2002,2
+Dominica,DMA,2003,2
+Dominica,DMA,2004,2
+Dominica,DMA,2005,2
+Dominica,DMA,2006,2
+Dominica,DMA,2007,2
+Dominica,DMA,2008,2
+Dominica,DMA,2009,2
+Dominica,DMA,2010,2
+Dominica,DMA,2011,1
+Dominica,DMA,2012,1
+Dominica,DMA,2013,1
+Dominica,DMA,2014,1
+Dominica,DMA,2015,1
+Dominica,DMA,2016,1
+Dominica,DMA,2017,1
+Dominica,DMA,2018,1
+Dominica,DMA,2019,1
+Dominican Republic,DOM,1990,2577
+Dominican Republic,DOM,1991,2565
+Dominican Republic,DOM,1992,2478
+Dominican Republic,DOM,1993,2387
+Dominican Republic,DOM,1994,2272
+Dominican Republic,DOM,1995,2143
+Dominican Republic,DOM,1996,1939
+Dominican Republic,DOM,1997,1773
+Dominican Republic,DOM,1998,1600
+Dominican Republic,DOM,1999,1422
+Dominican Republic,DOM,2000,1292
+Dominican Republic,DOM,2001,1128
+Dominican Republic,DOM,2002,985
+Dominican Republic,DOM,2003,896
+Dominican Republic,DOM,2004,822
+Dominican Republic,DOM,2005,739
+Dominican Republic,DOM,2006,644
+Dominican Republic,DOM,2007,565
+Dominican Republic,DOM,2008,511
+Dominican Republic,DOM,2009,484
+Dominican Republic,DOM,2010,473
+Dominican Republic,DOM,2011,564
+Dominican Republic,DOM,2012,606
+Dominican Republic,DOM,2013,512
+Dominican Republic,DOM,2014,489
+Dominican Republic,DOM,2015,498
+Dominican Republic,DOM,2016,499
+Dominican Republic,DOM,2017,469
+Dominican Republic,DOM,2018,458
+Dominican Republic,DOM,2019,450
+East Asia,,1990,76546
+East Asia,,1991,71469
+East Asia,,1992,64269
+East Asia,,1993,57813
+East Asia,,1994,52609
+East Asia,,1995,46772
+East Asia,,1996,41929
+East Asia,,1997,37021
+East Asia,,1998,33205
+East Asia,,1999,29454
+East Asia,,2000,26032
+East Asia,,2001,22677
+East Asia,,2002,19680
+East Asia,,2003,17231
+East Asia,,2004,14953
+East Asia,,2005,12665
+East Asia,,2006,10524
+East Asia,,2007,8791
+East Asia,,2008,7541
+East Asia,,2009,6593
+East Asia,,2010,5745
+East Asia,,2011,5164
+East Asia,,2012,4800
+East Asia,,2013,4516
+East Asia,,2014,4231
+East Asia,,2015,4157
+East Asia,,2016,4241
+East Asia,,2017,4007
+East Asia,,2018,3618
+East Asia,,2019,3424
+East Asia & Pacific,,1990,275997
+East Asia & Pacific,,1991,262132
+East Asia & Pacific,,1992,246957
+East Asia & Pacific,,1993,232960
+East Asia & Pacific,,1994,220216
+East Asia & Pacific,,1995,205741
+East Asia & Pacific,,1996,191804
+East Asia & Pacific,,1997,178817
+East Asia & Pacific,,1998,169295
+East Asia & Pacific,,1999,160730
+East Asia & Pacific,,2000,151700
+East Asia & Pacific,,2001,142975
+East Asia & Pacific,,2002,135562
+East Asia & Pacific,,2003,128683
+East Asia & Pacific,,2004,122244
+East Asia & Pacific,,2005,117125
+East Asia & Pacific,,2006,111858
+East Asia & Pacific,,2007,106932
+East Asia & Pacific,,2008,102932
+East Asia & Pacific,,2009,99243
+East Asia & Pacific,,2010,94793
+East Asia & Pacific,,2011,91064
+East Asia & Pacific,,2012,88203
+East Asia & Pacific,,2013,85469
+East Asia & Pacific,,2014,83339
+East Asia & Pacific,,2015,81826
+East Asia & Pacific,,2016,80237
+East Asia & Pacific,,2017,79175
+East Asia & Pacific,,2018,76451
+East Asia & Pacific,,2019,74574
+Eastern Europe,,1990,1131
+Eastern Europe,,1991,1058
+Eastern Europe,,1992,1019
+Eastern Europe,,1993,1097
+Eastern Europe,,1994,1162
+Eastern Europe,,1995,1048
+Eastern Europe,,1996,902
+Eastern Europe,,1997,810
+Eastern Europe,,1998,761
+Eastern Europe,,1999,771
+Eastern Europe,,2000,716
+Eastern Europe,,2001,661
+Eastern Europe,,2002,592
+Eastern Europe,,2003,535
+Eastern Europe,,2004,461
+Eastern Europe,,2005,415
+Eastern Europe,,2006,355
+Eastern Europe,,2007,321
+Eastern Europe,,2008,300
+Eastern Europe,,2009,278
+Eastern Europe,,2010,267
+Eastern Europe,,2011,267
+Eastern Europe,,2012,277
+Eastern Europe,,2013,272
+Eastern Europe,,2014,267
+Eastern Europe,,2015,261
+Eastern Europe,,2016,250
+Eastern Europe,,2017,235
+Eastern Europe,,2018,228
+Eastern Europe,,2019,222
+Eastern Mediterranean Region,,1990,208692
+Eastern Mediterranean Region,,1991,204064
+Eastern Mediterranean Region,,1992,202012
+Eastern Mediterranean Region,,1993,202230
+Eastern Mediterranean Region,,1994,201205
+Eastern Mediterranean Region,,1995,198112
+Eastern Mediterranean Region,,1996,193676
+Eastern Mediterranean Region,,1997,190670
+Eastern Mediterranean Region,,1998,188756
+Eastern Mediterranean Region,,1999,183933
+Eastern Mediterranean Region,,2000,178691
+Eastern Mediterranean Region,,2001,172020
+Eastern Mediterranean Region,,2002,167500
+Eastern Mediterranean Region,,2003,163807
+Eastern Mediterranean Region,,2004,158697
+Eastern Mediterranean Region,,2005,153073
+Eastern Mediterranean Region,,2006,148669
+Eastern Mediterranean Region,,2007,145425
+Eastern Mediterranean Region,,2008,145204
+Eastern Mediterranean Region,,2009,142105
+Eastern Mediterranean Region,,2010,136887
+Eastern Mediterranean Region,,2011,133270
+Eastern Mediterranean Region,,2012,128465
+Eastern Mediterranean Region,,2013,123703
+Eastern Mediterranean Region,,2014,119746
+Eastern Mediterranean Region,,2015,115667
+Eastern Mediterranean Region,,2016,112844
+Eastern Mediterranean Region,,2017,111831
+Eastern Mediterranean Region,,2018,104337
+Eastern Mediterranean Region,,2019,100378
+Eastern sub-Saharan Africa,,1990,278853
+Eastern sub-Saharan Africa,,1991,284068
+Eastern sub-Saharan Africa,,1992,289250
+Eastern sub-Saharan Africa,,1993,288747
+Eastern sub-Saharan Africa,,1994,301368
+Eastern sub-Saharan Africa,,1995,295908
+Eastern sub-Saharan Africa,,1996,292733
+Eastern sub-Saharan Africa,,1997,290353
+Eastern sub-Saharan Africa,,1998,282536
+Eastern sub-Saharan Africa,,1999,273647
+Eastern sub-Saharan Africa,,2000,261774
+Eastern sub-Saharan Africa,,2001,252990
+Eastern sub-Saharan Africa,,2002,240334
+Eastern sub-Saharan Africa,,2003,230309
+Eastern sub-Saharan Africa,,2004,221543
+Eastern sub-Saharan Africa,,2005,214653
+Eastern sub-Saharan Africa,,2006,210564
+Eastern sub-Saharan Africa,,2007,206422
+Eastern sub-Saharan Africa,,2008,200120
+Eastern sub-Saharan Africa,,2009,194310
+Eastern sub-Saharan Africa,,2010,187470
+Eastern sub-Saharan Africa,,2011,184687
+Eastern sub-Saharan Africa,,2012,179518
+Eastern sub-Saharan Africa,,2013,175852
+Eastern sub-Saharan Africa,,2014,173984
+Eastern sub-Saharan Africa,,2015,170137
+Eastern sub-Saharan Africa,,2016,166540
+Eastern sub-Saharan Africa,,2017,164374
+Eastern sub-Saharan Africa,,2018,158054
+Eastern sub-Saharan Africa,,2019,152512
+Ecuador,ECU,1990,2014
+Ecuador,ECU,1991,2117
+Ecuador,ECU,1992,1848
+Ecuador,ECU,1993,1600
+Ecuador,ECU,1994,1410
+Ecuador,ECU,1995,1292
+Ecuador,ECU,1996,1203
+Ecuador,ECU,1997,1078
+Ecuador,ECU,1998,972
+Ecuador,ECU,1999,866
+Ecuador,ECU,2000,774
+Ecuador,ECU,2001,700
+Ecuador,ECU,2002,671
+Ecuador,ECU,2003,641
+Ecuador,ECU,2004,610
+Ecuador,ECU,2005,568
+Ecuador,ECU,2006,517
+Ecuador,ECU,2007,456
+Ecuador,ECU,2008,419
+Ecuador,ECU,2009,394
+Ecuador,ECU,2010,370
+Ecuador,ECU,2011,334
+Ecuador,ECU,2012,308
+Ecuador,ECU,2013,293
+Ecuador,ECU,2014,286
+Ecuador,ECU,2015,278
+Ecuador,ECU,2016,274
+Ecuador,ECU,2017,275
+Ecuador,ECU,2018,274
+Ecuador,ECU,2019,276
+Egypt,EGY,1990,25660
+Egypt,EGY,1991,23055
+Egypt,EGY,1992,20355
+Egypt,EGY,1993,17816
+Egypt,EGY,1994,15720
+Egypt,EGY,1995,14038
+Egypt,EGY,1996,12524
+Egypt,EGY,1997,11576
+Egypt,EGY,1998,10904
+Egypt,EGY,1999,10169
+Egypt,EGY,2000,9251
+Egypt,EGY,2001,8697
+Egypt,EGY,2002,8271
+Egypt,EGY,2003,7945
+Egypt,EGY,2004,7372
+Egypt,EGY,2005,6948
+Egypt,EGY,2006,6631
+Egypt,EGY,2007,6737
+Egypt,EGY,2008,6678
+Egypt,EGY,2009,6457
+Egypt,EGY,2010,6203
+Egypt,EGY,2011,6052
+Egypt,EGY,2012,5952
+Egypt,EGY,2013,6029
+Egypt,EGY,2014,5581
+Egypt,EGY,2015,5137
+Egypt,EGY,2016,4476
+Egypt,EGY,2017,4036
+Egypt,EGY,2018,3635
+Egypt,EGY,2019,3322
+El Salvador,SLV,1990,2004
+El Salvador,SLV,1991,1977
+El Salvador,SLV,1992,1757
+El Salvador,SLV,1993,1592
+El Salvador,SLV,1994,1482
+El Salvador,SLV,1995,1321
+El Salvador,SLV,1996,1193
+El Salvador,SLV,1997,1064
+El Salvador,SLV,1998,935
+El Salvador,SLV,1999,789
+El Salvador,SLV,2000,662
+El Salvador,SLV,2001,557
+El Salvador,SLV,2002,479
+El Salvador,SLV,2003,422
+El Salvador,SLV,2004,379
+El Salvador,SLV,2005,338
+El Salvador,SLV,2006,301
+El Salvador,SLV,2007,276
+El Salvador,SLV,2008,259
+El Salvador,SLV,2009,254
+El Salvador,SLV,2010,242
+El Salvador,SLV,2011,237
+El Salvador,SLV,2012,231
+El Salvador,SLV,2013,231
+El Salvador,SLV,2014,235
+El Salvador,SLV,2015,231
+El Salvador,SLV,2016,226
+El Salvador,SLV,2017,224
+El Salvador,SLV,2018,221
+El Salvador,SLV,2019,221
+England,,1990,6
+England,,1991,7
+England,,1992,8
+England,,1993,9
+England,,1994,10
+England,,1995,11
+England,,1996,13
+England,,1997,15
+England,,1998,18
+England,,1999,20
+England,,2000,24
+England,,2001,29
+England,,2002,35
+England,,2003,42
+England,,2004,49
+England,,2005,57
+England,,2006,64
+England,,2007,66
+England,,2008,61
+England,,2009,54
+England,,2010,48
+England,,2011,43
+England,,2012,39
+England,,2013,37
+England,,2014,34
+England,,2015,33
+England,,2016,31
+England,,2017,30
+England,,2018,32
+England,,2019,32
+Equatorial Guinea,GNQ,1990,1151
+Equatorial Guinea,GNQ,1991,1170
+Equatorial Guinea,GNQ,1992,1175
+Equatorial Guinea,GNQ,1993,1184
+Equatorial Guinea,GNQ,1994,1185
+Equatorial Guinea,GNQ,1995,1183
+Equatorial Guinea,GNQ,1996,1122
+Equatorial Guinea,GNQ,1997,995
+Equatorial Guinea,GNQ,1998,876
+Equatorial Guinea,GNQ,1999,730
+Equatorial Guinea,GNQ,2000,578
+Equatorial Guinea,GNQ,2001,473
+Equatorial Guinea,GNQ,2002,391
+Equatorial Guinea,GNQ,2003,326
+Equatorial Guinea,GNQ,2004,285
+Equatorial Guinea,GNQ,2005,279
+Equatorial Guinea,GNQ,2006,230
+Equatorial Guinea,GNQ,2007,204
+Equatorial Guinea,GNQ,2008,180
+Equatorial Guinea,GNQ,2009,168
+Equatorial Guinea,GNQ,2010,153
+Equatorial Guinea,GNQ,2011,142
+Equatorial Guinea,GNQ,2012,128
+Equatorial Guinea,GNQ,2013,117
+Equatorial Guinea,GNQ,2014,110
+Equatorial Guinea,GNQ,2015,103
+Equatorial Guinea,GNQ,2016,101
+Equatorial Guinea,GNQ,2017,100
+Equatorial Guinea,GNQ,2018,97
+Equatorial Guinea,GNQ,2019,97
+Eritrea,ERI,1990,6415
+Eritrea,ERI,1991,6049
+Eritrea,ERI,1992,5937
+Eritrea,ERI,1993,5784
+Eritrea,ERI,1994,5613
+Eritrea,ERI,1995,5433
+Eritrea,ERI,1996,5164
+Eritrea,ERI,1997,4922
+Eritrea,ERI,1998,4650
+Eritrea,ERI,1999,4467
+Eritrea,ERI,2000,4373
+Eritrea,ERI,2001,4381
+Eritrea,ERI,2002,4516
+Eritrea,ERI,2003,4474
+Eritrea,ERI,2004,4602
+Eritrea,ERI,2005,4580
+Eritrea,ERI,2006,4557
+Eritrea,ERI,2007,4560
+Eritrea,ERI,2008,4571
+Eritrea,ERI,2009,4455
+Eritrea,ERI,2010,4471
+Eritrea,ERI,2011,4389
+Eritrea,ERI,2012,4278
+Eritrea,ERI,2013,4267
+Eritrea,ERI,2014,4073
+Eritrea,ERI,2015,4017
+Eritrea,ERI,2016,3960
+Eritrea,ERI,2017,3883
+Eritrea,ERI,2018,3714
+Eritrea,ERI,2019,3621
+Estonia,EST,1990,2
+Estonia,EST,1991,2
+Estonia,EST,1992,2
+Estonia,EST,1993,1
+Estonia,EST,1994,1
+Estonia,EST,1995,1
+Estonia,EST,1996,1
+Estonia,EST,1997,1
+Estonia,EST,1998,1
+Estonia,EST,1999,1
+Estonia,EST,2000,1
+Estonia,EST,2001,1
+Estonia,EST,2002,1
+Estonia,EST,2003,1
+Estonia,EST,2004,1
+Estonia,EST,2005,1
+Estonia,EST,2006,1
+Estonia,EST,2007,1
+Estonia,EST,2008,1
+Estonia,EST,2009,1
+Estonia,EST,2010,1
+Estonia,EST,2011,1
+Estonia,EST,2012,1
+Estonia,EST,2013,1
+Estonia,EST,2014,1
+Estonia,EST,2015,1
+Estonia,EST,2016,1
+Estonia,EST,2017,1
+Estonia,EST,2018,1
+Estonia,EST,2019,1
+Eswatini,SWZ,1990,503
+Eswatini,SWZ,1991,506
+Eswatini,SWZ,1992,534
+Eswatini,SWZ,1993,512
+Eswatini,SWZ,1994,519
+Eswatini,SWZ,1995,532
+Eswatini,SWZ,1996,547
+Eswatini,SWZ,1997,563
+Eswatini,SWZ,1998,585
+Eswatini,SWZ,1999,604
+Eswatini,SWZ,2000,647
+Eswatini,SWZ,2001,722
+Eswatini,SWZ,2002,646
+Eswatini,SWZ,2003,673
+Eswatini,SWZ,2004,680
+Eswatini,SWZ,2005,660
+Eswatini,SWZ,2006,647
+Eswatini,SWZ,2007,640
+Eswatini,SWZ,2008,629
+Eswatini,SWZ,2009,615
+Eswatini,SWZ,2010,590
+Eswatini,SWZ,2011,560
+Eswatini,SWZ,2012,527
+Eswatini,SWZ,2013,497
+Eswatini,SWZ,2014,477
+Eswatini,SWZ,2015,448
+Eswatini,SWZ,2016,429
+Eswatini,SWZ,2017,423
+Eswatini,SWZ,2018,407
+Eswatini,SWZ,2019,396
+Ethiopia,ETH,1990,96433
+Ethiopia,ETH,1991,98941
+Ethiopia,ETH,1992,100593
+Ethiopia,ETH,1993,101424
+Ethiopia,ETH,1994,103376
+Ethiopia,ETH,1995,104336
+Ethiopia,ETH,1996,102855
+Ethiopia,ETH,1997,100532
+Ethiopia,ETH,1998,96416
+Ethiopia,ETH,1999,92819
+Ethiopia,ETH,2000,89272
+Ethiopia,ETH,2001,84926
+Ethiopia,ETH,2002,80241
+Ethiopia,ETH,2003,74891
+Ethiopia,ETH,2004,69204
+Ethiopia,ETH,2005,65980
+Ethiopia,ETH,2006,63113
+Ethiopia,ETH,2007,60788
+Ethiopia,ETH,2008,58245
+Ethiopia,ETH,2009,55736
+Ethiopia,ETH,2010,52699
+Ethiopia,ETH,2011,52043
+Ethiopia,ETH,2012,50300
+Ethiopia,ETH,2013,48652
+Ethiopia,ETH,2014,49349
+Ethiopia,ETH,2015,48242
+Ethiopia,ETH,2016,47271
+Ethiopia,ETH,2017,47736
+Ethiopia,ETH,2018,45711
+Ethiopia,ETH,2019,43174
+Europe,,1990,5797
+Europe,,1991,5416
+Europe,,1992,5165
+Europe,,1993,5080
+Europe,,1994,5051
+Europe,,1995,4775
+Europe,,1996,4434
+Europe,,1997,4202
+Europe,,1998,4022
+Europe,,1999,3850
+Europe,,2000,3577
+Europe,,2001,3294
+Europe,,2002,3051
+Europe,,2003,2647
+Europe,,2004,2353
+Europe,,2005,2139
+Europe,,2006,1982
+Europe,,2007,1880
+Europe,,2008,1815
+Europe,,2009,1706
+Europe,,2010,1651
+Europe,,2011,1631
+Europe,,2012,1653
+Europe,,2013,1670
+Europe,,2014,1669
+Europe,,2015,1675
+Europe,,2016,1648
+Europe,,2017,1582
+Europe,,2018,1526
+Europe,,2019,1481
+Europe & Central Asia,,1990,13647
+Europe & Central Asia,,1991,13093
+Europe & Central Asia,,1992,12720
+Europe & Central Asia,,1993,12409
+Europe & Central Asia,,1994,12335
+Europe & Central Asia,,1995,11701
+Europe & Central Asia,,1996,10861
+Europe & Central Asia,,1997,10150
+Europe & Central Asia,,1998,9343
+Europe & Central Asia,,1999,8500
+Europe & Central Asia,,2000,7633
+Europe & Central Asia,,2001,6709
+Europe & Central Asia,,2002,5902
+Europe & Central Asia,,2003,5042
+Europe & Central Asia,,2004,4370
+Europe & Central Asia,,2005,3924
+Europe & Central Asia,,2006,3678
+Europe & Central Asia,,2007,3451
+Europe & Central Asia,,2008,3276
+Europe & Central Asia,,2009,3073
+Europe & Central Asia,,2010,2930
+Europe & Central Asia,,2011,2815
+Europe & Central Asia,,2012,2766
+Europe & Central Asia,,2013,2721
+Europe & Central Asia,,2014,2659
+Europe & Central Asia,,2015,2583
+Europe & Central Asia,,2016,2502
+Europe & Central Asia,,2017,2409
+Europe & Central Asia,,2018,2322
+Europe & Central Asia,,2019,2248
+European Region,,1990,13734
+European Region,,1991,13177
+European Region,,1992,12801
+European Region,,1993,12479
+European Region,,1994,12398
+European Region,,1995,11753
+European Region,,1996,10900
+European Region,,1997,10182
+European Region,,1998,9372
+European Region,,1999,8523
+European Region,,2000,7653
+European Region,,2001,6726
+European Region,,2002,5917
+European Region,,2003,5056
+European Region,,2004,4382
+European Region,,2005,3935
+European Region,,2006,3689
+European Region,,2007,3462
+European Region,,2008,3288
+European Region,,2009,3086
+European Region,,2010,2943
+European Region,,2011,2829
+European Region,,2012,2780
+European Region,,2013,2736
+European Region,,2014,2674
+European Region,,2015,2599
+European Region,,2016,2517
+European Region,,2017,2424
+European Region,,2018,2337
+European Region,,2019,2263
+European Union,,1990,585
+European Union,,1991,526
+European Union,,1992,502
+European Union,,1993,491
+European Union,,1994,480
+European Union,,1995,444
+European Union,,1996,437
+European Union,,1997,423
+European Union,,1998,413
+European Union,,1999,398
+European Union,,2000,401
+European Union,,2001,390
+European Union,,2002,403
+European Union,,2003,426
+European Union,,2004,440
+European Union,,2005,468
+European Union,,2006,495
+European Union,,2007,526
+European Union,,2008,554
+European Union,,2009,579
+European Union,,2010,603
+European Union,,2011,624
+European Union,,2012,667
+European Union,,2013,708
+European Union,,2014,734
+European Union,,2015,775
+European Union,,2016,775
+European Union,,2017,744
+European Union,,2018,714
+European Union,,2019,691
+Fiji,FJI,1990,103
+Fiji,FJI,1991,100
+Fiji,FJI,1992,96
+Fiji,FJI,1993,94
+Fiji,FJI,1994,91
+Fiji,FJI,1995,88
+Fiji,FJI,1996,86
+Fiji,FJI,1997,82
+Fiji,FJI,1998,81
+Fiji,FJI,1999,78
+Fiji,FJI,2000,75
+Fiji,FJI,2001,72
+Fiji,FJI,2002,70
+Fiji,FJI,2003,69
+Fiji,FJI,2004,69
+Fiji,FJI,2005,70
+Fiji,FJI,2006,72
+Fiji,FJI,2007,74
+Fiji,FJI,2008,74
+Fiji,FJI,2009,76
+Fiji,FJI,2010,77
+Fiji,FJI,2011,77
+Fiji,FJI,2012,77
+Fiji,FJI,2013,76
+Fiji,FJI,2014,76
+Fiji,FJI,2015,74
+Fiji,FJI,2016,72
+Fiji,FJI,2017,71
+Fiji,FJI,2018,69
+Fiji,FJI,2019,68
+Finland,FIN,1990,4
+Finland,FIN,1991,4
+Finland,FIN,1992,3
+Finland,FIN,1993,3
+Finland,FIN,1994,3
+Finland,FIN,1995,3
+Finland,FIN,1996,3
+Finland,FIN,1997,2
+Finland,FIN,1998,2
+Finland,FIN,1999,2
+Finland,FIN,2000,2
+Finland,FIN,2001,2
+Finland,FIN,2002,2
+Finland,FIN,2003,2
+Finland,FIN,2004,2
+Finland,FIN,2005,2
+Finland,FIN,2006,2
+Finland,FIN,2007,2
+Finland,FIN,2008,2
+Finland,FIN,2009,2
+Finland,FIN,2010,2
+Finland,FIN,2011,2
+Finland,FIN,2012,2
+Finland,FIN,2013,2
+Finland,FIN,2014,1
+Finland,FIN,2015,1
+Finland,FIN,2016,1
+Finland,FIN,2017,1
+Finland,FIN,2018,1
+Finland,FIN,2019,1
+France,FRA,1990,119
+France,FRA,1991,123
+France,FRA,1992,125
+France,FRA,1993,126
+France,FRA,1994,126
+France,FRA,1995,127
+France,FRA,1996,126
+France,FRA,1997,122
+France,FRA,1998,124
+France,FRA,1999,123
+France,FRA,2000,126
+France,FRA,2001,120
+France,FRA,2002,123
+France,FRA,2003,128
+France,FRA,2004,124
+France,FRA,2005,126
+France,FRA,2006,128
+France,FRA,2007,130
+France,FRA,2008,132
+France,FRA,2009,128
+France,FRA,2010,118
+France,FRA,2011,98
+France,FRA,2012,89
+France,FRA,2013,81
+France,FRA,2014,75
+France,FRA,2015,76
+France,FRA,2016,78
+France,FRA,2017,81
+France,FRA,2018,85
+France,FRA,2019,88
+Gabon,GAB,1990,595
+Gabon,GAB,1991,580
+Gabon,GAB,1992,562
+Gabon,GAB,1993,544
+Gabon,GAB,1994,527
+Gabon,GAB,1995,512
+Gabon,GAB,1996,494
+Gabon,GAB,1997,480
+Gabon,GAB,1998,468
+Gabon,GAB,1999,454
+Gabon,GAB,2000,451
+Gabon,GAB,2001,447
+Gabon,GAB,2002,441
+Gabon,GAB,2003,438
+Gabon,GAB,2004,430
+Gabon,GAB,2005,432
+Gabon,GAB,2006,423
+Gabon,GAB,2007,410
+Gabon,GAB,2008,391
+Gabon,GAB,2009,368
+Gabon,GAB,2010,338
+Gabon,GAB,2011,309
+Gabon,GAB,2012,279
+Gabon,GAB,2013,258
+Gabon,GAB,2014,244
+Gabon,GAB,2015,234
+Gabon,GAB,2016,223
+Gabon,GAB,2017,216
+Gabon,GAB,2018,201
+Gabon,GAB,2019,192
+Gambia,GMB,1990,609
+Gambia,GMB,1991,622
+Gambia,GMB,1992,643
+Gambia,GMB,1993,639
+Gambia,GMB,1994,659
+Gambia,GMB,1995,752
+Gambia,GMB,1996,724
+Gambia,GMB,1997,764
+Gambia,GMB,1998,842
+Gambia,GMB,1999,932
+Gambia,GMB,2000,865
+Gambia,GMB,2001,828
+Gambia,GMB,2002,811
+Gambia,GMB,2003,792
+Gambia,GMB,2004,904
+Gambia,GMB,2005,879
+Gambia,GMB,2006,820
+Gambia,GMB,2007,762
+Gambia,GMB,2008,677
+Gambia,GMB,2009,630
+Gambia,GMB,2010,582
+Gambia,GMB,2011,503
+Gambia,GMB,2012,489
+Gambia,GMB,2013,469
+Gambia,GMB,2014,495
+Gambia,GMB,2015,468
+Gambia,GMB,2016,481
+Gambia,GMB,2017,509
+Gambia,GMB,2018,477
+Gambia,GMB,2019,460
+Georgia,GEO,1990,93
+Georgia,GEO,1991,78
+Georgia,GEO,1992,73
+Georgia,GEO,1993,74
+Georgia,GEO,1994,77
+Georgia,GEO,1995,73
+Georgia,GEO,1996,66
+Georgia,GEO,1997,62
+Georgia,GEO,1998,56
+Georgia,GEO,1999,46
+Georgia,GEO,2000,39
+Georgia,GEO,2001,35
+Georgia,GEO,2002,28
+Georgia,GEO,2003,22
+Georgia,GEO,2004,18
+Georgia,GEO,2005,15
+Georgia,GEO,2006,10
+Georgia,GEO,2007,9
+Georgia,GEO,2008,10
+Georgia,GEO,2009,10
+Georgia,GEO,2010,10
+Georgia,GEO,2011,11
+Georgia,GEO,2012,11
+Georgia,GEO,2013,11
+Georgia,GEO,2014,10
+Georgia,GEO,2015,10
+Georgia,GEO,2016,9
+Georgia,GEO,2017,8
+Georgia,GEO,2018,8
+Georgia,GEO,2019,7
+Germany,DEU,1990,27
+Germany,DEU,1991,26
+Germany,DEU,1992,25
+Germany,DEU,1993,23
+Germany,DEU,1994,21
+Germany,DEU,1995,19
+Germany,DEU,1996,18
+Germany,DEU,1997,17
+Germany,DEU,1998,18
+Germany,DEU,1999,19
+Germany,DEU,2000,20
+Germany,DEU,2001,23
+Germany,DEU,2002,27
+Germany,DEU,2003,34
+Germany,DEU,2004,41
+Germany,DEU,2005,50
+Germany,DEU,2006,60
+Germany,DEU,2007,71
+Germany,DEU,2008,82
+Germany,DEU,2009,91
+Germany,DEU,2010,98
+Germany,DEU,2011,100
+Germany,DEU,2012,105
+Germany,DEU,2013,111
+Germany,DEU,2014,112
+Germany,DEU,2015,117
+Germany,DEU,2016,115
+Germany,DEU,2017,110
+Germany,DEU,2018,107
+Germany,DEU,2019,106
+Ghana,GHA,1990,22611
+Ghana,GHA,1991,21346
+Ghana,GHA,1992,20295
+Ghana,GHA,1993,19414
+Ghana,GHA,1994,18536
+Ghana,GHA,1995,17345
+Ghana,GHA,1996,16115
+Ghana,GHA,1997,14693
+Ghana,GHA,1998,13273
+Ghana,GHA,1999,11773
+Ghana,GHA,2000,10589
+Ghana,GHA,2001,9608
+Ghana,GHA,2002,8990
+Ghana,GHA,2003,8710
+Ghana,GHA,2004,8207
+Ghana,GHA,2005,7679
+Ghana,GHA,2006,7412
+Ghana,GHA,2007,7115
+Ghana,GHA,2008,6618
+Ghana,GHA,2009,6479
+Ghana,GHA,2010,6323
+Ghana,GHA,2011,6313
+Ghana,GHA,2012,6150
+Ghana,GHA,2013,6207
+Ghana,GHA,2014,6506
+Ghana,GHA,2015,6669
+Ghana,GHA,2016,6603
+Ghana,GHA,2017,6579
+Ghana,GHA,2018,5926
+Ghana,GHA,2019,5599
+Greece,GRC,1990,0
+Greece,GRC,1991,0
+Greece,GRC,1992,0
+Greece,GRC,1993,0
+Greece,GRC,1994,0
+Greece,GRC,1995,0
+Greece,GRC,1996,0
+Greece,GRC,1997,0
+Greece,GRC,1998,0
+Greece,GRC,1999,0
+Greece,GRC,2000,0
+Greece,GRC,2001,0
+Greece,GRC,2002,0
+Greece,GRC,2003,0
+Greece,GRC,2004,0
+Greece,GRC,2005,0
+Greece,GRC,2006,0
+Greece,GRC,2007,0
+Greece,GRC,2008,0
+Greece,GRC,2009,0
+Greece,GRC,2010,1
+Greece,GRC,2011,1
+Greece,GRC,2012,1
+Greece,GRC,2013,1
+Greece,GRC,2014,1
+Greece,GRC,2015,1
+Greece,GRC,2016,1
+Greece,GRC,2017,1
+Greece,GRC,2018,1
+Greece,GRC,2019,1
+Greenland,GRL,1990,0
+Greenland,GRL,1991,0
+Greenland,GRL,1992,0
+Greenland,GRL,1993,0
+Greenland,GRL,1994,0
+Greenland,GRL,1995,0
+Greenland,GRL,1996,0
+Greenland,GRL,1997,0
+Greenland,GRL,1998,0
+Greenland,GRL,1999,0
+Greenland,GRL,2000,0
+Greenland,GRL,2001,0
+Greenland,GRL,2002,0
+Greenland,GRL,2003,0
+Greenland,GRL,2004,0
+Greenland,GRL,2005,0
+Greenland,GRL,2006,0
+Greenland,GRL,2007,0
+Greenland,GRL,2008,0
+Greenland,GRL,2009,0
+Greenland,GRL,2010,0
+Greenland,GRL,2011,0
+Greenland,GRL,2012,0
+Greenland,GRL,2013,0
+Greenland,GRL,2014,0
+Greenland,GRL,2015,0
+Greenland,GRL,2016,0
+Greenland,GRL,2017,0
+Greenland,GRL,2018,0
+Greenland,GRL,2019,0
+Grenada,GRD,1990,4
+Grenada,GRD,1991,3
+Grenada,GRD,1992,3
+Grenada,GRD,1993,3
+Grenada,GRD,1994,3
+Grenada,GRD,1995,3
+Grenada,GRD,1996,2
+Grenada,GRD,1997,2
+Grenada,GRD,1998,2
+Grenada,GRD,1999,2
+Grenada,GRD,2000,2
+Grenada,GRD,2001,1
+Grenada,GRD,2002,1
+Grenada,GRD,2003,1
+Grenada,GRD,2004,1
+Grenada,GRD,2005,1
+Grenada,GRD,2006,1
+Grenada,GRD,2007,1
+Grenada,GRD,2008,1
+Grenada,GRD,2009,1
+Grenada,GRD,2010,1
+Grenada,GRD,2011,1
+Grenada,GRD,2012,1
+Grenada,GRD,2013,1
+Grenada,GRD,2014,1
+Grenada,GRD,2015,1
+Grenada,GRD,2016,1
+Grenada,GRD,2017,1
+Grenada,GRD,2018,1
+Grenada,GRD,2019,1
+Guam,GUM,1990,2
+Guam,GUM,1991,2
+Guam,GUM,1992,2
+Guam,GUM,1993,2
+Guam,GUM,1994,2
+Guam,GUM,1995,2
+Guam,GUM,1996,2
+Guam,GUM,1997,2
+Guam,GUM,1998,2
+Guam,GUM,1999,2
+Guam,GUM,2000,2
+Guam,GUM,2001,2
+Guam,GUM,2002,2
+Guam,GUM,2003,2
+Guam,GUM,2004,2
+Guam,GUM,2005,2
+Guam,GUM,2006,2
+Guam,GUM,2007,2
+Guam,GUM,2008,2
+Guam,GUM,2009,2
+Guam,GUM,2010,3
+Guam,GUM,2011,3
+Guam,GUM,2012,3
+Guam,GUM,2013,3
+Guam,GUM,2014,3
+Guam,GUM,2015,3
+Guam,GUM,2016,3
+Guam,GUM,2017,3
+Guam,GUM,2018,3
+Guam,GUM,2019,4
+Guatemala,GTM,1990,8789
+Guatemala,GTM,1991,8310
+Guatemala,GTM,1992,7590
+Guatemala,GTM,1993,7060
+Guatemala,GTM,1994,6508
+Guatemala,GTM,1995,5707
+Guatemala,GTM,1996,5262
+Guatemala,GTM,1997,4999
+Guatemala,GTM,1998,4805
+Guatemala,GTM,1999,4370
+Guatemala,GTM,2000,4230
+Guatemala,GTM,2001,4106
+Guatemala,GTM,2002,3942
+Guatemala,GTM,2003,3793
+Guatemala,GTM,2004,3625
+Guatemala,GTM,2005,3418
+Guatemala,GTM,2006,3243
+Guatemala,GTM,2007,3077
+Guatemala,GTM,2008,2964
+Guatemala,GTM,2009,2822
+Guatemala,GTM,2010,2681
+Guatemala,GTM,2011,2546
+Guatemala,GTM,2012,2424
+Guatemala,GTM,2013,2314
+Guatemala,GTM,2014,2245
+Guatemala,GTM,2015,2174
+Guatemala,GTM,2016,2149
+Guatemala,GTM,2017,2063
+Guatemala,GTM,2018,2041
+Guatemala,GTM,2019,2027
+Guinea,GIN,1990,10275
+Guinea,GIN,1991,10404
+Guinea,GIN,1992,10497
+Guinea,GIN,1993,10594
+Guinea,GIN,1994,10943
+Guinea,GIN,1995,11126
+Guinea,GIN,1996,10460
+Guinea,GIN,1997,10321
+Guinea,GIN,1998,10179
+Guinea,GIN,1999,9839
+Guinea,GIN,2000,9464
+Guinea,GIN,2001,9072
+Guinea,GIN,2002,8700
+Guinea,GIN,2003,8455
+Guinea,GIN,2004,8579
+Guinea,GIN,2005,8285
+Guinea,GIN,2006,8124
+Guinea,GIN,2007,7919
+Guinea,GIN,2008,7553
+Guinea,GIN,2009,7201
+Guinea,GIN,2010,7101
+Guinea,GIN,2011,6891
+Guinea,GIN,2012,6740
+Guinea,GIN,2013,6701
+Guinea,GIN,2014,6609
+Guinea,GIN,2015,6531
+Guinea,GIN,2016,6467
+Guinea,GIN,2017,6355
+Guinea,GIN,2018,5965
+Guinea,GIN,2019,5562
+Guinea-Bissau,GNB,1990,1837
+Guinea-Bissau,GNB,1991,1822
+Guinea-Bissau,GNB,1992,1807
+Guinea-Bissau,GNB,1993,1788
+Guinea-Bissau,GNB,1994,1932
+Guinea-Bissau,GNB,1995,1727
+Guinea-Bissau,GNB,1996,2519
+Guinea-Bissau,GNB,1997,2320
+Guinea-Bissau,GNB,1998,1616
+Guinea-Bissau,GNB,1999,1589
+Guinea-Bissau,GNB,2000,1644
+Guinea-Bissau,GNB,2001,1669
+Guinea-Bissau,GNB,2002,1679
+Guinea-Bissau,GNB,2003,1674
+Guinea-Bissau,GNB,2004,1663
+Guinea-Bissau,GNB,2005,1933
+Guinea-Bissau,GNB,2006,1570
+Guinea-Bissau,GNB,2007,1761
+Guinea-Bissau,GNB,2008,1902
+Guinea-Bissau,GNB,2009,1625
+Guinea-Bissau,GNB,2010,1578
+Guinea-Bissau,GNB,2011,1502
+Guinea-Bissau,GNB,2012,1400
+Guinea-Bissau,GNB,2013,1444
+Guinea-Bissau,GNB,2014,1404
+Guinea-Bissau,GNB,2015,1311
+Guinea-Bissau,GNB,2016,1317
+Guinea-Bissau,GNB,2017,1258
+Guinea-Bissau,GNB,2018,1119
+Guinea-Bissau,GNB,2019,1053
+Guyana,GUY,1990,183
+Guyana,GUY,1991,168
+Guyana,GUY,1992,162
+Guyana,GUY,1993,161
+Guyana,GUY,1994,152
+Guyana,GUY,1995,144
+Guyana,GUY,1996,139
+Guyana,GUY,1997,131
+Guyana,GUY,1998,123
+Guyana,GUY,1999,118
+Guyana,GUY,2000,116
+Guyana,GUY,2001,98
+Guyana,GUY,2002,89
+Guyana,GUY,2003,83
+Guyana,GUY,2004,78
+Guyana,GUY,2005,76
+Guyana,GUY,2006,72
+Guyana,GUY,2007,68
+Guyana,GUY,2008,66
+Guyana,GUY,2009,63
+Guyana,GUY,2010,59
+Guyana,GUY,2011,55
+Guyana,GUY,2012,54
+Guyana,GUY,2013,52
+Guyana,GUY,2014,54
+Guyana,GUY,2015,52
+Guyana,GUY,2016,51
+Guyana,GUY,2017,50
+Guyana,GUY,2018,50
+Guyana,GUY,2019,49
+Haiti,HTI,1990,8536
+Haiti,HTI,1991,8396
+Haiti,HTI,1992,8293
+Haiti,HTI,1993,8147
+Haiti,HTI,1994,8052
+Haiti,HTI,1995,7715
+Haiti,HTI,1996,7146
+Haiti,HTI,1997,6660
+Haiti,HTI,1998,6294
+Haiti,HTI,1999,6018
+Haiti,HTI,2000,5731
+Haiti,HTI,2001,5505
+Haiti,HTI,2002,5279
+Haiti,HTI,2003,5114
+Haiti,HTI,2004,4980
+Haiti,HTI,2005,4800
+Haiti,HTI,2006,4649
+Haiti,HTI,2007,4514
+Haiti,HTI,2008,4351
+Haiti,HTI,2009,4163
+Haiti,HTI,2010,5160
+Haiti,HTI,2011,8603
+Haiti,HTI,2012,3860
+Haiti,HTI,2013,4342
+Haiti,HTI,2014,4052
+Haiti,HTI,2015,3972
+Haiti,HTI,2016,4233
+Haiti,HTI,2017,3787
+Haiti,HTI,2018,3628
+Haiti,HTI,2019,3502
+Honduras,HND,1990,2564
+Honduras,HND,1991,2492
+Honduras,HND,1992,2396
+Honduras,HND,1993,2339
+Honduras,HND,1994,2226
+Honduras,HND,1995,2104
+Honduras,HND,1996,1964
+Honduras,HND,1997,1840
+Honduras,HND,1998,1722
+Honduras,HND,1999,1593
+Honduras,HND,2000,1462
+Honduras,HND,2001,1366
+Honduras,HND,2002,1289
+Honduras,HND,2003,1227
+Honduras,HND,2004,1174
+Honduras,HND,2005,1144
+Honduras,HND,2006,1109
+Honduras,HND,2007,1075
+Honduras,HND,2008,1041
+Honduras,HND,2009,1005
+Honduras,HND,2010,998
+Honduras,HND,2011,999
+Honduras,HND,2012,976
+Honduras,HND,2013,953
+Honduras,HND,2014,922
+Honduras,HND,2015,888
+Honduras,HND,2016,861
+Honduras,HND,2017,837
+Honduras,HND,2018,807
+Honduras,HND,2019,779
+Hungary,HUN,1990,6
+Hungary,HUN,1991,6
+Hungary,HUN,1992,6
+Hungary,HUN,1993,6
+Hungary,HUN,1994,6
+Hungary,HUN,1995,7
+Hungary,HUN,1996,7
+Hungary,HUN,1997,8
+Hungary,HUN,1998,8
+Hungary,HUN,1999,8
+Hungary,HUN,2000,8
+Hungary,HUN,2001,7
+Hungary,HUN,2002,8
+Hungary,HUN,2003,8
+Hungary,HUN,2004,9
+Hungary,HUN,2005,12
+Hungary,HUN,2006,14
+Hungary,HUN,2007,17
+Hungary,HUN,2008,20
+Hungary,HUN,2009,27
+Hungary,HUN,2010,36
+Hungary,HUN,2011,49
+Hungary,HUN,2012,63
+Hungary,HUN,2013,75
+Hungary,HUN,2014,80
+Hungary,HUN,2015,86
+Hungary,HUN,2016,79
+Hungary,HUN,2017,75
+Hungary,HUN,2018,66
+Hungary,HUN,2019,59
+Iceland,ISL,1990,0
+Iceland,ISL,1991,0
+Iceland,ISL,1992,0
+Iceland,ISL,1993,0
+Iceland,ISL,1994,0
+Iceland,ISL,1995,0
+Iceland,ISL,1996,0
+Iceland,ISL,1997,0
+Iceland,ISL,1998,0
+Iceland,ISL,1999,0
+Iceland,ISL,2000,0
+Iceland,ISL,2001,0
+Iceland,ISL,2002,0
+Iceland,ISL,2003,0
+Iceland,ISL,2004,0
+Iceland,ISL,2005,0
+Iceland,ISL,2006,0
+Iceland,ISL,2007,0
+Iceland,ISL,2008,0
+Iceland,ISL,2009,0
+Iceland,ISL,2010,0
+Iceland,ISL,2011,0
+Iceland,ISL,2012,0
+Iceland,ISL,2013,0
+Iceland,ISL,2014,0
+Iceland,ISL,2015,0
+Iceland,ISL,2016,0
+Iceland,ISL,2017,0
+Iceland,ISL,2018,0
+Iceland,ISL,2019,0
+India,IND,1990,915902
+India,IND,1991,933268
+India,IND,1992,950840
+India,IND,1993,916145
+India,IND,1994,875963
+India,IND,1995,857785
+India,IND,1996,839448
+India,IND,1997,840661
+India,IND,1998,837221
+India,IND,1999,828466
+India,IND,2000,815015
+India,IND,2001,795489
+India,IND,2002,773043
+India,IND,2003,750029
+India,IND,2004,720411
+India,IND,2005,713215
+India,IND,2006,713009
+India,IND,2007,709716
+India,IND,2008,706437
+India,IND,2009,670101
+India,IND,2010,656752
+India,IND,2011,657545
+India,IND,2012,628812
+India,IND,2013,607206
+India,IND,2014,571532
+India,IND,2015,549684
+India,IND,2016,528733
+India,IND,2017,530729
+India,IND,2018,520537
+India,IND,2019,508290
+Indonesia,IDN,1990,107258
+Indonesia,IDN,1991,101429
+Indonesia,IDN,1992,96384
+Indonesia,IDN,1993,91831
+Indonesia,IDN,1994,87716
+Indonesia,IDN,1995,83556
+Indonesia,IDN,1996,79279
+Indonesia,IDN,1997,75850
+Indonesia,IDN,1998,73803
+Indonesia,IDN,1999,71759
+Indonesia,IDN,2000,70192
+Indonesia,IDN,2001,69306
+Indonesia,IDN,2002,68525
+Indonesia,IDN,2003,67278
+Indonesia,IDN,2004,66034
+Indonesia,IDN,2005,64822
+Indonesia,IDN,2006,63277
+Indonesia,IDN,2007,61886
+Indonesia,IDN,2008,60477
+Indonesia,IDN,2009,58904
+Indonesia,IDN,2010,56804
+Indonesia,IDN,2011,54791
+Indonesia,IDN,2012,53380
+Indonesia,IDN,2013,52116
+Indonesia,IDN,2014,50947
+Indonesia,IDN,2015,50085
+Indonesia,IDN,2016,48824
+Indonesia,IDN,2017,48327
+Indonesia,IDN,2018,46887
+Indonesia,IDN,2019,45774
+Iran,IRN,1990,3256
+Iran,IRN,1991,2658
+Iran,IRN,1992,2180
+Iran,IRN,1993,1831
+Iran,IRN,1994,1646
+Iran,IRN,1995,1529
+Iran,IRN,1996,1357
+Iran,IRN,1997,1317
+Iran,IRN,1998,1304
+Iran,IRN,1999,1309
+Iran,IRN,2000,1237
+Iran,IRN,2001,1059
+Iran,IRN,2002,980
+Iran,IRN,2003,918
+Iran,IRN,2004,872
+Iran,IRN,2005,806
+Iran,IRN,2006,762
+Iran,IRN,2007,746
+Iran,IRN,2008,720
+Iran,IRN,2009,685
+Iran,IRN,2010,660
+Iran,IRN,2011,653
+Iran,IRN,2012,642
+Iran,IRN,2013,639
+Iran,IRN,2014,621
+Iran,IRN,2015,594
+Iran,IRN,2016,564
+Iran,IRN,2017,550
+Iran,IRN,2018,528
+Iran,IRN,2019,511
+Iraq,IRQ,1990,1945
+Iraq,IRQ,1991,2057
+Iraq,IRQ,1992,2229
+Iraq,IRQ,1993,2400
+Iraq,IRQ,1994,2595
+Iraq,IRQ,1995,2880
+Iraq,IRQ,1996,2926
+Iraq,IRQ,1997,2906
+Iraq,IRQ,1998,2852
+Iraq,IRQ,1999,2759
+Iraq,IRQ,2000,2593
+Iraq,IRQ,2001,2230
+Iraq,IRQ,2002,1966
+Iraq,IRQ,2003,1860
+Iraq,IRQ,2004,1712
+Iraq,IRQ,2005,1613
+Iraq,IRQ,2006,1478
+Iraq,IRQ,2007,1419
+Iraq,IRQ,2008,1388
+Iraq,IRQ,2009,1280
+Iraq,IRQ,2010,1184
+Iraq,IRQ,2011,1035
+Iraq,IRQ,2012,858
+Iraq,IRQ,2013,709
+Iraq,IRQ,2014,611
+Iraq,IRQ,2015,532
+Iraq,IRQ,2016,472
+Iraq,IRQ,2017,449
+Iraq,IRQ,2018,410
+Iraq,IRQ,2019,382
+Ireland,IRL,1990,0
+Ireland,IRL,1991,1
+Ireland,IRL,1992,1
+Ireland,IRL,1993,1
+Ireland,IRL,1994,1
+Ireland,IRL,1995,1
+Ireland,IRL,1996,0
+Ireland,IRL,1997,0
+Ireland,IRL,1998,0
+Ireland,IRL,1999,0
+Ireland,IRL,2000,0
+Ireland,IRL,2001,0
+Ireland,IRL,2002,0
+Ireland,IRL,2003,1
+Ireland,IRL,2004,1
+Ireland,IRL,2005,1
+Ireland,IRL,2006,1
+Ireland,IRL,2007,1
+Ireland,IRL,2008,1
+Ireland,IRL,2009,1
+Ireland,IRL,2010,1
+Ireland,IRL,2011,1
+Ireland,IRL,2012,1
+Ireland,IRL,2013,1
+Ireland,IRL,2014,1
+Ireland,IRL,2015,2
+Ireland,IRL,2016,1
+Ireland,IRL,2017,1
+Ireland,IRL,2018,1
+Ireland,IRL,2019,1
+Israel,ISR,1990,3
+Israel,ISR,1991,3
+Israel,ISR,1992,3
+Israel,ISR,1993,3
+Israel,ISR,1994,3
+Israel,ISR,1995,3
+Israel,ISR,1996,3
+Israel,ISR,1997,3
+Israel,ISR,1998,4
+Israel,ISR,1999,5
+Israel,ISR,2000,5
+Israel,ISR,2001,6
+Israel,ISR,2002,6
+Israel,ISR,2003,6
+Israel,ISR,2004,6
+Israel,ISR,2005,7
+Israel,ISR,2006,7
+Israel,ISR,2007,8
+Israel,ISR,2008,9
+Israel,ISR,2009,10
+Israel,ISR,2010,11
+Israel,ISR,2011,11
+Israel,ISR,2012,12
+Israel,ISR,2013,13
+Israel,ISR,2014,13
+Israel,ISR,2015,13
+Israel,ISR,2016,13
+Israel,ISR,2017,13
+Israel,ISR,2018,13
+Israel,ISR,2019,13
+Italy,ITA,1990,10
+Italy,ITA,1991,9
+Italy,ITA,1992,8
+Italy,ITA,1993,7
+Italy,ITA,1994,6
+Italy,ITA,1995,6
+Italy,ITA,1996,5
+Italy,ITA,1997,5
+Italy,ITA,1998,4
+Italy,ITA,1999,4
+Italy,ITA,2000,5
+Italy,ITA,2001,5
+Italy,ITA,2002,7
+Italy,ITA,2003,9
+Italy,ITA,2004,11
+Italy,ITA,2005,13
+Italy,ITA,2006,16
+Italy,ITA,2007,19
+Italy,ITA,2008,23
+Italy,ITA,2009,27
+Italy,ITA,2010,31
+Italy,ITA,2011,37
+Italy,ITA,2012,42
+Italy,ITA,2013,46
+Italy,ITA,2014,50
+Italy,ITA,2015,55
+Italy,ITA,2016,57
+Italy,ITA,2017,51
+Italy,ITA,2018,49
+Italy,ITA,2019,47
+Jamaica,JAM,1990,195
+Jamaica,JAM,1991,167
+Jamaica,JAM,1992,149
+Jamaica,JAM,1993,129
+Jamaica,JAM,1994,107
+Jamaica,JAM,1995,87
+Jamaica,JAM,1996,69
+Jamaica,JAM,1997,55
+Jamaica,JAM,1998,45
+Jamaica,JAM,1999,40
+Jamaica,JAM,2000,38
+Jamaica,JAM,2001,33
+Jamaica,JAM,2002,31
+Jamaica,JAM,2003,31
+Jamaica,JAM,2004,29
+Jamaica,JAM,2005,26
+Jamaica,JAM,2006,26
+Jamaica,JAM,2007,27
+Jamaica,JAM,2008,29
+Jamaica,JAM,2009,30
+Jamaica,JAM,2010,24
+Jamaica,JAM,2011,26
+Jamaica,JAM,2012,30
+Jamaica,JAM,2013,32
+Jamaica,JAM,2014,37
+Jamaica,JAM,2015,35
+Jamaica,JAM,2016,34
+Jamaica,JAM,2017,33
+Jamaica,JAM,2018,33
+Jamaica,JAM,2019,32
+Japan,JPN,1990,187
+Japan,JPN,1991,186
+Japan,JPN,1992,187
+Japan,JPN,1993,189
+Japan,JPN,1994,195
+Japan,JPN,1995,204
+Japan,JPN,1996,202
+Japan,JPN,1997,203
+Japan,JPN,1998,209
+Japan,JPN,1999,216
+Japan,JPN,2000,219
+Japan,JPN,2001,218
+Japan,JPN,2002,233
+Japan,JPN,2003,258
+Japan,JPN,2004,283
+Japan,JPN,2005,319
+Japan,JPN,2006,354
+Japan,JPN,2007,380
+Japan,JPN,2008,401
+Japan,JPN,2009,418
+Japan,JPN,2010,442
+Japan,JPN,2011,474
+Japan,JPN,2012,498
+Japan,JPN,2013,511
+Japan,JPN,2014,517
+Japan,JPN,2015,524
+Japan,JPN,2016,534
+Japan,JPN,2017,533
+Japan,JPN,2018,537
+Japan,JPN,2019,542
+Jordan,JOR,1990,71
+Jordan,JOR,1991,68
+Jordan,JOR,1992,65
+Jordan,JOR,1993,63
+Jordan,JOR,1994,60
+Jordan,JOR,1995,58
+Jordan,JOR,1996,55
+Jordan,JOR,1997,51
+Jordan,JOR,1998,51
+Jordan,JOR,1999,49
+Jordan,JOR,2000,47
+Jordan,JOR,2001,44
+Jordan,JOR,2002,42
+Jordan,JOR,2003,40
+Jordan,JOR,2004,39
+Jordan,JOR,2005,38
+Jordan,JOR,2006,37
+Jordan,JOR,2007,35
+Jordan,JOR,2008,33
+Jordan,JOR,2009,31
+Jordan,JOR,2010,29
+Jordan,JOR,2011,28
+Jordan,JOR,2012,27
+Jordan,JOR,2013,27
+Jordan,JOR,2014,28
+Jordan,JOR,2015,27
+Jordan,JOR,2016,28
+Jordan,JOR,2017,28
+Jordan,JOR,2018,29
+Jordan,JOR,2019,29
+Kazakhstan,KAZ,1990,1079
+Kazakhstan,KAZ,1991,1061
+Kazakhstan,KAZ,1992,1048
+Kazakhstan,KAZ,1993,1014
+Kazakhstan,KAZ,1994,966
+Kazakhstan,KAZ,1995,900
+Kazakhstan,KAZ,1996,802
+Kazakhstan,KAZ,1997,716
+Kazakhstan,KAZ,1998,584
+Kazakhstan,KAZ,1999,465
+Kazakhstan,KAZ,2000,360
+Kazakhstan,KAZ,2001,270
+Kazakhstan,KAZ,2002,205
+Kazakhstan,KAZ,2003,164
+Kazakhstan,KAZ,2004,136
+Kazakhstan,KAZ,2005,115
+Kazakhstan,KAZ,2006,103
+Kazakhstan,KAZ,2007,90
+Kazakhstan,KAZ,2008,84
+Kazakhstan,KAZ,2009,74
+Kazakhstan,KAZ,2010,65
+Kazakhstan,KAZ,2011,57
+Kazakhstan,KAZ,2012,49
+Kazakhstan,KAZ,2013,43
+Kazakhstan,KAZ,2014,38
+Kazakhstan,KAZ,2015,36
+Kazakhstan,KAZ,2016,34
+Kazakhstan,KAZ,2017,31
+Kazakhstan,KAZ,2018,31
+Kazakhstan,KAZ,2019,29
+Kenya,KEN,1990,16435
+Kenya,KEN,1991,17708
+Kenya,KEN,1992,19138
+Kenya,KEN,1993,20381
+Kenya,KEN,1994,21546
+Kenya,KEN,1995,22477
+Kenya,KEN,1996,22654
+Kenya,KEN,1997,23252
+Kenya,KEN,1998,23518
+Kenya,KEN,1999,23118
+Kenya,KEN,2000,22289
+Kenya,KEN,2001,21371
+Kenya,KEN,2002,20827
+Kenya,KEN,2003,21641
+Kenya,KEN,2004,21711
+Kenya,KEN,2005,21823
+Kenya,KEN,2006,22086
+Kenya,KEN,2007,22471
+Kenya,KEN,2008,22352
+Kenya,KEN,2009,22553
+Kenya,KEN,2010,22542
+Kenya,KEN,2011,22271
+Kenya,KEN,2012,21277
+Kenya,KEN,2013,20511
+Kenya,KEN,2014,19386
+Kenya,KEN,2015,18337
+Kenya,KEN,2016,17256
+Kenya,KEN,2017,16769
+Kenya,KEN,2018,15980
+Kenya,KEN,2019,15405
+Kiribati,KIR,1990,65
+Kiribati,KIR,1991,64
+Kiribati,KIR,1992,63
+Kiribati,KIR,1993,61
+Kiribati,KIR,1994,59
+Kiribati,KIR,1995,57
+Kiribati,KIR,1996,55
+Kiribati,KIR,1997,53
+Kiribati,KIR,1998,50
+Kiribati,KIR,1999,49
+Kiribati,KIR,2000,47
+Kiribati,KIR,2001,46
+Kiribati,KIR,2002,45
+Kiribati,KIR,2003,43
+Kiribati,KIR,2004,42
+Kiribati,KIR,2005,41
+Kiribati,KIR,2006,40
+Kiribati,KIR,2007,41
+Kiribati,KIR,2008,40
+Kiribati,KIR,2009,40
+Kiribati,KIR,2010,40
+Kiribati,KIR,2011,40
+Kiribati,KIR,2012,40
+Kiribati,KIR,2013,40
+Kiribati,KIR,2014,40
+Kiribati,KIR,2015,38
+Kiribati,KIR,2016,37
+Kiribati,KIR,2017,36
+Kiribati,KIR,2018,35
+Kiribati,KIR,2019,34
+Kuwait,KWT,1990,6
+Kuwait,KWT,1991,3
+Kuwait,KWT,1992,3
+Kuwait,KWT,1993,2
+Kuwait,KWT,1994,3
+Kuwait,KWT,1995,2
+Kuwait,KWT,1996,1
+Kuwait,KWT,1997,1
+Kuwait,KWT,1998,1
+Kuwait,KWT,1999,2
+Kuwait,KWT,2000,2
+Kuwait,KWT,2001,2
+Kuwait,KWT,2002,2
+Kuwait,KWT,2003,2
+Kuwait,KWT,2004,2
+Kuwait,KWT,2005,2
+Kuwait,KWT,2006,2
+Kuwait,KWT,2007,3
+Kuwait,KWT,2008,3
+Kuwait,KWT,2009,3
+Kuwait,KWT,2010,3
+Kuwait,KWT,2011,3
+Kuwait,KWT,2012,2
+Kuwait,KWT,2013,2
+Kuwait,KWT,2014,2
+Kuwait,KWT,2015,2
+Kuwait,KWT,2016,2
+Kuwait,KWT,2017,2
+Kuwait,KWT,2018,2
+Kuwait,KWT,2019,2
+Kyrgyzstan,KGZ,1990,425
+Kyrgyzstan,KGZ,1991,402
+Kyrgyzstan,KGZ,1992,386
+Kyrgyzstan,KGZ,1993,362
+Kyrgyzstan,KGZ,1994,353
+Kyrgyzstan,KGZ,1995,346
+Kyrgyzstan,KGZ,1996,337
+Kyrgyzstan,KGZ,1997,356
+Kyrgyzstan,KGZ,1998,354
+Kyrgyzstan,KGZ,1999,337
+Kyrgyzstan,KGZ,2000,299
+Kyrgyzstan,KGZ,2001,262
+Kyrgyzstan,KGZ,2002,227
+Kyrgyzstan,KGZ,2003,193
+Kyrgyzstan,KGZ,2004,172
+Kyrgyzstan,KGZ,2005,161
+Kyrgyzstan,KGZ,2006,154
+Kyrgyzstan,KGZ,2007,143
+Kyrgyzstan,KGZ,2008,127
+Kyrgyzstan,KGZ,2009,114
+Kyrgyzstan,KGZ,2010,103
+Kyrgyzstan,KGZ,2011,96
+Kyrgyzstan,KGZ,2012,92
+Kyrgyzstan,KGZ,2013,89
+Kyrgyzstan,KGZ,2014,87
+Kyrgyzstan,KGZ,2015,81
+Kyrgyzstan,KGZ,2016,71
+Kyrgyzstan,KGZ,2017,65
+Kyrgyzstan,KGZ,2018,63
+Kyrgyzstan,KGZ,2019,57
+Laos,LAO,1990,4412
+Laos,LAO,1991,4346
+Laos,LAO,1992,4279
+Laos,LAO,1993,4419
+Laos,LAO,1994,4528
+Laos,LAO,1995,4027
+Laos,LAO,1996,3827
+Laos,LAO,1997,3607
+Laos,LAO,1998,3417
+Laos,LAO,1999,3192
+Laos,LAO,2000,3000
+Laos,LAO,2001,2729
+Laos,LAO,2002,2530
+Laos,LAO,2003,2327
+Laos,LAO,2004,2157
+Laos,LAO,2005,2025
+Laos,LAO,2006,1902
+Laos,LAO,2007,1769
+Laos,LAO,2008,1737
+Laos,LAO,2009,1648
+Laos,LAO,2010,1547
+Laos,LAO,2011,1455
+Laos,LAO,2012,1378
+Laos,LAO,2013,1304
+Laos,LAO,2014,1229
+Laos,LAO,2015,1168
+Laos,LAO,2016,1099
+Laos,LAO,2017,1045
+Laos,LAO,2018,978
+Laos,LAO,2019,914
+Latin America & Caribbean,,1990,94378
+Latin America & Caribbean,,1991,89902
+Latin America & Caribbean,,1992,82700
+Latin America & Caribbean,,1993,76882
+Latin America & Caribbean,,1994,70404
+Latin America & Caribbean,,1995,64015
+Latin America & Caribbean,,1996,58110
+Latin America & Caribbean,,1997,52840
+Latin America & Caribbean,,1998,48618
+Latin America & Caribbean,,1999,44139
+Latin America & Caribbean,,2000,40211
+Latin America & Caribbean,,2001,37329
+Latin America & Caribbean,,2002,35110
+Latin America & Caribbean,,2003,33369
+Latin America & Caribbean,,2004,31268
+Latin America & Caribbean,,2005,29330
+Latin America & Caribbean,,2006,27242
+Latin America & Caribbean,,2007,25482
+Latin America & Caribbean,,2008,24040
+Latin America & Caribbean,,2009,22784
+Latin America & Caribbean,,2010,22790
+Latin America & Caribbean,,2011,25514
+Latin America & Caribbean,,2012,20214
+Latin America & Caribbean,,2013,20187
+Latin America & Caribbean,,2014,19444
+Latin America & Caribbean,,2015,18997
+Latin America & Caribbean,,2016,19022
+Latin America & Caribbean,,2017,18278
+Latin America & Caribbean,,2018,17957
+Latin America & Caribbean,,2019,17749
+Latvia,LVA,1990,5
+Latvia,LVA,1991,5
+Latvia,LVA,1992,4
+Latvia,LVA,1993,4
+Latvia,LVA,1994,4
+Latvia,LVA,1995,3
+Latvia,LVA,1996,3
+Latvia,LVA,1997,2
+Latvia,LVA,1998,3
+Latvia,LVA,1999,2
+Latvia,LVA,2000,2
+Latvia,LVA,2001,2
+Latvia,LVA,2002,2
+Latvia,LVA,2003,2
+Latvia,LVA,2004,1
+Latvia,LVA,2005,1
+Latvia,LVA,2006,1
+Latvia,LVA,2007,2
+Latvia,LVA,2008,2
+Latvia,LVA,2009,1
+Latvia,LVA,2010,2
+Latvia,LVA,2011,2
+Latvia,LVA,2012,2
+Latvia,LVA,2013,2
+Latvia,LVA,2014,2
+Latvia,LVA,2015,2
+Latvia,LVA,2016,2
+Latvia,LVA,2017,2
+Latvia,LVA,2018,1
+Latvia,LVA,2019,1
+Lebanon,LBN,1990,77
+Lebanon,LBN,1991,73
+Lebanon,LBN,1992,69
+Lebanon,LBN,1993,82
+Lebanon,LBN,1994,62
+Lebanon,LBN,1995,59
+Lebanon,LBN,1996,56
+Lebanon,LBN,1997,55
+Lebanon,LBN,1998,55
+Lebanon,LBN,1999,56
+Lebanon,LBN,2000,56
+Lebanon,LBN,2001,57
+Lebanon,LBN,2002,57
+Lebanon,LBN,2003,57
+Lebanon,LBN,2004,58
+Lebanon,LBN,2005,56
+Lebanon,LBN,2006,54
+Lebanon,LBN,2007,53
+Lebanon,LBN,2008,51
+Lebanon,LBN,2009,50
+Lebanon,LBN,2010,49
+Lebanon,LBN,2011,48
+Lebanon,LBN,2012,47
+Lebanon,LBN,2013,46
+Lebanon,LBN,2014,44
+Lebanon,LBN,2015,43
+Lebanon,LBN,2016,42
+Lebanon,LBN,2017,41
+Lebanon,LBN,2018,41
+Lebanon,LBN,2019,40
+Lesotho,LSO,1990,2012
+Lesotho,LSO,1991,2008
+Lesotho,LSO,1992,1992
+Lesotho,LSO,1993,1971
+Lesotho,LSO,1994,1938
+Lesotho,LSO,1995,1896
+Lesotho,LSO,1996,1866
+Lesotho,LSO,1997,1858
+Lesotho,LSO,1998,1886
+Lesotho,LSO,1999,1928
+Lesotho,LSO,2000,1967
+Lesotho,LSO,2001,1976
+Lesotho,LSO,2002,1986
+Lesotho,LSO,2003,1996
+Lesotho,LSO,2004,1985
+Lesotho,LSO,2005,1929
+Lesotho,LSO,2006,1849
+Lesotho,LSO,2007,1782
+Lesotho,LSO,2008,1731
+Lesotho,LSO,2009,1660
+Lesotho,LSO,2010,1599
+Lesotho,LSO,2011,1544
+Lesotho,LSO,2012,1498
+Lesotho,LSO,2013,1450
+Lesotho,LSO,2014,1409
+Lesotho,LSO,2015,1377
+Lesotho,LSO,2016,1332
+Lesotho,LSO,2017,1285
+Lesotho,LSO,2018,1247
+Lesotho,LSO,2019,1218
+Liberia,LBR,1990,3920
+Liberia,LBR,1991,4261
+Liberia,LBR,1992,4429
+Liberia,LBR,1993,4600
+Liberia,LBR,1994,4883
+Liberia,LBR,1995,5467
+Liberia,LBR,1996,6087
+Liberia,LBR,1997,6304
+Liberia,LBR,1998,6470
+Liberia,LBR,1999,6346
+Liberia,LBR,2000,6040
+Liberia,LBR,2001,5427
+Liberia,LBR,2002,4803
+Liberia,LBR,2003,4437
+Liberia,LBR,2004,4122
+Liberia,LBR,2005,4160
+Liberia,LBR,2006,3971
+Liberia,LBR,2007,3751
+Liberia,LBR,2008,3606
+Liberia,LBR,2009,3591
+Liberia,LBR,2010,3496
+Liberia,LBR,2011,3328
+Liberia,LBR,2012,3289
+Liberia,LBR,2013,3091
+Liberia,LBR,2014,2843
+Liberia,LBR,2015,2666
+Liberia,LBR,2016,2479
+Liberia,LBR,2017,2307
+Liberia,LBR,2018,2134
+Liberia,LBR,2019,2060
+Libya,LBY,1990,205
+Libya,LBY,1991,182
+Libya,LBY,1992,161
+Libya,LBY,1993,143
+Libya,LBY,1994,128
+Libya,LBY,1995,118
+Libya,LBY,1996,104
+Libya,LBY,1997,95
+Libya,LBY,1998,88
+Libya,LBY,1999,83
+Libya,LBY,2000,77
+Libya,LBY,2001,72
+Libya,LBY,2002,67
+Libya,LBY,2003,62
+Libya,LBY,2004,57
+Libya,LBY,2005,52
+Libya,LBY,2006,49
+Libya,LBY,2007,46
+Libya,LBY,2008,43
+Libya,LBY,2009,40
+Libya,LBY,2010,36
+Libya,LBY,2011,36
+Libya,LBY,2012,34
+Libya,LBY,2013,33
+Libya,LBY,2014,33
+Libya,LBY,2015,34
+Libya,LBY,2016,36
+Libya,LBY,2017,37
+Libya,LBY,2018,37
+Libya,LBY,2019,37
+Lithuania,LTU,1990,8
+Lithuania,LTU,1991,9
+Lithuania,LTU,1992,9
+Lithuania,LTU,1993,8
+Lithuania,LTU,1994,8
+Lithuania,LTU,1995,7
+Lithuania,LTU,1996,6
+Lithuania,LTU,1997,5
+Lithuania,LTU,1998,4
+Lithuania,LTU,1999,3
+Lithuania,LTU,2000,3
+Lithuania,LTU,2001,3
+Lithuania,LTU,2002,3
+Lithuania,LTU,2003,3
+Lithuania,LTU,2004,2
+Lithuania,LTU,2005,2
+Lithuania,LTU,2006,2
+Lithuania,LTU,2007,2
+Lithuania,LTU,2008,3
+Lithuania,LTU,2009,3
+Lithuania,LTU,2010,3
+Lithuania,LTU,2011,3
+Lithuania,LTU,2012,3
+Lithuania,LTU,2013,4
+Lithuania,LTU,2014,4
+Lithuania,LTU,2015,5
+Lithuania,LTU,2016,6
+Lithuania,LTU,2017,6
+Lithuania,LTU,2018,5
+Lithuania,LTU,2019,5
+Luxembourg,LUX,1990,0
+Luxembourg,LUX,1991,0
+Luxembourg,LUX,1992,0
+Luxembourg,LUX,1993,0
+Luxembourg,LUX,1994,0
+Luxembourg,LUX,1995,0
+Luxembourg,LUX,1996,0
+Luxembourg,LUX,1997,0
+Luxembourg,LUX,1998,0
+Luxembourg,LUX,1999,0
+Luxembourg,LUX,2000,0
+Luxembourg,LUX,2001,0
+Luxembourg,LUX,2002,0
+Luxembourg,LUX,2003,0
+Luxembourg,LUX,2004,0
+Luxembourg,LUX,2005,0
+Luxembourg,LUX,2006,0
+Luxembourg,LUX,2007,0
+Luxembourg,LUX,2008,0
+Luxembourg,LUX,2009,0
+Luxembourg,LUX,2010,0
+Luxembourg,LUX,2011,0
+Luxembourg,LUX,2012,0
+Luxembourg,LUX,2013,0
+Luxembourg,LUX,2014,0
+Luxembourg,LUX,2015,0
+Luxembourg,LUX,2016,0
+Luxembourg,LUX,2017,0
+Luxembourg,LUX,2018,0
+Luxembourg,LUX,2019,0
+Madagascar,MDG,1990,19166
+Madagascar,MDG,1991,19054
+Madagascar,MDG,1992,18854
+Madagascar,MDG,1993,18716
+Madagascar,MDG,1994,18539
+Madagascar,MDG,1995,18097
+Madagascar,MDG,1996,18070
+Madagascar,MDG,1997,17959
+Madagascar,MDG,1998,17791
+Madagascar,MDG,1999,18442
+Madagascar,MDG,2000,17956
+Madagascar,MDG,2001,17885
+Madagascar,MDG,2002,17665
+Madagascar,MDG,2003,17776
+Madagascar,MDG,2004,17659
+Madagascar,MDG,2005,18506
+Madagascar,MDG,2006,18719
+Madagascar,MDG,2007,19162
+Madagascar,MDG,2008,19949
+Madagascar,MDG,2009,20189
+Madagascar,MDG,2010,19639
+Madagascar,MDG,2011,19801
+Madagascar,MDG,2012,19647
+Madagascar,MDG,2013,18946
+Madagascar,MDG,2014,18524
+Madagascar,MDG,2015,18034
+Madagascar,MDG,2016,17449
+Madagascar,MDG,2017,17237
+Madagascar,MDG,2018,16413
+Madagascar,MDG,2019,15677
+Malawi,MWI,1990,19291
+Malawi,MWI,1991,19393
+Malawi,MWI,1992,18986
+Malawi,MWI,1993,18558
+Malawi,MWI,1994,17040
+Malawi,MWI,1995,16283
+Malawi,MWI,1996,15630
+Malawi,MWI,1997,15004
+Malawi,MWI,1998,14517
+Malawi,MWI,1999,15180
+Malawi,MWI,2000,14573
+Malawi,MWI,2001,14504
+Malawi,MWI,2002,13616
+Malawi,MWI,2003,12552
+Malawi,MWI,2004,11507
+Malawi,MWI,2005,10849
+Malawi,MWI,2006,10341
+Malawi,MWI,2007,9536
+Malawi,MWI,2008,8748
+Malawi,MWI,2009,8457
+Malawi,MWI,2010,8086
+Malawi,MWI,2011,8015
+Malawi,MWI,2012,7575
+Malawi,MWI,2013,7203
+Malawi,MWI,2014,7040
+Malawi,MWI,2015,7022
+Malawi,MWI,2016,6921
+Malawi,MWI,2017,6885
+Malawi,MWI,2018,6670
+Malawi,MWI,2019,6472
+Malaysia,MYS,1990,687
+Malaysia,MYS,1991,648
+Malaysia,MYS,1992,661
+Malaysia,MYS,1993,671
+Malaysia,MYS,1994,690
+Malaysia,MYS,1995,701
+Malaysia,MYS,1996,629
+Malaysia,MYS,1997,596
+Malaysia,MYS,1998,562
+Malaysia,MYS,1999,532
+Malaysia,MYS,2000,501
+Malaysia,MYS,2001,516
+Malaysia,MYS,2002,508
+Malaysia,MYS,2003,471
+Malaysia,MYS,2004,474
+Malaysia,MYS,2005,496
+Malaysia,MYS,2006,507
+Malaysia,MYS,2007,520
+Malaysia,MYS,2008,547
+Malaysia,MYS,2009,583
+Malaysia,MYS,2010,666
+Malaysia,MYS,2011,711
+Malaysia,MYS,2012,646
+Malaysia,MYS,2013,611
+Malaysia,MYS,2014,630
+Malaysia,MYS,2015,647
+Malaysia,MYS,2016,670
+Malaysia,MYS,2017,690
+Malaysia,MYS,2018,700
+Malaysia,MYS,2019,726
+Maldives,MDV,1990,46
+Maldives,MDV,1991,43
+Maldives,MDV,1992,40
+Maldives,MDV,1993,37
+Maldives,MDV,1994,33
+Maldives,MDV,1995,30
+Maldives,MDV,1996,27
+Maldives,MDV,1997,26
+Maldives,MDV,1998,22
+Maldives,MDV,1999,20
+Maldives,MDV,2000,18
+Maldives,MDV,2001,15
+Maldives,MDV,2002,13
+Maldives,MDV,2003,12
+Maldives,MDV,2004,11
+Maldives,MDV,2005,11
+Maldives,MDV,2006,11
+Maldives,MDV,2007,10
+Maldives,MDV,2008,10
+Maldives,MDV,2009,9
+Maldives,MDV,2010,9
+Maldives,MDV,2011,9
+Maldives,MDV,2012,9
+Maldives,MDV,2013,9
+Maldives,MDV,2014,9
+Maldives,MDV,2015,9
+Maldives,MDV,2016,9
+Maldives,MDV,2017,9
+Maldives,MDV,2018,9
+Maldives,MDV,2019,9
+Mali,MLI,1990,20812
+Mali,MLI,1991,20677
+Mali,MLI,1992,20615
+Mali,MLI,1993,20542
+Mali,MLI,1994,20585
+Mali,MLI,1995,20984
+Mali,MLI,1996,21328
+Mali,MLI,1997,20637
+Mali,MLI,1998,20540
+Mali,MLI,1999,20476
+Mali,MLI,2000,20322
+Mali,MLI,2001,19569
+Mali,MLI,2002,19863
+Mali,MLI,2003,19014
+Mali,MLI,2004,17933
+Mali,MLI,2005,17062
+Mali,MLI,2006,16329
+Mali,MLI,2007,15364
+Mali,MLI,2008,15064
+Mali,MLI,2009,14417
+Mali,MLI,2010,13464
+Mali,MLI,2011,12665
+Mali,MLI,2012,12160
+Mali,MLI,2013,11693
+Mali,MLI,2014,11363
+Mali,MLI,2015,11358
+Mali,MLI,2016,12114
+Mali,MLI,2017,12393
+Mali,MLI,2018,12118
+Mali,MLI,2019,11881
+Malta,MLT,1990,0
+Malta,MLT,1991,0
+Malta,MLT,1992,0
+Malta,MLT,1993,0
+Malta,MLT,1994,0
+Malta,MLT,1995,0
+Malta,MLT,1996,0
+Malta,MLT,1997,0
+Malta,MLT,1998,0
+Malta,MLT,1999,0
+Malta,MLT,2000,0
+Malta,MLT,2001,0
+Malta,MLT,2002,0
+Malta,MLT,2003,0
+Malta,MLT,2004,0
+Malta,MLT,2005,0
+Malta,MLT,2006,0
+Malta,MLT,2007,0
+Malta,MLT,2008,0
+Malta,MLT,2009,0
+Malta,MLT,2010,0
+Malta,MLT,2011,0
+Malta,MLT,2012,0
+Malta,MLT,2013,0
+Malta,MLT,2014,0
+Malta,MLT,2015,0
+Malta,MLT,2016,0
+Malta,MLT,2017,0
+Malta,MLT,2018,0
+Malta,MLT,2019,0
+Marshall Islands,MHL,1990,12
+Marshall Islands,MHL,1991,11
+Marshall Islands,MHL,1992,11
+Marshall Islands,MHL,1993,11
+Marshall Islands,MHL,1994,10
+Marshall Islands,MHL,1995,10
+Marshall Islands,MHL,1996,10
+Marshall Islands,MHL,1997,10
+Marshall Islands,MHL,1998,10
+Marshall Islands,MHL,1999,9
+Marshall Islands,MHL,2000,14
+Marshall Islands,MHL,2001,9
+Marshall Islands,MHL,2002,8
+Marshall Islands,MHL,2003,8
+Marshall Islands,MHL,2004,7
+Marshall Islands,MHL,2005,7
+Marshall Islands,MHL,2006,7
+Marshall Islands,MHL,2007,6
+Marshall Islands,MHL,2008,6
+Marshall Islands,MHL,2009,5
+Marshall Islands,MHL,2010,5
+Marshall Islands,MHL,2011,5
+Marshall Islands,MHL,2012,5
+Marshall Islands,MHL,2013,4
+Marshall Islands,MHL,2014,4
+Marshall Islands,MHL,2015,4
+Marshall Islands,MHL,2016,4
+Marshall Islands,MHL,2017,4
+Marshall Islands,MHL,2018,4
+Marshall Islands,MHL,2019,4
+Mauritania,MRT,1990,2789
+Mauritania,MRT,1991,2786
+Mauritania,MRT,1992,2800
+Mauritania,MRT,1993,2809
+Mauritania,MRT,1994,2723
+Mauritania,MRT,1995,2680
+Mauritania,MRT,1996,2863
+Mauritania,MRT,1997,2858
+Mauritania,MRT,1998,2947
+Mauritania,MRT,1999,2910
+Mauritania,MRT,2000,2967
+Mauritania,MRT,2001,3030
+Mauritania,MRT,2002,3048
+Mauritania,MRT,2003,2931
+Mauritania,MRT,2004,2833
+Mauritania,MRT,2005,2925
+Mauritania,MRT,2006,2838
+Mauritania,MRT,2007,2615
+Mauritania,MRT,2008,2407
+Mauritania,MRT,2009,2349
+Mauritania,MRT,2010,2121
+Mauritania,MRT,2011,1987
+Mauritania,MRT,2012,1996
+Mauritania,MRT,2013,1928
+Mauritania,MRT,2014,1716
+Mauritania,MRT,2015,1666
+Mauritania,MRT,2016,1552
+Mauritania,MRT,2017,1493
+Mauritania,MRT,2018,1347
+Mauritania,MRT,2019,1279
+Mauritius,MUS,1990,30
+Mauritius,MUS,1991,24
+Mauritius,MUS,1992,22
+Mauritius,MUS,1993,19
+Mauritius,MUS,1994,16
+Mauritius,MUS,1995,14
+Mauritius,MUS,1996,11
+Mauritius,MUS,1997,10
+Mauritius,MUS,1998,7
+Mauritius,MUS,1999,6
+Mauritius,MUS,2000,6
+Mauritius,MUS,2001,5
+Mauritius,MUS,2002,5
+Mauritius,MUS,2003,5
+Mauritius,MUS,2004,5
+Mauritius,MUS,2005,5
+Mauritius,MUS,2006,6
+Mauritius,MUS,2007,6
+Mauritius,MUS,2008,6
+Mauritius,MUS,2009,6
+Mauritius,MUS,2010,6
+Mauritius,MUS,2011,6
+Mauritius,MUS,2012,7
+Mauritius,MUS,2013,7
+Mauritius,MUS,2014,6
+Mauritius,MUS,2015,6
+Mauritius,MUS,2016,6
+Mauritius,MUS,2017,6
+Mauritius,MUS,2018,6
+Mauritius,MUS,2019,6
+Mexico,MEX,1990,17336
+Mexico,MEX,1991,15555
+Mexico,MEX,1992,13671
+Mexico,MEX,1993,11995
+Mexico,MEX,1994,10188
+Mexico,MEX,1995,8909
+Mexico,MEX,1996,7747
+Mexico,MEX,1997,6778
+Mexico,MEX,1998,5904
+Mexico,MEX,1999,5162
+Mexico,MEX,2000,4635
+Mexico,MEX,2001,4235
+Mexico,MEX,2002,3928
+Mexico,MEX,2003,3667
+Mexico,MEX,2004,3390
+Mexico,MEX,2005,3198
+Mexico,MEX,2006,2911
+Mexico,MEX,2007,2760
+Mexico,MEX,2008,2677
+Mexico,MEX,2009,2611
+Mexico,MEX,2010,2514
+Mexico,MEX,2011,2451
+Mexico,MEX,2012,2429
+Mexico,MEX,2013,2449
+Mexico,MEX,2014,2425
+Mexico,MEX,2015,2407
+Mexico,MEX,2016,2380
+Mexico,MEX,2017,2371
+Mexico,MEX,2018,2381
+Mexico,MEX,2019,2394
+Micronesia,FSM,1990,28
+Micronesia,FSM,1991,25
+Micronesia,FSM,1992,24
+Micronesia,FSM,1993,22
+Micronesia,FSM,1994,21
+Micronesia,FSM,1995,20
+Micronesia,FSM,1996,18
+Micronesia,FSM,1997,17
+Micronesia,FSM,1998,16
+Micronesia,FSM,1999,15
+Micronesia,FSM,2000,29
+Micronesia,FSM,2001,13
+Micronesia,FSM,2002,12
+Micronesia,FSM,2003,11
+Micronesia,FSM,2004,10
+Micronesia,FSM,2005,9
+Micronesia,FSM,2006,9
+Micronesia,FSM,2007,9
+Micronesia,FSM,2008,8
+Micronesia,FSM,2009,8
+Micronesia,FSM,2010,8
+Micronesia,FSM,2011,8
+Micronesia,FSM,2012,7
+Micronesia,FSM,2013,7
+Micronesia,FSM,2014,7
+Micronesia,FSM,2015,7
+Micronesia,FSM,2016,7
+Micronesia,FSM,2017,7
+Micronesia,FSM,2018,7
+Micronesia,FSM,2019,6
+Middle East & North Africa,,1990,63314
+Middle East & North Africa,,1991,58765
+Middle East & North Africa,,1992,54628
+Middle East & North Africa,,1993,50985
+Middle East & North Africa,,1994,47830
+Middle East & North Africa,,1995,45454
+Middle East & North Africa,,1996,42599
+Middle East & North Africa,,1997,40686
+Middle East & North Africa,,1998,39042
+Middle East & North Africa,,1999,37438
+Middle East & North Africa,,2000,35400
+Middle East & North Africa,,2001,33219
+Middle East & North Africa,,2002,31796
+Middle East & North Africa,,2003,30323
+Middle East & North Africa,,2004,28319
+Middle East & North Africa,,2005,26366
+Middle East & North Africa,,2006,24620
+Middle East & North Africa,,2007,24094
+Middle East & North Africa,,2008,23175
+Middle East & North Africa,,2009,21831
+Middle East & North Africa,,2010,20363
+Middle East & North Africa,,2011,19169
+Middle East & North Africa,,2012,17603
+Middle East & North Africa,,2013,16627
+Middle East & North Africa,,2014,15187
+Middle East & North Africa,,2015,14054
+Middle East & North Africa,,2016,13251
+Middle East & North Africa,,2017,13497
+Middle East & North Africa,,2018,12193
+Middle East & North Africa,,2019,11555
+Moldova,MDA,1990,77
+Moldova,MDA,1991,65
+Moldova,MDA,1992,58
+Moldova,MDA,1993,53
+Moldova,MDA,1994,50
+Moldova,MDA,1995,45
+Moldova,MDA,1996,39
+Moldova,MDA,1997,34
+Moldova,MDA,1998,30
+Moldova,MDA,1999,26
+Moldova,MDA,2000,25
+Moldova,MDA,2001,24
+Moldova,MDA,2002,21
+Moldova,MDA,2003,19
+Moldova,MDA,2004,16
+Moldova,MDA,2005,14
+Moldova,MDA,2006,12
+Moldova,MDA,2007,11
+Moldova,MDA,2008,10
+Moldova,MDA,2009,9
+Moldova,MDA,2010,8
+Moldova,MDA,2011,7
+Moldova,MDA,2012,6
+Moldova,MDA,2013,6
+Moldova,MDA,2014,6
+Moldova,MDA,2015,6
+Moldova,MDA,2016,6
+Moldova,MDA,2017,6
+Moldova,MDA,2018,5
+Moldova,MDA,2019,5
+Monaco,MCO,1990,0
+Monaco,MCO,1991,0
+Monaco,MCO,1992,0
+Monaco,MCO,1993,0
+Monaco,MCO,1994,0
+Monaco,MCO,1995,0
+Monaco,MCO,1996,0
+Monaco,MCO,1997,0
+Monaco,MCO,1998,0
+Monaco,MCO,1999,0
+Monaco,MCO,2000,0
+Monaco,MCO,2001,0
+Monaco,MCO,2002,0
+Monaco,MCO,2003,0
+Monaco,MCO,2004,0
+Monaco,MCO,2005,0
+Monaco,MCO,2006,0
+Monaco,MCO,2007,0
+Monaco,MCO,2008,0
+Monaco,MCO,2009,0
+Monaco,MCO,2010,0
+Monaco,MCO,2011,0
+Monaco,MCO,2012,0
+Monaco,MCO,2013,0
+Monaco,MCO,2014,0
+Monaco,MCO,2015,0
+Monaco,MCO,2016,0
+Monaco,MCO,2017,0
+Monaco,MCO,2018,0
+Monaco,MCO,2019,0
+Mongolia,MNG,1990,589
+Mongolia,MNG,1991,538
+Mongolia,MNG,1992,488
+Mongolia,MNG,1993,446
+Mongolia,MNG,1994,408
+Mongolia,MNG,1995,368
+Mongolia,MNG,1996,336
+Mongolia,MNG,1997,293
+Mongolia,MNG,1998,258
+Mongolia,MNG,1999,213
+Mongolia,MNG,2000,175
+Mongolia,MNG,2001,141
+Mongolia,MNG,2002,116
+Mongolia,MNG,2003,98
+Mongolia,MNG,2004,83
+Mongolia,MNG,2005,73
+Mongolia,MNG,2006,64
+Mongolia,MNG,2007,58
+Mongolia,MNG,2008,55
+Mongolia,MNG,2009,53
+Mongolia,MNG,2010,51
+Mongolia,MNG,2011,50
+Mongolia,MNG,2012,50
+Mongolia,MNG,2013,50
+Mongolia,MNG,2014,48
+Mongolia,MNG,2015,44
+Mongolia,MNG,2016,42
+Mongolia,MNG,2017,42
+Mongolia,MNG,2018,39
+Mongolia,MNG,2019,36
+Montenegro,MNE,1990,1
+Montenegro,MNE,1991,1
+Montenegro,MNE,1992,1
+Montenegro,MNE,1993,1
+Montenegro,MNE,1994,1
+Montenegro,MNE,1995,1
+Montenegro,MNE,1996,1
+Montenegro,MNE,1997,1
+Montenegro,MNE,1998,1
+Montenegro,MNE,1999,1
+Montenegro,MNE,2000,1
+Montenegro,MNE,2001,1
+Montenegro,MNE,2002,0
+Montenegro,MNE,2003,0
+Montenegro,MNE,2004,0
+Montenegro,MNE,2005,0
+Montenegro,MNE,2006,0
+Montenegro,MNE,2007,0
+Montenegro,MNE,2008,0
+Montenegro,MNE,2009,0
+Montenegro,MNE,2010,0
+Montenegro,MNE,2011,0
+Montenegro,MNE,2012,0
+Montenegro,MNE,2013,0
+Montenegro,MNE,2014,0
+Montenegro,MNE,2015,0
+Montenegro,MNE,2016,0
+Montenegro,MNE,2017,0
+Montenegro,MNE,2018,0
+Montenegro,MNE,2019,0
+Morocco,MAR,1990,10145
+Morocco,MAR,1991,9302
+Morocco,MAR,1992,8591
+Morocco,MAR,1993,7911
+Morocco,MAR,1994,7279
+Morocco,MAR,1995,6740
+Morocco,MAR,1996,6160
+Morocco,MAR,1997,5662
+Morocco,MAR,1998,5229
+Morocco,MAR,1999,4872
+Morocco,MAR,2000,4523
+Morocco,MAR,2001,4200
+Morocco,MAR,2002,3917
+Morocco,MAR,2003,3645
+Morocco,MAR,2004,3431
+Morocco,MAR,2005,3214
+Morocco,MAR,2006,2999
+Morocco,MAR,2007,2794
+Morocco,MAR,2008,2646
+Morocco,MAR,2009,2477
+Morocco,MAR,2010,2247
+Morocco,MAR,2011,2010
+Morocco,MAR,2012,1825
+Morocco,MAR,2013,1684
+Morocco,MAR,2014,1583
+Morocco,MAR,2015,1443
+Morocco,MAR,2016,1318
+Morocco,MAR,2017,1212
+Morocco,MAR,2018,1080
+Morocco,MAR,2019,959
+Mozambique,MOZ,1990,24226
+Mozambique,MOZ,1991,23193
+Mozambique,MOZ,1992,22980
+Mozambique,MOZ,1993,23065
+Mozambique,MOZ,1994,23207
+Mozambique,MOZ,1995,23668
+Mozambique,MOZ,1996,23184
+Mozambique,MOZ,1997,22470
+Mozambique,MOZ,1998,21352
+Mozambique,MOZ,1999,19950
+Mozambique,MOZ,2000,17332
+Mozambique,MOZ,2001,15788
+Mozambique,MOZ,2002,14553
+Mozambique,MOZ,2003,13451
+Mozambique,MOZ,2004,12642
+Mozambique,MOZ,2005,11982
+Mozambique,MOZ,2006,12633
+Mozambique,MOZ,2007,12179
+Mozambique,MOZ,2008,11881
+Mozambique,MOZ,2009,11338
+Mozambique,MOZ,2010,10395
+Mozambique,MOZ,2011,9606
+Mozambique,MOZ,2012,9422
+Mozambique,MOZ,2013,9219
+Mozambique,MOZ,2014,8966
+Mozambique,MOZ,2015,8613
+Mozambique,MOZ,2016,8213
+Mozambique,MOZ,2017,7982
+Mozambique,MOZ,2018,7559
+Mozambique,MOZ,2019,7638
+Myanmar,MMR,1990,44794
+Myanmar,MMR,1991,43547
+Myanmar,MMR,1992,42026
+Myanmar,MMR,1993,40312
+Myanmar,MMR,1994,38289
+Myanmar,MMR,1995,36256
+Myanmar,MMR,1996,33711
+Myanmar,MMR,1997,31189
+Myanmar,MMR,1998,28997
+Myanmar,MMR,1999,26774
+Myanmar,MMR,2000,24357
+Myanmar,MMR,2001,21712
+Myanmar,MMR,2002,19506
+Myanmar,MMR,2003,17734
+Myanmar,MMR,2004,16310
+Myanmar,MMR,2005,14790
+Myanmar,MMR,2006,13610
+Myanmar,MMR,2007,12442
+Myanmar,MMR,2008,11542
+Myanmar,MMR,2009,10614
+Myanmar,MMR,2010,9710
+Myanmar,MMR,2011,9027
+Myanmar,MMR,2012,8315
+Myanmar,MMR,2013,7753
+Myanmar,MMR,2014,7258
+Myanmar,MMR,2015,6755
+Myanmar,MMR,2016,6436
+Myanmar,MMR,2017,6177
+Myanmar,MMR,2018,5804
+Myanmar,MMR,2019,5541
+Namibia,NAM,1990,863
+Namibia,NAM,1991,863
+Namibia,NAM,1992,859
+Namibia,NAM,1993,851
+Namibia,NAM,1994,842
+Namibia,NAM,1995,829
+Namibia,NAM,1996,818
+Namibia,NAM,1997,813
+Namibia,NAM,1998,838
+Namibia,NAM,1999,850
+Namibia,NAM,2000,857
+Namibia,NAM,2001,837
+Namibia,NAM,2002,834
+Namibia,NAM,2003,816
+Namibia,NAM,2004,792
+Namibia,NAM,2005,784
+Namibia,NAM,2006,764
+Namibia,NAM,2007,758
+Namibia,NAM,2008,745
+Namibia,NAM,2009,735
+Namibia,NAM,2010,729
+Namibia,NAM,2011,709
+Namibia,NAM,2012,679
+Namibia,NAM,2013,685
+Namibia,NAM,2014,653
+Namibia,NAM,2015,619
+Namibia,NAM,2016,595
+Namibia,NAM,2017,583
+Namibia,NAM,2018,570
+Namibia,NAM,2019,551
+Nauru,NRU,1990,1
+Nauru,NRU,1991,1
+Nauru,NRU,1992,1
+Nauru,NRU,1993,1
+Nauru,NRU,1994,1
+Nauru,NRU,1995,1
+Nauru,NRU,1996,1
+Nauru,NRU,1997,1
+Nauru,NRU,1998,1
+Nauru,NRU,1999,1
+Nauru,NRU,2000,1
+Nauru,NRU,2001,1
+Nauru,NRU,2002,1
+Nauru,NRU,2003,1
+Nauru,NRU,2004,1
+Nauru,NRU,2005,1
+Nauru,NRU,2006,1
+Nauru,NRU,2007,1
+Nauru,NRU,2008,1
+Nauru,NRU,2009,1
+Nauru,NRU,2010,1
+Nauru,NRU,2011,0
+Nauru,NRU,2012,0
+Nauru,NRU,2013,0
+Nauru,NRU,2014,0
+Nauru,NRU,2015,0
+Nauru,NRU,2016,0
+Nauru,NRU,2017,0
+Nauru,NRU,2018,0
+Nauru,NRU,2019,0
+Nepal,NPL,1990,19930
+Nepal,NPL,1991,20031
+Nepal,NPL,1992,18608
+Nepal,NPL,1993,17901
+Nepal,NPL,1994,17086
+Nepal,NPL,1995,16217
+Nepal,NPL,1996,15343
+Nepal,NPL,1997,14364
+Nepal,NPL,1998,13425
+Nepal,NPL,1999,12382
+Nepal,NPL,2000,11440
+Nepal,NPL,2001,10583
+Nepal,NPL,2002,9747
+Nepal,NPL,2003,9001
+Nepal,NPL,2004,8342
+Nepal,NPL,2005,8194
+Nepal,NPL,2006,7874
+Nepal,NPL,2007,7458
+Nepal,NPL,2008,7065
+Nepal,NPL,2009,7001
+Nepal,NPL,2010,6416
+Nepal,NPL,2011,5958
+Nepal,NPL,2012,5664
+Nepal,NPL,2013,5553
+Nepal,NPL,2014,5358
+Nepal,NPL,2015,5206
+Nepal,NPL,2016,5066
+Nepal,NPL,2017,5032
+Nepal,NPL,2018,4813
+Nepal,NPL,2019,4705
+Netherlands,NLD,1990,2
+Netherlands,NLD,1991,2
+Netherlands,NLD,1992,3
+Netherlands,NLD,1993,3
+Netherlands,NLD,1994,3
+Netherlands,NLD,1995,3
+Netherlands,NLD,1996,4
+Netherlands,NLD,1997,4
+Netherlands,NLD,1998,4
+Netherlands,NLD,1999,4
+Netherlands,NLD,2000,5
+Netherlands,NLD,2001,5
+Netherlands,NLD,2002,6
+Netherlands,NLD,2003,7
+Netherlands,NLD,2004,7
+Netherlands,NLD,2005,8
+Netherlands,NLD,2006,8
+Netherlands,NLD,2007,9
+Netherlands,NLD,2008,9
+Netherlands,NLD,2009,10
+Netherlands,NLD,2010,10
+Netherlands,NLD,2011,10
+Netherlands,NLD,2012,10
+Netherlands,NLD,2013,10
+Netherlands,NLD,2014,10
+Netherlands,NLD,2015,10
+Netherlands,NLD,2016,10
+Netherlands,NLD,2017,10
+Netherlands,NLD,2018,10
+Netherlands,NLD,2019,10
+New Zealand,NZL,1990,3
+New Zealand,NZL,1991,2
+New Zealand,NZL,1992,2
+New Zealand,NZL,1993,2
+New Zealand,NZL,1994,2
+New Zealand,NZL,1995,2
+New Zealand,NZL,1996,2
+New Zealand,NZL,1997,2
+New Zealand,NZL,1998,2
+New Zealand,NZL,1999,2
+New Zealand,NZL,2000,2
+New Zealand,NZL,2001,2
+New Zealand,NZL,2002,3
+New Zealand,NZL,2003,3
+New Zealand,NZL,2004,4
+New Zealand,NZL,2005,4
+New Zealand,NZL,2006,6
+New Zealand,NZL,2007,8
+New Zealand,NZL,2008,9
+New Zealand,NZL,2009,11
+New Zealand,NZL,2010,12
+New Zealand,NZL,2011,14
+New Zealand,NZL,2012,14
+New Zealand,NZL,2013,14
+New Zealand,NZL,2014,15
+New Zealand,NZL,2015,15
+New Zealand,NZL,2016,14
+New Zealand,NZL,2017,14
+New Zealand,NZL,2018,14
+New Zealand,NZL,2019,13
+Nicaragua,NIC,1990,1941
+Nicaragua,NIC,1991,1849
+Nicaragua,NIC,1992,1745
+Nicaragua,NIC,1993,1748
+Nicaragua,NIC,1994,1532
+Nicaragua,NIC,1995,1430
+Nicaragua,NIC,1996,1220
+Nicaragua,NIC,1997,1026
+Nicaragua,NIC,1998,884
+Nicaragua,NIC,1999,744
+Nicaragua,NIC,2000,647
+Nicaragua,NIC,2001,576
+Nicaragua,NIC,2002,512
+Nicaragua,NIC,2003,459
+Nicaragua,NIC,2004,411
+Nicaragua,NIC,2005,375
+Nicaragua,NIC,2006,331
+Nicaragua,NIC,2007,298
+Nicaragua,NIC,2008,267
+Nicaragua,NIC,2009,243
+Nicaragua,NIC,2010,222
+Nicaragua,NIC,2011,202
+Nicaragua,NIC,2012,188
+Nicaragua,NIC,2013,176
+Nicaragua,NIC,2014,164
+Nicaragua,NIC,2015,157
+Nicaragua,NIC,2016,150
+Nicaragua,NIC,2017,148
+Nicaragua,NIC,2018,143
+Nicaragua,NIC,2019,136
+Niger,NER,1990,31565
+Niger,NER,1991,32200
+Niger,NER,1992,32673
+Niger,NER,1993,33142
+Niger,NER,1994,33342
+Niger,NER,1995,33675
+Niger,NER,1996,33351
+Niger,NER,1997,33237
+Niger,NER,1998,33012
+Niger,NER,1999,33128
+Niger,NER,2000,33031
+Niger,NER,2001,33004
+Niger,NER,2002,32672
+Niger,NER,2003,32337
+Niger,NER,2004,30962
+Niger,NER,2005,32673
+Niger,NER,2006,31764
+Niger,NER,2007,30037
+Niger,NER,2008,27692
+Niger,NER,2009,26346
+Niger,NER,2010,24401
+Niger,NER,2011,24077
+Niger,NER,2012,23519
+Niger,NER,2013,24469
+Niger,NER,2014,24961
+Niger,NER,2015,25169
+Niger,NER,2016,25887
+Niger,NER,2017,26515
+Niger,NER,2018,25307
+Niger,NER,2019,24716
+Nigeria,NGA,1990,249780
+Nigeria,NGA,1991,261158
+Nigeria,NGA,1992,247032
+Nigeria,NGA,1993,242794
+Nigeria,NGA,1994,240519
+Nigeria,NGA,1995,238666
+Nigeria,NGA,1996,241658
+Nigeria,NGA,1997,239391
+Nigeria,NGA,1998,239380
+Nigeria,NGA,1999,240530
+Nigeria,NGA,2000,240627
+Nigeria,NGA,2001,239762
+Nigeria,NGA,2002,235996
+Nigeria,NGA,2003,230139
+Nigeria,NGA,2004,224369
+Nigeria,NGA,2005,217675
+Nigeria,NGA,2006,222001
+Nigeria,NGA,2007,221663
+Nigeria,NGA,2008,215565
+Nigeria,NGA,2009,212963
+Nigeria,NGA,2010,210281
+Nigeria,NGA,2011,199203
+Nigeria,NGA,2012,192971
+Nigeria,NGA,2013,187839
+Nigeria,NGA,2014,182872
+Nigeria,NGA,2015,177118
+Nigeria,NGA,2016,174540
+Nigeria,NGA,2017,172466
+Nigeria,NGA,2018,163956
+Nigeria,NGA,2019,157292
+Niue,NIU,1990,0
+Niue,NIU,1991,0
+Niue,NIU,1992,0
+Niue,NIU,1993,0
+Niue,NIU,1994,0
+Niue,NIU,1995,0
+Niue,NIU,1996,0
+Niue,NIU,1997,0
+Niue,NIU,1998,0
+Niue,NIU,1999,0
+Niue,NIU,2000,0
+Niue,NIU,2001,0
+Niue,NIU,2002,0
+Niue,NIU,2003,0
+Niue,NIU,2004,0
+Niue,NIU,2005,0
+Niue,NIU,2006,0
+Niue,NIU,2007,0
+Niue,NIU,2008,0
+Niue,NIU,2009,0
+Niue,NIU,2010,0
+Niue,NIU,2011,0
+Niue,NIU,2012,0
+Niue,NIU,2013,0
+Niue,NIU,2014,0
+Niue,NIU,2015,0
+Niue,NIU,2016,0
+Niue,NIU,2017,0
+Niue,NIU,2018,0
+Niue,NIU,2019,0
+Nordic Region,,1990,14
+Nordic Region,,1991,14
+Nordic Region,,1992,13
+Nordic Region,,1993,13
+Nordic Region,,1994,13
+Nordic Region,,1995,13
+Nordic Region,,1996,13
+Nordic Region,,1997,12
+Nordic Region,,1998,12
+Nordic Region,,1999,13
+Nordic Region,,2000,14
+Nordic Region,,2001,15
+Nordic Region,,2002,18
+Nordic Region,,2003,20
+Nordic Region,,2004,21
+Nordic Region,,2005,24
+Nordic Region,,2006,27
+Nordic Region,,2007,31
+Nordic Region,,2008,33
+Nordic Region,,2009,37
+Nordic Region,,2010,39
+Nordic Region,,2011,40
+Nordic Region,,2012,41
+Nordic Region,,2013,41
+Nordic Region,,2014,40
+Nordic Region,,2015,40
+Nordic Region,,2016,40
+Nordic Region,,2017,40
+Nordic Region,,2018,39
+Nordic Region,,2019,38
+North Africa and Middle East,,1990,87892
+North Africa and Middle East,,1991,84272
+North Africa and Middle East,,1992,81446
+North Africa and Middle East,,1993,79794
+North Africa and Middle East,,1994,77126
+North Africa and Middle East,,1995,76124
+North Africa and Middle East,,1996,73796
+North Africa and Middle East,,1997,72036
+North Africa and Middle East,,1998,71782
+North Africa and Middle East,,1999,69226
+North Africa and Middle East,,2000,66635
+North Africa and Middle East,,2001,63891
+North Africa and Middle East,,2002,61703
+North Africa and Middle East,,2003,60071
+North Africa and Middle East,,2004,57305
+North Africa and Middle East,,2005,54924
+North Africa and Middle East,,2006,52187
+North Africa and Middle East,,2007,49345
+North Africa and Middle East,,2008,46550
+North Africa and Middle East,,2009,43247
+North Africa and Middle East,,2010,39914
+North Africa and Middle East,,2011,36690
+North Africa and Middle East,,2012,33750
+North Africa and Middle East,,2013,31795
+North Africa and Middle East,,2014,29679
+North Africa and Middle East,,2015,27472
+North Africa and Middle East,,2016,25900
+North Africa and Middle East,,2017,26074
+North Africa and Middle East,,2018,22630
+North Africa and Middle East,,2019,20999
+North America,,1990,92
+North America,,1991,100
+North America,,1992,107
+North America,,1993,119
+North America,,1994,131
+North America,,1995,147
+North America,,1996,167
+North America,,1997,196
+North America,,1998,238
+North America,,1999,312
+North America,,2000,399
+North America,,2001,428
+North America,,2002,458
+North America,,2003,479
+North America,,2004,496
+North America,,2005,516
+North America,,2006,541
+North America,,2007,543
+North America,,2008,533
+North America,,2009,504
+North America,,2010,474
+North America,,2011,479
+North America,,2012,473
+North America,,2013,466
+North America,,2014,458
+North America,,2015,452
+North America,,2016,442
+North America,,2017,431
+North America,,2018,437
+North America,,2019,441
+North Korea,PRK,1990,650
+North Korea,PRK,1991,619
+North Korea,PRK,1992,585
+North Korea,PRK,1993,554
+North Korea,PRK,1994,527
+North Korea,PRK,1995,503
+North Korea,PRK,1996,486
+North Korea,PRK,1997,467
+North Korea,PRK,1998,449
+North Korea,PRK,1999,431
+North Korea,PRK,2000,413
+North Korea,PRK,2001,387
+North Korea,PRK,2002,360
+North Korea,PRK,2003,338
+North Korea,PRK,2004,315
+North Korea,PRK,2005,290
+North Korea,PRK,2006,266
+North Korea,PRK,2007,244
+North Korea,PRK,2008,247
+North Korea,PRK,2009,231
+North Korea,PRK,2010,215
+North Korea,PRK,2011,202
+North Korea,PRK,2012,188
+North Korea,PRK,2013,175
+North Korea,PRK,2014,165
+North Korea,PRK,2015,154
+North Korea,PRK,2016,146
+North Korea,PRK,2017,138
+North Korea,PRK,2018,127
+North Korea,PRK,2019,119
+North Macedonia,MKD,1990,84
+North Macedonia,MKD,1991,81
+North Macedonia,MKD,1992,78
+North Macedonia,MKD,1993,67
+North Macedonia,MKD,1994,60
+North Macedonia,MKD,1995,49
+North Macedonia,MKD,1996,36
+North Macedonia,MKD,1997,29
+North Macedonia,MKD,1998,25
+North Macedonia,MKD,1999,19
+North Macedonia,MKD,2000,14
+North Macedonia,MKD,2001,11
+North Macedonia,MKD,2002,9
+North Macedonia,MKD,2003,7
+North Macedonia,MKD,2004,6
+North Macedonia,MKD,2005,4
+North Macedonia,MKD,2006,4
+North Macedonia,MKD,2007,3
+North Macedonia,MKD,2008,3
+North Macedonia,MKD,2009,3
+North Macedonia,MKD,2010,2
+North Macedonia,MKD,2011,2
+North Macedonia,MKD,2012,2
+North Macedonia,MKD,2013,2
+North Macedonia,MKD,2014,2
+North Macedonia,MKD,2015,2
+North Macedonia,MKD,2016,2
+North Macedonia,MKD,2017,2
+North Macedonia,MKD,2018,2
+North Macedonia,MKD,2019,2
+Northern Ireland,,1990,0
+Northern Ireland,,1991,0
+Northern Ireland,,1992,0
+Northern Ireland,,1993,0
+Northern Ireland,,1994,0
+Northern Ireland,,1995,0
+Northern Ireland,,1996,0
+Northern Ireland,,1997,0
+Northern Ireland,,1998,1
+Northern Ireland,,1999,1
+Northern Ireland,,2000,1
+Northern Ireland,,2001,1
+Northern Ireland,,2002,1
+Northern Ireland,,2003,1
+Northern Ireland,,2004,1
+Northern Ireland,,2005,1
+Northern Ireland,,2006,2
+Northern Ireland,,2007,2
+Northern Ireland,,2008,2
+Northern Ireland,,2009,2
+Northern Ireland,,2010,2
+Northern Ireland,,2011,1
+Northern Ireland,,2012,1
+Northern Ireland,,2013,1
+Northern Ireland,,2014,1
+Northern Ireland,,2015,1
+Northern Ireland,,2016,1
+Northern Ireland,,2017,1
+Northern Ireland,,2018,1
+Northern Ireland,,2019,1
+Northern Mariana Islands,MNP,1990,1
+Northern Mariana Islands,MNP,1991,1
+Northern Mariana Islands,MNP,1992,1
+Northern Mariana Islands,MNP,1993,1
+Northern Mariana Islands,MNP,1994,1
+Northern Mariana Islands,MNP,1995,1
+Northern Mariana Islands,MNP,1996,1
+Northern Mariana Islands,MNP,1997,1
+Northern Mariana Islands,MNP,1998,1
+Northern Mariana Islands,MNP,1999,1
+Northern Mariana Islands,MNP,2000,1
+Northern Mariana Islands,MNP,2001,1
+Northern Mariana Islands,MNP,2002,1
+Northern Mariana Islands,MNP,2003,1
+Northern Mariana Islands,MNP,2004,1
+Northern Mariana Islands,MNP,2005,1
+Northern Mariana Islands,MNP,2006,1
+Northern Mariana Islands,MNP,2007,1
+Northern Mariana Islands,MNP,2008,1
+Northern Mariana Islands,MNP,2009,1
+Northern Mariana Islands,MNP,2010,1
+Northern Mariana Islands,MNP,2011,1
+Northern Mariana Islands,MNP,2012,1
+Northern Mariana Islands,MNP,2013,1
+Northern Mariana Islands,MNP,2014,1
+Northern Mariana Islands,MNP,2015,1
+Northern Mariana Islands,MNP,2016,1
+Northern Mariana Islands,MNP,2017,1
+Northern Mariana Islands,MNP,2018,1
+Northern Mariana Islands,MNP,2019,1
+Norway,NOR,1990,3
+Norway,NOR,1991,3
+Norway,NOR,1992,2
+Norway,NOR,1993,3
+Norway,NOR,1994,3
+Norway,NOR,1995,3
+Norway,NOR,1996,3
+Norway,NOR,1997,3
+Norway,NOR,1998,3
+Norway,NOR,1999,3
+Norway,NOR,2000,3
+Norway,NOR,2001,3
+Norway,NOR,2002,4
+Norway,NOR,2003,4
+Norway,NOR,2004,5
+Norway,NOR,2005,6
+Norway,NOR,2006,6
+Norway,NOR,2007,7
+Norway,NOR,2008,8
+Norway,NOR,2009,8
+Norway,NOR,2010,8
+Norway,NOR,2011,8
+Norway,NOR,2012,9
+Norway,NOR,2013,8
+Norway,NOR,2014,8
+Norway,NOR,2015,8
+Norway,NOR,2016,8
+Norway,NOR,2017,8
+Norway,NOR,2018,8
+Norway,NOR,2019,8
+Oceania,,1990,2657
+Oceania,,1991,2689
+Oceania,,1992,2703
+Oceania,,1993,2693
+Oceania,,1994,2678
+Oceania,,1995,2679
+Oceania,,1996,2698
+Oceania,,1997,2711
+Oceania,,1998,2803
+Oceania,,1999,2857
+Oceania,,2000,2899
+Oceania,,2001,2919
+Oceania,,2002,2968
+Oceania,,2003,2986
+Oceania,,2004,3045
+Oceania,,2005,3172
+Oceania,,2006,3270
+Oceania,,2007,3303
+Oceania,,2008,3298
+Oceania,,2009,3418
+Oceania,,2010,3403
+Oceania,,2011,3313
+Oceania,,2012,3295
+Oceania,,2013,3281
+Oceania,,2014,3254
+Oceania,,2015,3207
+Oceania,,2016,3199
+Oceania,,2017,3241
+Oceania,,2018,3183
+Oceania,,2019,3136
+Oman,OMN,1990,91
+Oman,OMN,1991,77
+Oman,OMN,1992,65
+Oman,OMN,1993,56
+Oman,OMN,1994,49
+Oman,OMN,1995,45
+Oman,OMN,1996,40
+Oman,OMN,1997,37
+Oman,OMN,1998,34
+Oman,OMN,1999,32
+Oman,OMN,2000,30
+Oman,OMN,2001,28
+Oman,OMN,2002,27
+Oman,OMN,2003,25
+Oman,OMN,2004,23
+Oman,OMN,2005,22
+Oman,OMN,2006,22
+Oman,OMN,2007,21
+Oman,OMN,2008,22
+Oman,OMN,2009,23
+Oman,OMN,2010,22
+Oman,OMN,2011,23
+Oman,OMN,2012,23
+Oman,OMN,2013,23
+Oman,OMN,2014,23
+Oman,OMN,2015,23
+Oman,OMN,2016,23
+Oman,OMN,2017,22
+Oman,OMN,2018,21
+Oman,OMN,2019,21
+Pakistan,PAK,1990,114648
+Pakistan,PAK,1991,112993
+Pakistan,PAK,1992,112531
+Pakistan,PAK,1993,113043
+Pakistan,PAK,1994,112605
+Pakistan,PAK,1995,110393
+Pakistan,PAK,1996,107696
+Pakistan,PAK,1997,105725
+Pakistan,PAK,1998,103402
+Pakistan,PAK,1999,100773
+Pakistan,PAK,2000,97245
+Pakistan,PAK,2001,93632
+Pakistan,PAK,2002,91189
+Pakistan,PAK,2003,88966
+Pakistan,PAK,2004,86628
+Pakistan,PAK,2005,83531
+Pakistan,PAK,2006,82035
+Pakistan,PAK,2007,80434
+Pakistan,PAK,2008,83789
+Pakistan,PAK,2009,84466
+Pakistan,PAK,2010,83002
+Pakistan,PAK,2011,82417
+Pakistan,PAK,2012,81531
+Pakistan,PAK,2013,78923
+Pakistan,PAK,2014,77390
+Pakistan,PAK,2015,75603
+Pakistan,PAK,2016,73639
+Pakistan,PAK,2017,72574
+Pakistan,PAK,2018,68301
+Pakistan,PAK,2019,65455
+Palau,PLW,1990,1
+Palau,PLW,1991,1
+Palau,PLW,1992,1
+Palau,PLW,1993,1
+Palau,PLW,1994,1
+Palau,PLW,1995,1
+Palau,PLW,1996,1
+Palau,PLW,1997,1
+Palau,PLW,1998,1
+Palau,PLW,1999,1
+Palau,PLW,2000,1
+Palau,PLW,2001,1
+Palau,PLW,2002,1
+Palau,PLW,2003,1
+Palau,PLW,2004,1
+Palau,PLW,2005,1
+Palau,PLW,2006,1
+Palau,PLW,2007,1
+Palau,PLW,2008,1
+Palau,PLW,2009,1
+Palau,PLW,2010,1
+Palau,PLW,2011,1
+Palau,PLW,2012,1
+Palau,PLW,2013,1
+Palau,PLW,2014,1
+Palau,PLW,2015,1
+Palau,PLW,2016,1
+Palau,PLW,2017,1
+Palau,PLW,2018,1
+Palau,PLW,2019,1
+Palestine,PSE,1990,57
+Palestine,PSE,1991,54
+Palestine,PSE,1992,51
+Palestine,PSE,1993,48
+Palestine,PSE,1994,46
+Palestine,PSE,1995,43
+Palestine,PSE,1996,40
+Palestine,PSE,1997,38
+Palestine,PSE,1998,37
+Palestine,PSE,1999,37
+Palestine,PSE,2000,36
+Palestine,PSE,2001,35
+Palestine,PSE,2002,36
+Palestine,PSE,2003,36
+Palestine,PSE,2004,37
+Palestine,PSE,2005,38
+Palestine,PSE,2006,39
+Palestine,PSE,2007,40
+Palestine,PSE,2008,41
+Palestine,PSE,2009,40
+Palestine,PSE,2010,40
+Palestine,PSE,2011,37
+Palestine,PSE,2012,35
+Palestine,PSE,2013,32
+Palestine,PSE,2014,30
+Palestine,PSE,2015,27
+Palestine,PSE,2016,25
+Palestine,PSE,2017,23
+Palestine,PSE,2018,22
+Palestine,PSE,2019,21
+Panama,PAN,1990,151
+Panama,PAN,1991,143
+Panama,PAN,1992,137
+Panama,PAN,1993,132
+Panama,PAN,1994,123
+Panama,PAN,1995,117
+Panama,PAN,1996,108
+Panama,PAN,1997,108
+Panama,PAN,1998,114
+Panama,PAN,1999,109
+Panama,PAN,2000,109
+Panama,PAN,2001,110
+Panama,PAN,2002,107
+Panama,PAN,2003,114
+Panama,PAN,2004,121
+Panama,PAN,2005,130
+Panama,PAN,2006,128
+Panama,PAN,2007,137
+Panama,PAN,2008,140
+Panama,PAN,2009,145
+Panama,PAN,2010,145
+Panama,PAN,2011,142
+Panama,PAN,2012,140
+Panama,PAN,2013,138
+Panama,PAN,2014,133
+Panama,PAN,2015,123
+Panama,PAN,2016,124
+Panama,PAN,2017,119
+Panama,PAN,2018,115
+Panama,PAN,2019,111
+Papua New Guinea,PNG,1990,1966
+Papua New Guinea,PNG,1991,2003
+Papua New Guinea,PNG,1992,2027
+Papua New Guinea,PNG,1993,2028
+Papua New Guinea,PNG,1994,2025
+Papua New Guinea,PNG,1995,2038
+Papua New Guinea,PNG,1996,2067
+Papua New Guinea,PNG,1997,2092
+Papua New Guinea,PNG,1998,2178
+Papua New Guinea,PNG,1999,2234
+Papua New Guinea,PNG,2000,2261
+Papua New Guinea,PNG,2001,2303
+Papua New Guinea,PNG,2002,2352
+Papua New Guinea,PNG,2003,2374
+Papua New Guinea,PNG,2004,2436
+Papua New Guinea,PNG,2005,2557
+Papua New Guinea,PNG,2006,2650
+Papua New Guinea,PNG,2007,2680
+Papua New Guinea,PNG,2008,2691
+Papua New Guinea,PNG,2009,2806
+Papua New Guinea,PNG,2010,2798
+Papua New Guinea,PNG,2011,2719
+Papua New Guinea,PNG,2012,2712
+Papua New Guinea,PNG,2013,2706
+Papua New Guinea,PNG,2014,2686
+Papua New Guinea,PNG,2015,2648
+Papua New Guinea,PNG,2016,2651
+Papua New Guinea,PNG,2017,2698
+Papua New Guinea,PNG,2018,2654
+Papua New Guinea,PNG,2019,2620
+Paraguay,PRY,1990,601
+Paraguay,PRY,1991,583
+Paraguay,PRY,1992,580
+Paraguay,PRY,1993,562
+Paraguay,PRY,1994,540
+Paraguay,PRY,1995,513
+Paraguay,PRY,1996,488
+Paraguay,PRY,1997,453
+Paraguay,PRY,1998,422
+Paraguay,PRY,1999,393
+Paraguay,PRY,2000,371
+Paraguay,PRY,2001,348
+Paraguay,PRY,2002,326
+Paraguay,PRY,2003,301
+Paraguay,PRY,2004,277
+Paraguay,PRY,2005,249
+Paraguay,PRY,2006,225
+Paraguay,PRY,2007,202
+Paraguay,PRY,2008,184
+Paraguay,PRY,2009,170
+Paraguay,PRY,2010,156
+Paraguay,PRY,2011,146
+Paraguay,PRY,2012,139
+Paraguay,PRY,2013,132
+Paraguay,PRY,2014,123
+Paraguay,PRY,2015,114
+Paraguay,PRY,2016,112
+Paraguay,PRY,2017,112
+Paraguay,PRY,2018,112
+Paraguay,PRY,2019,112
+Peru,PER,1990,4626
+Peru,PER,1991,5480
+Peru,PER,1992,4393
+Peru,PER,1993,3938
+Peru,PER,1994,3296
+Peru,PER,1995,2973
+Peru,PER,1996,2584
+Peru,PER,1997,2337
+Peru,PER,1998,2113
+Peru,PER,1999,1857
+Peru,PER,2000,1595
+Peru,PER,2001,1351
+Peru,PER,2002,1215
+Peru,PER,2003,1133
+Peru,PER,2004,1050
+Peru,PER,2005,976
+Peru,PER,2006,914
+Peru,PER,2007,845
+Peru,PER,2008,807
+Peru,PER,2009,802
+Peru,PER,2010,778
+Peru,PER,2011,758
+Peru,PER,2012,743
+Peru,PER,2013,740
+Peru,PER,2014,734
+Peru,PER,2015,729
+Peru,PER,2016,727
+Peru,PER,2017,725
+Peru,PER,2018,729
+Peru,PER,2019,732
+Philippines,PHL,1990,19327
+Philippines,PHL,1991,18515
+Philippines,PHL,1992,17995
+Philippines,PHL,1993,17432
+Philippines,PHL,1994,16561
+Philippines,PHL,1995,15536
+Philippines,PHL,1996,14564
+Philippines,PHL,1997,13612
+Philippines,PHL,1998,12851
+Philippines,PHL,1999,13040
+Philippines,PHL,2000,12333
+Philippines,PHL,2001,11595
+Philippines,PHL,2002,10905
+Philippines,PHL,2003,10225
+Philippines,PHL,2004,9252
+Philippines,PHL,2005,9540
+Philippines,PHL,2006,9482
+Philippines,PHL,2007,9211
+Philippines,PHL,2008,9047
+Philippines,PHL,2009,8971
+Philippines,PHL,2010,8521
+Philippines,PHL,2011,8318
+Philippines,PHL,2012,8190
+Philippines,PHL,2013,7770
+Philippines,PHL,2014,7623
+Philippines,PHL,2015,7561
+Philippines,PHL,2016,7430
+Philippines,PHL,2017,7252
+Philippines,PHL,2018,6871
+Philippines,PHL,2019,6654
+Poland,POL,1990,57
+Poland,POL,1991,50
+Poland,POL,1992,45
+Poland,POL,1993,38
+Poland,POL,1994,37
+Poland,POL,1995,32
+Poland,POL,1996,30
+Poland,POL,1997,27
+Poland,POL,1998,25
+Poland,POL,1999,24
+Poland,POL,2000,22
+Poland,POL,2001,21
+Poland,POL,2002,21
+Poland,POL,2003,20
+Poland,POL,2004,20
+Poland,POL,2005,22
+Poland,POL,2006,23
+Poland,POL,2007,26
+Poland,POL,2008,29
+Poland,POL,2009,35
+Poland,POL,2010,40
+Poland,POL,2011,49
+Poland,POL,2012,60
+Poland,POL,2013,74
+Poland,POL,2014,84
+Poland,POL,2015,94
+Poland,POL,2016,97
+Poland,POL,2017,85
+Poland,POL,2018,81
+Poland,POL,2019,76
+Portugal,PRT,1990,20
+Portugal,PRT,1991,17
+Portugal,PRT,1992,13
+Portugal,PRT,1993,11
+Portugal,PRT,1994,9
+Portugal,PRT,1995,7
+Portugal,PRT,1996,6
+Portugal,PRT,1997,6
+Portugal,PRT,1998,5
+Portugal,PRT,1999,5
+Portugal,PRT,2000,5
+Portugal,PRT,2001,5
+Portugal,PRT,2002,6
+Portugal,PRT,2003,8
+Portugal,PRT,2004,8
+Portugal,PRT,2005,8
+Portugal,PRT,2006,10
+Portugal,PRT,2007,12
+Portugal,PRT,2008,14
+Portugal,PRT,2009,16
+Portugal,PRT,2010,18
+Portugal,PRT,2011,21
+Portugal,PRT,2012,23
+Portugal,PRT,2013,26
+Portugal,PRT,2014,28
+Portugal,PRT,2015,28
+Portugal,PRT,2016,29
+Portugal,PRT,2017,26
+Portugal,PRT,2018,25
+Portugal,PRT,2019,24
+Puerto Rico,PRI,1990,14
+Puerto Rico,PRI,1991,15
+Puerto Rico,PRI,1992,16
+Puerto Rico,PRI,1993,17
+Puerto Rico,PRI,1994,17
+Puerto Rico,PRI,1995,19
+Puerto Rico,PRI,1996,19
+Puerto Rico,PRI,1997,20
+Puerto Rico,PRI,1998,22
+Puerto Rico,PRI,1999,27
+Puerto Rico,PRI,2000,32
+Puerto Rico,PRI,2001,36
+Puerto Rico,PRI,2002,39
+Puerto Rico,PRI,2003,43
+Puerto Rico,PRI,2004,50
+Puerto Rico,PRI,2005,56
+Puerto Rico,PRI,2006,58
+Puerto Rico,PRI,2007,61
+Puerto Rico,PRI,2008,64
+Puerto Rico,PRI,2009,67
+Puerto Rico,PRI,2010,66
+Puerto Rico,PRI,2011,69
+Puerto Rico,PRI,2012,66
+Puerto Rico,PRI,2013,66
+Puerto Rico,PRI,2014,66
+Puerto Rico,PRI,2015,62
+Puerto Rico,PRI,2016,65
+Puerto Rico,PRI,2017,66
+Puerto Rico,PRI,2018,67
+Puerto Rico,PRI,2019,68
+Qatar,QAT,1990,2
+Qatar,QAT,1991,2
+Qatar,QAT,1992,2
+Qatar,QAT,1993,2
+Qatar,QAT,1994,2
+Qatar,QAT,1995,1
+Qatar,QAT,1996,1
+Qatar,QAT,1997,1
+Qatar,QAT,1998,1
+Qatar,QAT,1999,1
+Qatar,QAT,2000,1
+Qatar,QAT,2001,1
+Qatar,QAT,2002,1
+Qatar,QAT,2003,1
+Qatar,QAT,2004,1
+Qatar,QAT,2005,2
+Qatar,QAT,2006,2
+Qatar,QAT,2007,2
+Qatar,QAT,2008,2
+Qatar,QAT,2009,2
+Qatar,QAT,2010,2
+Qatar,QAT,2011,2
+Qatar,QAT,2012,2
+Qatar,QAT,2013,2
+Qatar,QAT,2014,2
+Qatar,QAT,2015,2
+Qatar,QAT,2016,2
+Qatar,QAT,2017,2
+Qatar,QAT,2018,2
+Qatar,QAT,2019,2
+Region of the Americas,,1990,94454
+Region of the Americas,,1991,89985
+Region of the Americas,,1992,82789
+Region of the Americas,,1993,76983
+Region of the Americas,,1994,70517
+Region of the Americas,,1995,64142
+Region of the Americas,,1996,58257
+Region of the Americas,,1997,53015
+Region of the Americas,,1998,48832
+Region of the Americas,,1999,44422
+Region of the Americas,,2000,40577
+Region of the Americas,,2001,37720
+Region of the Americas,,2002,35528
+Region of the Americas,,2003,33804
+Region of the Americas,,2004,31713
+Region of the Americas,,2005,29789
+Region of the Americas,,2006,27724
+Region of the Americas,,2007,25962
+Region of the Americas,,2008,24509
+Region of the Americas,,2009,23219
+Region of the Americas,,2010,23196
+Region of the Americas,,2011,25923
+Region of the Americas,,2012,20620
+Region of the Americas,,2013,20586
+Region of the Americas,,2014,19836
+Region of the Americas,,2015,19386
+Region of the Americas,,2016,19397
+Region of the Americas,,2017,18643
+Region of the Americas,,2018,18325
+Region of the Americas,,2019,18122
+Romania,ROU,1990,239
+Romania,ROU,1991,188
+Romania,ROU,1992,175
+Romania,ROU,1993,176
+Romania,ROU,1994,175
+Romania,ROU,1995,151
+Romania,ROU,1996,150
+Romania,ROU,1997,141
+Romania,ROU,1998,130
+Romania,ROU,1999,112
+Romania,ROU,2000,104
+Romania,ROU,2001,88
+Romania,ROU,2002,74
+Romania,ROU,2003,65
+Romania,ROU,2004,59
+Romania,ROU,2005,51
+Romania,ROU,2006,44
+Romania,ROU,2007,35
+Romania,ROU,2008,32
+Romania,ROU,2009,30
+Romania,ROU,2010,28
+Romania,ROU,2011,28
+Romania,ROU,2012,29
+Romania,ROU,2013,32
+Romania,ROU,2014,36
+Romania,ROU,2015,40
+Romania,ROU,2016,42
+Romania,ROU,2017,44
+Romania,ROU,2018,40
+Romania,ROU,2019,38
+Russia,RUS,1990,887
+Russia,RUS,1991,833
+Russia,RUS,1992,803
+Russia,RUS,1993,883
+Russia,RUS,1994,904
+Russia,RUS,1995,837
+Russia,RUS,1996,720
+Russia,RUS,1997,647
+Russia,RUS,1998,614
+Russia,RUS,1999,634
+Russia,RUS,2000,596
+Russia,RUS,2001,553
+Russia,RUS,2002,497
+Russia,RUS,2003,451
+Russia,RUS,2004,386
+Russia,RUS,2005,346
+Russia,RUS,2006,291
+Russia,RUS,2007,259
+Russia,RUS,2008,239
+Russia,RUS,2009,220
+Russia,RUS,2010,209
+Russia,RUS,2011,208
+Russia,RUS,2012,217
+Russia,RUS,2013,209
+Russia,RUS,2014,206
+Russia,RUS,2015,192
+Russia,RUS,2016,181
+Russia,RUS,2017,168
+Russia,RUS,2018,164
+Russia,RUS,2019,161
+Rwanda,RWA,1990,13803
+Rwanda,RWA,1991,14496
+Rwanda,RWA,1992,13883
+Rwanda,RWA,1993,11975
+Rwanda,RWA,1994,20648
+Rwanda,RWA,1995,13454
+Rwanda,RWA,1996,14642
+Rwanda,RWA,1997,14850
+Rwanda,RWA,1998,14583
+Rwanda,RWA,1999,13693
+Rwanda,RWA,2000,12825
+Rwanda,RWA,2001,11348
+Rwanda,RWA,2002,10186
+Rwanda,RWA,2003,9127
+Rwanda,RWA,2004,8646
+Rwanda,RWA,2005,7739
+Rwanda,RWA,2006,6813
+Rwanda,RWA,2007,6018
+Rwanda,RWA,2008,5208
+Rwanda,RWA,2009,4513
+Rwanda,RWA,2010,4129
+Rwanda,RWA,2011,3914
+Rwanda,RWA,2012,3662
+Rwanda,RWA,2013,3443
+Rwanda,RWA,2014,3510
+Rwanda,RWA,2015,3483
+Rwanda,RWA,2016,3382
+Rwanda,RWA,2017,3306
+Rwanda,RWA,2018,3213
+Rwanda,RWA,2019,3055
+Saint Kitts and Nevis,KNA,1990,6
+Saint Kitts and Nevis,KNA,1991,5
+Saint Kitts and Nevis,KNA,1992,5
+Saint Kitts and Nevis,KNA,1993,5
+Saint Kitts and Nevis,KNA,1994,4
+Saint Kitts and Nevis,KNA,1995,4
+Saint Kitts and Nevis,KNA,1996,4
+Saint Kitts and Nevis,KNA,1997,4
+Saint Kitts and Nevis,KNA,1998,3
+Saint Kitts and Nevis,KNA,1999,3
+Saint Kitts and Nevis,KNA,2000,3
+Saint Kitts and Nevis,KNA,2001,2
+Saint Kitts and Nevis,KNA,2002,2
+Saint Kitts and Nevis,KNA,2003,2
+Saint Kitts and Nevis,KNA,2004,2
+Saint Kitts and Nevis,KNA,2005,2
+Saint Kitts and Nevis,KNA,2006,2
+Saint Kitts and Nevis,KNA,2007,2
+Saint Kitts and Nevis,KNA,2008,2
+Saint Kitts and Nevis,KNA,2009,2
+Saint Kitts and Nevis,KNA,2010,2
+Saint Kitts and Nevis,KNA,2011,2
+Saint Kitts and Nevis,KNA,2012,2
+Saint Kitts and Nevis,KNA,2013,2
+Saint Kitts and Nevis,KNA,2014,2
+Saint Kitts and Nevis,KNA,2015,2
+Saint Kitts and Nevis,KNA,2016,2
+Saint Kitts and Nevis,KNA,2017,2
+Saint Kitts and Nevis,KNA,2018,2
+Saint Kitts and Nevis,KNA,2019,2
+Saint Lucia,LCA,1990,8
+Saint Lucia,LCA,1991,8
+Saint Lucia,LCA,1992,7
+Saint Lucia,LCA,1993,7
+Saint Lucia,LCA,1994,7
+Saint Lucia,LCA,1995,6
+Saint Lucia,LCA,1996,6
+Saint Lucia,LCA,1997,5
+Saint Lucia,LCA,1998,5
+Saint Lucia,LCA,1999,4
+Saint Lucia,LCA,2000,4
+Saint Lucia,LCA,2001,4
+Saint Lucia,LCA,2002,3
+Saint Lucia,LCA,2003,3
+Saint Lucia,LCA,2004,3
+Saint Lucia,LCA,2005,3
+Saint Lucia,LCA,2006,3
+Saint Lucia,LCA,2007,3
+Saint Lucia,LCA,2008,3
+Saint Lucia,LCA,2009,3
+Saint Lucia,LCA,2010,3
+Saint Lucia,LCA,2011,3
+Saint Lucia,LCA,2012,3
+Saint Lucia,LCA,2013,3
+Saint Lucia,LCA,2014,3
+Saint Lucia,LCA,2015,3
+Saint Lucia,LCA,2016,3
+Saint Lucia,LCA,2017,3
+Saint Lucia,LCA,2018,3
+Saint Lucia,LCA,2019,3
+Saint Vincent and the Grenadines,VCT,1990,9
+Saint Vincent and the Grenadines,VCT,1991,9
+Saint Vincent and the Grenadines,VCT,1992,8
+Saint Vincent and the Grenadines,VCT,1993,8
+Saint Vincent and the Grenadines,VCT,1994,7
+Saint Vincent and the Grenadines,VCT,1995,7
+Saint Vincent and the Grenadines,VCT,1996,7
+Saint Vincent and the Grenadines,VCT,1997,6
+Saint Vincent and the Grenadines,VCT,1998,6
+Saint Vincent and the Grenadines,VCT,1999,5
+Saint Vincent and the Grenadines,VCT,2000,4
+Saint Vincent and the Grenadines,VCT,2001,4
+Saint Vincent and the Grenadines,VCT,2002,4
+Saint Vincent and the Grenadines,VCT,2003,3
+Saint Vincent and the Grenadines,VCT,2004,3
+Saint Vincent and the Grenadines,VCT,2005,3
+Saint Vincent and the Grenadines,VCT,2006,3
+Saint Vincent and the Grenadines,VCT,2007,3
+Saint Vincent and the Grenadines,VCT,2008,3
+Saint Vincent and the Grenadines,VCT,2009,3
+Saint Vincent and the Grenadines,VCT,2010,3
+Saint Vincent and the Grenadines,VCT,2011,3
+Saint Vincent and the Grenadines,VCT,2012,3
+Saint Vincent and the Grenadines,VCT,2013,3
+Saint Vincent and the Grenadines,VCT,2014,3
+Saint Vincent and the Grenadines,VCT,2015,3
+Saint Vincent and the Grenadines,VCT,2016,3
+Saint Vincent and the Grenadines,VCT,2017,3
+Saint Vincent and the Grenadines,VCT,2018,3
+Saint Vincent and the Grenadines,VCT,2019,3
+Samoa,WSM,1990,10
+Samoa,WSM,1991,10
+Samoa,WSM,1992,10
+Samoa,WSM,1993,10
+Samoa,WSM,1994,9
+Samoa,WSM,1995,9
+Samoa,WSM,1996,9
+Samoa,WSM,1997,9
+Samoa,WSM,1998,8
+Samoa,WSM,1999,8
+Samoa,WSM,2000,8
+Samoa,WSM,2001,7
+Samoa,WSM,2002,7
+Samoa,WSM,2003,7
+Samoa,WSM,2004,7
+Samoa,WSM,2005,7
+Samoa,WSM,2006,7
+Samoa,WSM,2007,7
+Samoa,WSM,2008,7
+Samoa,WSM,2009,7
+Samoa,WSM,2010,7
+Samoa,WSM,2011,7
+Samoa,WSM,2012,7
+Samoa,WSM,2013,7
+Samoa,WSM,2014,8
+Samoa,WSM,2015,7
+Samoa,WSM,2016,7
+Samoa,WSM,2017,7
+Samoa,WSM,2018,7
+Samoa,WSM,2019,7
+San Marino,SMR,1990,0
+San Marino,SMR,1991,0
+San Marino,SMR,1992,0
+San Marino,SMR,1993,0
+San Marino,SMR,1994,0
+San Marino,SMR,1995,0
+San Marino,SMR,1996,0
+San Marino,SMR,1997,0
+San Marino,SMR,1998,0
+San Marino,SMR,1999,0
+San Marino,SMR,2000,0
+San Marino,SMR,2001,0
+San Marino,SMR,2002,0
+San Marino,SMR,2003,0
+San Marino,SMR,2004,0
+San Marino,SMR,2005,0
+San Marino,SMR,2006,0
+San Marino,SMR,2007,0
+San Marino,SMR,2008,0
+San Marino,SMR,2009,0
+San Marino,SMR,2010,0
+San Marino,SMR,2011,0
+San Marino,SMR,2012,0
+San Marino,SMR,2013,0
+San Marino,SMR,2014,0
+San Marino,SMR,2015,0
+San Marino,SMR,2016,0
+San Marino,SMR,2017,0
+San Marino,SMR,2018,0
+San Marino,SMR,2019,0
+Sao Tome and Principe,STP,1990,96
+Sao Tome and Principe,STP,1991,88
+Sao Tome and Principe,STP,1992,86
+Sao Tome and Principe,STP,1993,84
+Sao Tome and Principe,STP,1994,83
+Sao Tome and Principe,STP,1995,81
+Sao Tome and Principe,STP,1996,78
+Sao Tome and Principe,STP,1997,73
+Sao Tome and Principe,STP,1998,68
+Sao Tome and Principe,STP,1999,66
+Sao Tome and Principe,STP,2000,47
+Sao Tome and Principe,STP,2001,43
+Sao Tome and Principe,STP,2002,50
+Sao Tome and Principe,STP,2003,35
+Sao Tome and Principe,STP,2004,45
+Sao Tome and Principe,STP,2005,53
+Sao Tome and Principe,STP,2006,44
+Sao Tome and Principe,STP,2007,35
+Sao Tome and Principe,STP,2008,33
+Sao Tome and Principe,STP,2009,26
+Sao Tome and Principe,STP,2010,24
+Sao Tome and Principe,STP,2011,18
+Sao Tome and Principe,STP,2012,14
+Sao Tome and Principe,STP,2013,13
+Sao Tome and Principe,STP,2014,12
+Sao Tome and Principe,STP,2015,11
+Sao Tome and Principe,STP,2016,10
+Sao Tome and Principe,STP,2017,10
+Sao Tome and Principe,STP,2018,10
+Sao Tome and Principe,STP,2019,9
+Saudi Arabia,SAU,1990,1888
+Saudi Arabia,SAU,1991,1663
+Saudi Arabia,SAU,1992,1457
+Saudi Arabia,SAU,1993,1276
+Saudi Arabia,SAU,1994,1113
+Saudi Arabia,SAU,1995,981
+Saudi Arabia,SAU,1996,835
+Saudi Arabia,SAU,1997,720
+Saudi Arabia,SAU,1998,632
+Saudi Arabia,SAU,1999,572
+Saudi Arabia,SAU,2000,513
+Saudi Arabia,SAU,2001,470
+Saudi Arabia,SAU,2002,428
+Saudi Arabia,SAU,2003,391
+Saudi Arabia,SAU,2004,353
+Saudi Arabia,SAU,2005,313
+Saudi Arabia,SAU,2006,280
+Saudi Arabia,SAU,2007,255
+Saudi Arabia,SAU,2008,237
+Saudi Arabia,SAU,2009,220
+Saudi Arabia,SAU,2010,206
+Saudi Arabia,SAU,2011,194
+Saudi Arabia,SAU,2012,187
+Saudi Arabia,SAU,2013,177
+Saudi Arabia,SAU,2014,171
+Saudi Arabia,SAU,2015,164
+Saudi Arabia,SAU,2016,160
+Saudi Arabia,SAU,2017,156
+Saudi Arabia,SAU,2018,152
+Saudi Arabia,SAU,2019,151
+Scotland,,1990,1
+Scotland,,1991,1
+Scotland,,1992,1
+Scotland,,1993,1
+Scotland,,1994,1
+Scotland,,1995,1
+Scotland,,1996,1
+Scotland,,1997,2
+Scotland,,1998,2
+Scotland,,1999,2
+Scotland,,2000,3
+Scotland,,2001,3
+Scotland,,2002,4
+Scotland,,2003,4
+Scotland,,2004,5
+Scotland,,2005,5
+Scotland,,2006,6
+Scotland,,2007,6
+Scotland,,2008,6
+Scotland,,2009,6
+Scotland,,2010,5
+Scotland,,2011,5
+Scotland,,2012,5
+Scotland,,2013,4
+Scotland,,2014,4
+Scotland,,2015,4
+Scotland,,2016,4
+Scotland,,2017,4
+Scotland,,2018,4
+Scotland,,2019,4
+Senegal,SEN,1990,12121
+Senegal,SEN,1991,12084
+Senegal,SEN,1992,11881
+Senegal,SEN,1993,11646
+Senegal,SEN,1994,11500
+Senegal,SEN,1995,11005
+Senegal,SEN,1996,10340
+Senegal,SEN,1997,9912
+Senegal,SEN,1998,9802
+Senegal,SEN,1999,9534
+Senegal,SEN,2000,8297
+Senegal,SEN,2001,9527
+Senegal,SEN,2002,8788
+Senegal,SEN,2003,7582
+Senegal,SEN,2004,7911
+Senegal,SEN,2005,7725
+Senegal,SEN,2006,7054
+Senegal,SEN,2007,6911
+Senegal,SEN,2008,6818
+Senegal,SEN,2009,6706
+Senegal,SEN,2010,5861
+Senegal,SEN,2011,5867
+Senegal,SEN,2012,5580
+Senegal,SEN,2013,5758
+Senegal,SEN,2014,6258
+Senegal,SEN,2015,6292
+Senegal,SEN,2016,6406
+Senegal,SEN,2017,6221
+Senegal,SEN,2018,5676
+Senegal,SEN,2019,5348
+Serbia,SRB,1990,15
+Serbia,SRB,1991,14
+Serbia,SRB,1992,13
+Serbia,SRB,1993,13
+Serbia,SRB,1994,14
+Serbia,SRB,1995,14
+Serbia,SRB,1996,13
+Serbia,SRB,1997,13
+Serbia,SRB,1998,12
+Serbia,SRB,1999,11
+Serbia,SRB,2000,11
+Serbia,SRB,2001,11
+Serbia,SRB,2002,11
+Serbia,SRB,2003,11
+Serbia,SRB,2004,11
+Serbia,SRB,2005,11
+Serbia,SRB,2006,11
+Serbia,SRB,2007,11
+Serbia,SRB,2008,12
+Serbia,SRB,2009,12
+Serbia,SRB,2010,12
+Serbia,SRB,2011,13
+Serbia,SRB,2012,14
+Serbia,SRB,2013,15
+Serbia,SRB,2014,16
+Serbia,SRB,2015,16
+Serbia,SRB,2016,16
+Serbia,SRB,2017,16
+Serbia,SRB,2018,15
+Serbia,SRB,2019,14
+Seychelles,SYC,1990,4
+Seychelles,SYC,1991,4
+Seychelles,SYC,1992,4
+Seychelles,SYC,1993,4
+Seychelles,SYC,1994,4
+Seychelles,SYC,1995,4
+Seychelles,SYC,1996,4
+Seychelles,SYC,1997,4
+Seychelles,SYC,1998,4
+Seychelles,SYC,1999,4
+Seychelles,SYC,2000,4
+Seychelles,SYC,2001,4
+Seychelles,SYC,2002,4
+Seychelles,SYC,2003,4
+Seychelles,SYC,2004,4
+Seychelles,SYC,2005,4
+Seychelles,SYC,2006,4
+Seychelles,SYC,2007,4
+Seychelles,SYC,2008,4
+Seychelles,SYC,2009,4
+Seychelles,SYC,2010,4
+Seychelles,SYC,2011,4
+Seychelles,SYC,2012,4
+Seychelles,SYC,2013,4
+Seychelles,SYC,2014,4
+Seychelles,SYC,2015,4
+Seychelles,SYC,2016,4
+Seychelles,SYC,2017,4
+Seychelles,SYC,2018,4
+Seychelles,SYC,2019,4
+Sierra Leone,SLE,1990,6849
+Sierra Leone,SLE,1991,6429
+Sierra Leone,SLE,1992,6243
+Sierra Leone,SLE,1993,6083
+Sierra Leone,SLE,1994,6411
+Sierra Leone,SLE,1995,6153
+Sierra Leone,SLE,1996,5724
+Sierra Leone,SLE,1997,5650
+Sierra Leone,SLE,1998,5772
+Sierra Leone,SLE,1999,5763
+Sierra Leone,SLE,2000,5877
+Sierra Leone,SLE,2001,5545
+Sierra Leone,SLE,2002,5250
+Sierra Leone,SLE,2003,4945
+Sierra Leone,SLE,2004,4840
+Sierra Leone,SLE,2005,4571
+Sierra Leone,SLE,2006,4430
+Sierra Leone,SLE,2007,4203
+Sierra Leone,SLE,2008,4028
+Sierra Leone,SLE,2009,3743
+Sierra Leone,SLE,2010,3724
+Sierra Leone,SLE,2011,3648
+Sierra Leone,SLE,2012,3833
+Sierra Leone,SLE,2013,3552
+Sierra Leone,SLE,2014,3447
+Sierra Leone,SLE,2015,3409
+Sierra Leone,SLE,2016,3382
+Sierra Leone,SLE,2017,3424
+Sierra Leone,SLE,2018,3332
+Sierra Leone,SLE,2019,3250
+Singapore,SGP,1990,9
+Singapore,SGP,1991,8
+Singapore,SGP,1992,7
+Singapore,SGP,1993,7
+Singapore,SGP,1994,7
+Singapore,SGP,1995,6
+Singapore,SGP,1996,5
+Singapore,SGP,1997,4
+Singapore,SGP,1998,4
+Singapore,SGP,1999,4
+Singapore,SGP,2000,3
+Singapore,SGP,2001,3
+Singapore,SGP,2002,3
+Singapore,SGP,2003,3
+Singapore,SGP,2004,3
+Singapore,SGP,2005,3
+Singapore,SGP,2006,3
+Singapore,SGP,2007,3
+Singapore,SGP,2008,3
+Singapore,SGP,2009,3
+Singapore,SGP,2010,3
+Singapore,SGP,2011,4
+Singapore,SGP,2012,4
+Singapore,SGP,2013,4
+Singapore,SGP,2014,5
+Singapore,SGP,2015,5
+Singapore,SGP,2016,5
+Singapore,SGP,2017,5
+Singapore,SGP,2018,5
+Singapore,SGP,2019,5
+Slovakia,SVK,1990,7
+Slovakia,SVK,1991,7
+Slovakia,SVK,1992,6
+Slovakia,SVK,1993,6
+Slovakia,SVK,1994,5
+Slovakia,SVK,1995,5
+Slovakia,SVK,1996,5
+Slovakia,SVK,1997,5
+Slovakia,SVK,1998,4
+Slovakia,SVK,1999,4
+Slovakia,SVK,2000,4
+Slovakia,SVK,2001,4
+Slovakia,SVK,2002,4
+Slovakia,SVK,2003,4
+Slovakia,SVK,2004,4
+Slovakia,SVK,2005,4
+Slovakia,SVK,2006,4
+Slovakia,SVK,2007,4
+Slovakia,SVK,2008,4
+Slovakia,SVK,2009,4
+Slovakia,SVK,2010,4
+Slovakia,SVK,2011,4
+Slovakia,SVK,2012,4
+Slovakia,SVK,2013,4
+Slovakia,SVK,2014,4
+Slovakia,SVK,2015,4
+Slovakia,SVK,2016,4
+Slovakia,SVK,2017,4
+Slovakia,SVK,2018,4
+Slovakia,SVK,2019,4
+Slovenia,SVN,1990,1
+Slovenia,SVN,1991,1
+Slovenia,SVN,1992,1
+Slovenia,SVN,1993,1
+Slovenia,SVN,1994,1
+Slovenia,SVN,1995,1
+Slovenia,SVN,1996,1
+Slovenia,SVN,1997,1
+Slovenia,SVN,1998,1
+Slovenia,SVN,1999,1
+Slovenia,SVN,2000,1
+Slovenia,SVN,2001,1
+Slovenia,SVN,2002,1
+Slovenia,SVN,2003,1
+Slovenia,SVN,2004,1
+Slovenia,SVN,2005,1
+Slovenia,SVN,2006,1
+Slovenia,SVN,2007,1
+Slovenia,SVN,2008,1
+Slovenia,SVN,2009,1
+Slovenia,SVN,2010,1
+Slovenia,SVN,2011,1
+Slovenia,SVN,2012,1
+Slovenia,SVN,2013,1
+Slovenia,SVN,2014,1
+Slovenia,SVN,2015,1
+Slovenia,SVN,2016,1
+Slovenia,SVN,2017,1
+Slovenia,SVN,2018,1
+Slovenia,SVN,2019,1
+Solomon Islands,SLB,1990,259
+Solomon Islands,SLB,1991,259
+Solomon Islands,SLB,1992,256
+Solomon Islands,SLB,1993,252
+Solomon Islands,SLB,1994,248
+Solomon Islands,SLB,1995,243
+Solomon Islands,SLB,1996,239
+Solomon Islands,SLB,1997,235
+Solomon Islands,SLB,1998,241
+Solomon Islands,SLB,1999,240
+Solomon Islands,SLB,2000,240
+Solomon Islands,SLB,2001,242
+Solomon Islands,SLB,2002,246
+Solomon Islands,SLB,2003,246
+Solomon Islands,SLB,2004,244
+Solomon Islands,SLB,2005,245
+Solomon Islands,SLB,2006,244
+Solomon Islands,SLB,2007,244
+Solomon Islands,SLB,2008,233
+Solomon Islands,SLB,2009,232
+Solomon Islands,SLB,2010,227
+Solomon Islands,SLB,2011,223
+Solomon Islands,SLB,2012,216
+Solomon Islands,SLB,2013,211
+Solomon Islands,SLB,2014,206
+Solomon Islands,SLB,2015,204
+Solomon Islands,SLB,2016,197
+Solomon Islands,SLB,2017,193
+Solomon Islands,SLB,2018,188
+Solomon Islands,SLB,2019,183
+Somalia,SOM,1990,10131
+Somalia,SOM,1991,10399
+Somalia,SOM,1992,11338
+Somalia,SOM,1993,12401
+Somalia,SOM,1994,14435
+Somalia,SOM,1995,14435
+Somalia,SOM,1996,14854
+Somalia,SOM,1997,15474
+Somalia,SOM,1998,16054
+Somalia,SOM,1999,16308
+Somalia,SOM,2000,17007
+Somalia,SOM,2001,16552
+Somalia,SOM,2002,16547
+Somalia,SOM,2003,16385
+Somalia,SOM,2004,16165
+Somalia,SOM,2005,15868
+Somalia,SOM,2006,15586
+Somalia,SOM,2007,16692
+Somalia,SOM,2008,15843
+Somalia,SOM,2009,15255
+Somalia,SOM,2010,14739
+Somalia,SOM,2011,14888
+Somalia,SOM,2012,13865
+Somalia,SOM,2013,13638
+Somalia,SOM,2014,13319
+Somalia,SOM,2015,13203
+Somalia,SOM,2016,13888
+Somalia,SOM,2017,13740
+Somalia,SOM,2018,13944
+Somalia,SOM,2019,14449
+South Africa,ZAF,1990,17503
+South Africa,ZAF,1991,17348
+South Africa,ZAF,1992,17270
+South Africa,ZAF,1993,16903
+South Africa,ZAF,1994,17001
+South Africa,ZAF,1995,17013
+South Africa,ZAF,1996,17137
+South Africa,ZAF,1997,17366
+South Africa,ZAF,1998,17541
+South Africa,ZAF,1999,17207
+South Africa,ZAF,2000,16975
+South Africa,ZAF,2001,16484
+South Africa,ZAF,2002,16358
+South Africa,ZAF,2003,16202
+South Africa,ZAF,2004,16083
+South Africa,ZAF,2005,15963
+South Africa,ZAF,2006,15802
+South Africa,ZAF,2007,15347
+South Africa,ZAF,2008,14869
+South Africa,ZAF,2009,14311
+South Africa,ZAF,2010,13861
+South Africa,ZAF,2011,13134
+South Africa,ZAF,2012,12557
+South Africa,ZAF,2013,12066
+South Africa,ZAF,2014,11610
+South Africa,ZAF,2015,10914
+South Africa,ZAF,2016,10228
+South Africa,ZAF,2017,9974
+South Africa,ZAF,2018,9683
+South Africa,ZAF,2019,9506
+South Asia,,1990,1156404
+South Asia,,1991,1168647
+South Asia,,1992,1178854
+South Asia,,1993,1140093
+South Asia,,1994,1092369
+South Asia,,1995,1066226
+South Asia,,1996,1037420
+South Asia,,1997,1030143
+South Asia,,1998,1018502
+South Asia,,1999,1001830
+South Asia,,2000,980646
+South Asia,,2001,953330
+South Asia,,2002,925169
+South Asia,,2003,897421
+South Asia,,2004,862456
+South Asia,,2005,849971
+South Asia,,2006,845568
+South Asia,,2007,837609
+South Asia,,2008,834339
+South Asia,,2009,796869
+South Asia,,2010,780337
+South Asia,,2011,778529
+South Asia,,2012,747591
+South Asia,,2013,723642
+South Asia,,2014,686633
+South Asia,,2015,663021
+South Asia,,2016,640568
+South Asia,,2017,642544
+South Asia,,2018,626816
+South Asia,,2019,611191
+South Korea,KOR,1990,196
+South Korea,KOR,1991,173
+South Korea,KOR,1992,154
+South Korea,KOR,1993,138
+South Korea,KOR,1994,125
+South Korea,KOR,1995,113
+South Korea,KOR,1996,103
+South Korea,KOR,1997,94
+South Korea,KOR,1998,88
+South Korea,KOR,1999,82
+South Korea,KOR,2000,76
+South Korea,KOR,2001,70
+South Korea,KOR,2002,68
+South Korea,KOR,2003,69
+South Korea,KOR,2004,70
+South Korea,KOR,2005,72
+South Korea,KOR,2006,76
+South Korea,KOR,2007,80
+South Korea,KOR,2008,84
+South Korea,KOR,2009,89
+South Korea,KOR,2010,95
+South Korea,KOR,2011,103
+South Korea,KOR,2012,110
+South Korea,KOR,2013,115
+South Korea,KOR,2014,120
+South Korea,KOR,2015,124
+South Korea,KOR,2016,128
+South Korea,KOR,2017,132
+South Korea,KOR,2018,135
+South Korea,KOR,2019,138
+South Sudan,SSD,1990,5747
+South Sudan,SSD,1991,5757
+South Sudan,SSD,1992,5868
+South Sudan,SSD,1993,5968
+South Sudan,SSD,1994,6068
+South Sudan,SSD,1995,6263
+South Sudan,SSD,1996,6202
+South Sudan,SSD,1997,6054
+South Sudan,SSD,1998,5997
+South Sudan,SSD,1999,6001
+South Sudan,SSD,2000,6062
+South Sudan,SSD,2001,6041
+South Sudan,SSD,2002,6097
+South Sudan,SSD,2003,6218
+South Sudan,SSD,2004,6408
+South Sudan,SSD,2005,6667
+South Sudan,SSD,2006,7840
+South Sudan,SSD,2007,7625
+South Sudan,SSD,2008,7462
+South Sudan,SSD,2009,7398
+South Sudan,SSD,2010,7342
+South Sudan,SSD,2011,7277
+South Sudan,SSD,2012,7257
+South Sudan,SSD,2013,7276
+South Sudan,SSD,2014,7273
+South Sudan,SSD,2015,6909
+South Sudan,SSD,2016,6564
+South Sudan,SSD,2017,6290
+South Sudan,SSD,2018,6153
+South Sudan,SSD,2019,5997
+South-East Asia Region,,1990,1197495
+South-East Asia Region,,1991,1203281
+South-East Asia Region,,1992,1205936
+South-East Asia Region,,1993,1158303
+South-East Asia Region,,1994,1104627
+South-East Asia Region,,1995,1073055
+South-East Asia Region,,1996,1039753
+South-East Asia Region,,1997,1027339
+South-East Asia Region,,1998,1013315
+South-East Asia Region,,1999,994943
+South-East Asia Region,,2000,973252
+South-East Asia Region,,2001,945700
+South-East Asia Region,,2002,916956
+South-East Asia Region,,2003,887474
+South-East Asia Region,,2004,852228
+South-East Asia Region,,2005,840707
+South-East Asia Region,,2006,836074
+South-East Asia Region,,2007,828060
+South-East Asia Region,,2008,820034
+South-East Asia Region,,2009,780152
+South-East Asia Region,,2010,762521
+South-East Asia Region,,2011,759018
+South-East Asia Region,,2012,727207
+South-East Asia Region,,2013,704090
+South-East Asia Region,,2014,667262
+South-East Asia Region,,2015,644413
+South-East Asia Region,,2016,622597
+South-East Asia Region,,2017,625043
+South-East Asia Region,,2018,612465
+South-East Asia Region,,2019,598615
+Southeast Asia,,1990,198675
+Southeast Asia,,1991,189717
+Southeast Asia,,1992,181652
+Southeast Asia,,1993,173976
+Southeast Asia,,1994,166376
+Southeast Asia,,1995,157662
+Southeast Asia,,1996,148520
+Southeast Asia,,1997,140413
+Southeast Asia,,1998,134560
+Southeast Asia,,1999,129662
+Southeast Asia,,2000,124009
+Southeast Asia,,2001,118580
+Southeast Asia,,2002,114050
+Southeast Asia,,2003,109543
+Southeast Asia,,2004,105273
+Southeast Asia,,2005,102282
+Southeast Asia,,2006,98970
+Southeast Asia,,2007,95630
+Southeast Asia,,2008,92803
+Southeast Asia,,2009,89891
+Southeast Asia,,2010,86225
+Southeast Asia,,2011,83077
+Southeast Asia,,2012,80530
+Southeast Asia,,2013,78046
+Southeast Asia,,2014,76188
+Southeast Asia,,2015,74760
+Southeast Asia,,2016,73068
+Southeast Asia,,2017,72193
+Southeast Asia,,2018,69891
+Southeast Asia,,2019,68244
+Southern Latin America,,1990,1121
+Southern Latin America,,1991,1033
+Southern Latin America,,1992,926
+Southern Latin America,,1993,832
+Southern Latin America,,1994,772
+Southern Latin America,,1995,758
+Southern Latin America,,1996,739
+Southern Latin America,,1997,731
+Southern Latin America,,1998,710
+Southern Latin America,,1999,676
+Southern Latin America,,2000,622
+Southern Latin America,,2001,593
+Southern Latin America,,2002,585
+Southern Latin America,,2003,562
+Southern Latin America,,2004,520
+Southern Latin America,,2005,483
+Southern Latin America,,2006,465
+Southern Latin America,,2007,462
+Southern Latin America,,2008,455
+Southern Latin America,,2009,456
+Southern Latin America,,2010,470
+Southern Latin America,,2011,481
+Southern Latin America,,2012,490
+Southern Latin America,,2013,505
+Southern Latin America,,2014,516
+Southern Latin America,,2015,517
+Southern Latin America,,2016,516
+Southern Latin America,,2017,504
+Southern Latin America,,2018,488
+Southern Latin America,,2019,483
+Southern sub-Saharan Africa,,1990,24665
+Southern sub-Saharan Africa,,1991,24538
+Southern sub-Saharan Africa,,1992,24788
+Southern sub-Saharan Africa,,1993,24415
+Southern sub-Saharan Africa,,1994,24339
+Southern sub-Saharan Africa,,1995,24255
+Southern sub-Saharan Africa,,1996,24207
+Southern sub-Saharan Africa,,1997,24446
+Southern sub-Saharan Africa,,1998,24809
+Southern sub-Saharan Africa,,1999,24755
+Southern sub-Saharan Africa,,2000,24710
+Southern sub-Saharan Africa,,2001,24169
+Southern sub-Saharan Africa,,2002,24117
+Southern sub-Saharan Africa,,2003,23868
+Southern sub-Saharan Africa,,2004,23788
+Southern sub-Saharan Africa,,2005,23796
+Southern sub-Saharan Africa,,2006,24141
+Southern sub-Saharan Africa,,2007,23345
+Southern sub-Saharan Africa,,2008,24737
+Southern sub-Saharan Africa,,2009,24793
+Southern sub-Saharan Africa,,2010,22209
+Southern sub-Saharan Africa,,2011,21524
+Southern sub-Saharan Africa,,2012,20713
+Southern sub-Saharan Africa,,2013,19867
+Southern sub-Saharan Africa,,2014,19062
+Southern sub-Saharan Africa,,2015,18129
+Southern sub-Saharan Africa,,2016,17249
+Southern sub-Saharan Africa,,2017,16879
+Southern sub-Saharan Africa,,2018,16326
+Southern sub-Saharan Africa,,2019,15983
+Spain,ESP,1990,16
+Spain,ESP,1991,15
+Spain,ESP,1992,15
+Spain,ESP,1993,15
+Spain,ESP,1994,16
+Spain,ESP,1995,16
+Spain,ESP,1996,17
+Spain,ESP,1997,18
+Spain,ESP,1998,19
+Spain,ESP,1999,21
+Spain,ESP,2000,23
+Spain,ESP,2001,25
+Spain,ESP,2002,28
+Spain,ESP,2003,30
+Spain,ESP,2004,31
+Spain,ESP,2005,33
+Spain,ESP,2006,34
+Spain,ESP,2007,37
+Spain,ESP,2008,38
+Spain,ESP,2009,40
+Spain,ESP,2010,42
+Spain,ESP,2011,45
+Spain,ESP,2012,47
+Spain,ESP,2013,49
+Spain,ESP,2014,51
+Spain,ESP,2015,54
+Spain,ESP,2016,54
+Spain,ESP,2017,53
+Spain,ESP,2018,53
+Spain,ESP,2019,52
+Sri Lanka,LKA,1990,2381
+Sri Lanka,LKA,1991,2185
+Sri Lanka,LKA,1992,2060
+Sri Lanka,LKA,1993,1874
+Sri Lanka,LKA,1994,1772
+Sri Lanka,LKA,1995,1671
+Sri Lanka,LKA,1996,1614
+Sri Lanka,LKA,1997,1561
+Sri Lanka,LKA,1998,1476
+Sri Lanka,LKA,1999,1410
+Sri Lanka,LKA,2000,1372
+Sri Lanka,LKA,2001,1302
+Sri Lanka,LKA,2002,1234
+Sri Lanka,LKA,2003,1191
+Sri Lanka,LKA,2004,1159
+Sri Lanka,LKA,2005,1153
+Sri Lanka,LKA,2006,1100
+Sri Lanka,LKA,2007,1019
+Sri Lanka,LKA,2008,973
+Sri Lanka,LKA,2009,944
+Sri Lanka,LKA,2010,905
+Sri Lanka,LKA,2011,872
+Sri Lanka,LKA,2012,843
+Sri Lanka,LKA,2013,819
+Sri Lanka,LKA,2014,795
+Sri Lanka,LKA,2015,774
+Sri Lanka,LKA,2016,763
+Sri Lanka,LKA,2017,761
+Sri Lanka,LKA,2018,748
+Sri Lanka,LKA,2019,748
+Sub-Saharan Africa,,1990,837048
+Sub-Saharan Africa,,1991,857126
+Sub-Saharan Africa,,1992,848636
+Sub-Saharan Africa,,1993,846742
+Sub-Saharan Africa,,1994,865795
+Sub-Saharan Africa,,1995,858813
+Sub-Saharan Africa,,1996,861656
+Sub-Saharan Africa,,1997,858050
+Sub-Saharan Africa,,1998,854958
+Sub-Saharan Africa,,1999,845566
+Sub-Saharan Africa,,2000,832945
+Sub-Saharan Africa,,2001,819161
+Sub-Saharan Africa,,2002,800162
+Sub-Saharan Africa,,2003,777155
+Sub-Saharan Africa,,2004,755702
+Sub-Saharan Africa,,2005,739671
+Sub-Saharan Africa,,2006,737965
+Sub-Saharan Africa,,2007,724067
+Sub-Saharan Africa,,2008,705361
+Sub-Saharan Africa,,2009,690496
+Sub-Saharan Africa,,2010,669910
+Sub-Saharan Africa,,2011,647971
+Sub-Saharan Africa,,2012,627133
+Sub-Saharan Africa,,2013,611787
+Sub-Saharan Africa,,2014,597815
+Sub-Saharan Africa,,2015,581505
+Sub-Saharan Africa,,2016,571015
+Sub-Saharan Africa,,2017,562497
+Sub-Saharan Africa,,2018,533539
+Sub-Saharan Africa,,2019,511854
+Sudan,SDN,1990,18807
+Sudan,SDN,1991,19279
+Sudan,SDN,1992,19668
+Sudan,SDN,1993,20036
+Sudan,SDN,1994,20432
+Sudan,SDN,1995,20642
+Sudan,SDN,1996,21111
+Sudan,SDN,1997,20449
+Sudan,SDN,1998,21416
+Sudan,SDN,1999,20373
+Sudan,SDN,2000,19927
+Sudan,SDN,2001,19331
+Sudan,SDN,2002,18663
+Sudan,SDN,2003,17930
+Sudan,SDN,2004,17416
+Sudan,SDN,2005,17736
+Sudan,SDN,2006,17859
+Sudan,SDN,2007,16521
+Sudan,SDN,2008,15611
+Sudan,SDN,2009,14553
+Sudan,SDN,2010,13179
+Sudan,SDN,2011,11596
+Sudan,SDN,2012,10607
+Sudan,SDN,2013,9670
+Sudan,SDN,2014,9207
+Sudan,SDN,2015,8369
+Sudan,SDN,2016,7735
+Sudan,SDN,2017,7723
+Sudan,SDN,2018,6228
+Sudan,SDN,2019,5480
+Suriname,SUR,1990,72
+Suriname,SUR,1991,70
+Suriname,SUR,1992,67
+Suriname,SUR,1993,61
+Suriname,SUR,1994,58
+Suriname,SUR,1995,56
+Suriname,SUR,1996,54
+Suriname,SUR,1997,52
+Suriname,SUR,1998,50
+Suriname,SUR,1999,48
+Suriname,SUR,2000,45
+Suriname,SUR,2001,42
+Suriname,SUR,2002,39
+Suriname,SUR,2003,38
+Suriname,SUR,2004,36
+Suriname,SUR,2005,34
+Suriname,SUR,2006,34
+Suriname,SUR,2007,33
+Suriname,SUR,2008,32
+Suriname,SUR,2009,31
+Suriname,SUR,2010,30
+Suriname,SUR,2011,30
+Suriname,SUR,2012,30
+Suriname,SUR,2013,30
+Suriname,SUR,2014,30
+Suriname,SUR,2015,30
+Suriname,SUR,2016,30
+Suriname,SUR,2017,30
+Suriname,SUR,2018,30
+Suriname,SUR,2019,29
+Sweden,SWE,1990,3
+Sweden,SWE,1991,3
+Sweden,SWE,1992,3
+Sweden,SWE,1993,3
+Sweden,SWE,1994,3
+Sweden,SWE,1995,3
+Sweden,SWE,1996,3
+Sweden,SWE,1997,3
+Sweden,SWE,1998,4
+Sweden,SWE,1999,4
+Sweden,SWE,2000,5
+Sweden,SWE,2001,6
+Sweden,SWE,2002,7
+Sweden,SWE,2003,8
+Sweden,SWE,2004,8
+Sweden,SWE,2005,10
+Sweden,SWE,2006,11
+Sweden,SWE,2007,13
+Sweden,SWE,2008,14
+Sweden,SWE,2009,17
+Sweden,SWE,2010,19
+Sweden,SWE,2011,20
+Sweden,SWE,2012,20
+Sweden,SWE,2013,21
+Sweden,SWE,2014,20
+Sweden,SWE,2015,21
+Sweden,SWE,2016,21
+Sweden,SWE,2017,21
+Sweden,SWE,2018,20
+Sweden,SWE,2019,19
+Switzerland,CHE,1990,3
+Switzerland,CHE,1991,3
+Switzerland,CHE,1992,3
+Switzerland,CHE,1993,2
+Switzerland,CHE,1994,2
+Switzerland,CHE,1995,2
+Switzerland,CHE,1996,2
+Switzerland,CHE,1997,1
+Switzerland,CHE,1998,1
+Switzerland,CHE,1999,1
+Switzerland,CHE,2000,1
+Switzerland,CHE,2001,1
+Switzerland,CHE,2002,2
+Switzerland,CHE,2003,2
+Switzerland,CHE,2004,2
+Switzerland,CHE,2005,2
+Switzerland,CHE,2006,2
+Switzerland,CHE,2007,3
+Switzerland,CHE,2008,3
+Switzerland,CHE,2009,3
+Switzerland,CHE,2010,4
+Switzerland,CHE,2011,4
+Switzerland,CHE,2012,5
+Switzerland,CHE,2013,5
+Switzerland,CHE,2014,5
+Switzerland,CHE,2015,5
+Switzerland,CHE,2016,5
+Switzerland,CHE,2017,5
+Switzerland,CHE,2018,5
+Switzerland,CHE,2019,5
+Syria,SYR,1990,876
+Syria,SYR,1991,829
+Syria,SYR,1992,764
+Syria,SYR,1993,704
+Syria,SYR,1994,664
+Syria,SYR,1995,628
+Syria,SYR,1996,500
+Syria,SYR,1997,416
+Syria,SYR,1998,349
+Syria,SYR,1999,300
+Syria,SYR,2000,251
+Syria,SYR,2001,214
+Syria,SYR,2002,185
+Syria,SYR,2003,156
+Syria,SYR,2004,144
+Syria,SYR,2005,134
+Syria,SYR,2006,126
+Syria,SYR,2007,122
+Syria,SYR,2008,125
+Syria,SYR,2009,117
+Syria,SYR,2010,111
+Syria,SYR,2011,105
+Syria,SYR,2012,95
+Syria,SYR,2013,86
+Syria,SYR,2014,80
+Syria,SYR,2015,74
+Syria,SYR,2016,70
+Syria,SYR,2017,67
+Syria,SYR,2018,66
+Syria,SYR,2019,65
+Taiwan,TWN,1990,80
+Taiwan,TWN,1991,57
+Taiwan,TWN,1992,40
+Taiwan,TWN,1993,30
+Taiwan,TWN,1994,24
+Taiwan,TWN,1995,21
+Taiwan,TWN,1996,17
+Taiwan,TWN,1997,14
+Taiwan,TWN,1998,12
+Taiwan,TWN,1999,11
+Taiwan,TWN,2000,10
+Taiwan,TWN,2001,10
+Taiwan,TWN,2002,9
+Taiwan,TWN,2003,10
+Taiwan,TWN,2004,11
+Taiwan,TWN,2005,12
+Taiwan,TWN,2006,13
+Taiwan,TWN,2007,15
+Taiwan,TWN,2008,20
+Taiwan,TWN,2009,24
+Taiwan,TWN,2010,27
+Taiwan,TWN,2011,31
+Taiwan,TWN,2012,34
+Taiwan,TWN,2013,36
+Taiwan,TWN,2014,38
+Taiwan,TWN,2015,40
+Taiwan,TWN,2016,41
+Taiwan,TWN,2017,39
+Taiwan,TWN,2018,37
+Taiwan,TWN,2019,35
+Tajikistan,TJK,1990,2841
+Tajikistan,TJK,1991,2907
+Tajikistan,TJK,1992,2893
+Tajikistan,TJK,1993,2840
+Tajikistan,TJK,1994,2930
+Tajikistan,TJK,1995,2875
+Tajikistan,TJK,1996,2818
+Tajikistan,TJK,1997,2769
+Tajikistan,TJK,1998,2667
+Tajikistan,TJK,1999,2470
+Tajikistan,TJK,2000,2310
+Tajikistan,TJK,2001,2011
+Tajikistan,TJK,2002,1723
+Tajikistan,TJK,2003,1481
+Tajikistan,TJK,2004,1248
+Tajikistan,TJK,2005,1105
+Tajikistan,TJK,2006,1064
+Tajikistan,TJK,2007,997
+Tajikistan,TJK,2008,941
+Tajikistan,TJK,2009,904
+Tajikistan,TJK,2010,859
+Tajikistan,TJK,2011,802
+Tajikistan,TJK,2012,768
+Tajikistan,TJK,2013,736
+Tajikistan,TJK,2014,704
+Tajikistan,TJK,2015,636
+Tajikistan,TJK,2016,598
+Tajikistan,TJK,2017,588
+Tajikistan,TJK,2018,566
+Tajikistan,TJK,2019,550
+Tanzania,TZA,1990,28870
+Tanzania,TZA,1991,29396
+Tanzania,TZA,1992,31436
+Tanzania,TZA,1993,29907
+Tanzania,TZA,1994,30352
+Tanzania,TZA,1995,30721
+Tanzania,TZA,1996,29015
+Tanzania,TZA,1997,29593
+Tanzania,TZA,1998,27988
+Tanzania,TZA,1999,24673
+Tanzania,TZA,2000,22427
+Tanzania,TZA,2001,21607
+Tanzania,TZA,2002,21266
+Tanzania,TZA,2003,20542
+Tanzania,TZA,2004,19989
+Tanzania,TZA,2005,18681
+Tanzania,TZA,2006,18133
+Tanzania,TZA,2007,17809
+Tanzania,TZA,2008,17360
+Tanzania,TZA,2009,16935
+Tanzania,TZA,2010,16168
+Tanzania,TZA,2011,15459
+Tanzania,TZA,2012,15218
+Tanzania,TZA,2013,14824
+Tanzania,TZA,2014,14437
+Tanzania,TZA,2015,14931
+Tanzania,TZA,2016,14933
+Tanzania,TZA,2017,14756
+Tanzania,TZA,2018,13792
+Tanzania,TZA,2019,13203
+Thailand,THA,1990,6258
+Thailand,THA,1991,5865
+Thailand,THA,1992,5500
+Thailand,THA,1993,5245
+Thailand,THA,1994,5075
+Thailand,THA,1995,4851
+Thailand,THA,1996,4612
+Thailand,THA,1997,4356
+Thailand,THA,1998,4366
+Thailand,THA,1999,4474
+Thailand,THA,2000,4449
+Thailand,THA,2001,4286
+Thailand,THA,2002,4248
+Thailand,THA,2003,4179
+Thailand,THA,2004,4201
+Thailand,THA,2005,4202
+Thailand,THA,2006,4225
+Thailand,THA,2007,4252
+Thailand,THA,2008,4255
+Thailand,THA,2009,4234
+Thailand,THA,2010,4277
+Thailand,THA,2011,4289
+Thailand,THA,2012,4310
+Thailand,THA,2013,4357
+Thailand,THA,2014,4474
+Thailand,THA,2015,4616
+Thailand,THA,2016,4756
+Thailand,THA,2017,4878
+Thailand,THA,2018,4941
+Thailand,THA,2019,5010
+Timor,TLS,1990,483
+Timor,TLS,1991,477
+Timor,TLS,1992,474
+Timor,TLS,1993,463
+Timor,TLS,1994,448
+Timor,TLS,1995,436
+Timor,TLS,1996,429
+Timor,TLS,1997,407
+Timor,TLS,1998,387
+Timor,TLS,1999,379
+Timor,TLS,2000,382
+Timor,TLS,2001,363
+Timor,TLS,2002,341
+Timor,TLS,2003,331
+Timor,TLS,2004,302
+Timor,TLS,2005,281
+Timor,TLS,2006,246
+Timor,TLS,2007,229
+Timor,TLS,2008,208
+Timor,TLS,2009,202
+Timor,TLS,2010,199
+Timor,TLS,2011,198
+Timor,TLS,2012,196
+Timor,TLS,2013,189
+Timor,TLS,2014,186
+Timor,TLS,2015,182
+Timor,TLS,2016,184
+Timor,TLS,2017,186
+Timor,TLS,2018,185
+Timor,TLS,2019,185
+Togo,TGO,1990,6804
+Togo,TGO,1991,6759
+Togo,TGO,1992,6603
+Togo,TGO,1993,6478
+Togo,TGO,1994,6352
+Togo,TGO,1995,6218
+Togo,TGO,1996,6134
+Togo,TGO,1997,6069
+Togo,TGO,1998,6280
+Togo,TGO,1999,6168
+Togo,TGO,2000,6336
+Togo,TGO,2001,6569
+Togo,TGO,2002,6986
+Togo,TGO,2003,7035
+Togo,TGO,2004,7071
+Togo,TGO,2005,7079
+Togo,TGO,2006,7099
+Togo,TGO,2007,6938
+Togo,TGO,2008,7006
+Togo,TGO,2009,7130
+Togo,TGO,2010,7073
+Togo,TGO,2011,6995
+Togo,TGO,2012,6753
+Togo,TGO,2013,6462
+Togo,TGO,2014,6266
+Togo,TGO,2015,6068
+Togo,TGO,2016,5928
+Togo,TGO,2017,5794
+Togo,TGO,2018,5320
+Togo,TGO,2019,5038
+Tokelau,TKL,1990,0
+Tokelau,TKL,1991,0
+Tokelau,TKL,1992,0
+Tokelau,TKL,1993,0
+Tokelau,TKL,1994,0
+Tokelau,TKL,1995,0
+Tokelau,TKL,1996,0
+Tokelau,TKL,1997,0
+Tokelau,TKL,1998,0
+Tokelau,TKL,1999,0
+Tokelau,TKL,2000,0
+Tokelau,TKL,2001,0
+Tokelau,TKL,2002,0
+Tokelau,TKL,2003,0
+Tokelau,TKL,2004,0
+Tokelau,TKL,2005,0
+Tokelau,TKL,2006,0
+Tokelau,TKL,2007,0
+Tokelau,TKL,2008,0
+Tokelau,TKL,2009,0
+Tokelau,TKL,2010,0
+Tokelau,TKL,2011,0
+Tokelau,TKL,2012,0
+Tokelau,TKL,2013,0
+Tokelau,TKL,2014,0
+Tokelau,TKL,2015,0
+Tokelau,TKL,2016,0
+Tokelau,TKL,2017,0
+Tokelau,TKL,2018,0
+Tokelau,TKL,2019,0
+Tonga,TON,1990,4
+Tonga,TON,1991,4
+Tonga,TON,1992,4
+Tonga,TON,1993,4
+Tonga,TON,1994,4
+Tonga,TON,1995,4
+Tonga,TON,1996,4
+Tonga,TON,1997,3
+Tonga,TON,1998,3
+Tonga,TON,1999,3
+Tonga,TON,2000,3
+Tonga,TON,2001,3
+Tonga,TON,2002,3
+Tonga,TON,2003,3
+Tonga,TON,2004,3
+Tonga,TON,2005,3
+Tonga,TON,2006,3
+Tonga,TON,2007,3
+Tonga,TON,2008,2
+Tonga,TON,2009,2
+Tonga,TON,2010,2
+Tonga,TON,2011,2
+Tonga,TON,2012,2
+Tonga,TON,2013,2
+Tonga,TON,2014,2
+Tonga,TON,2015,2
+Tonga,TON,2016,2
+Tonga,TON,2017,2
+Tonga,TON,2018,2
+Tonga,TON,2019,2
+Trinidad and Tobago,TTO,1990,38
+Trinidad and Tobago,TTO,1991,36
+Trinidad and Tobago,TTO,1992,36
+Trinidad and Tobago,TTO,1993,35
+Trinidad and Tobago,TTO,1994,35
+Trinidad and Tobago,TTO,1995,34
+Trinidad and Tobago,TTO,1996,31
+Trinidad and Tobago,TTO,1997,28
+Trinidad and Tobago,TTO,1998,27
+Trinidad and Tobago,TTO,1999,27
+Trinidad and Tobago,TTO,2000,25
+Trinidad and Tobago,TTO,2001,25
+Trinidad and Tobago,TTO,2002,24
+Trinidad and Tobago,TTO,2003,23
+Trinidad and Tobago,TTO,2004,21
+Trinidad and Tobago,TTO,2005,20
+Trinidad and Tobago,TTO,2006,19
+Trinidad and Tobago,TTO,2007,17
+Trinidad and Tobago,TTO,2008,18
+Trinidad and Tobago,TTO,2009,17
+Trinidad and Tobago,TTO,2010,17
+Trinidad and Tobago,TTO,2011,16
+Trinidad and Tobago,TTO,2012,15
+Trinidad and Tobago,TTO,2013,16
+Trinidad and Tobago,TTO,2014,16
+Trinidad and Tobago,TTO,2015,16
+Trinidad and Tobago,TTO,2016,17
+Trinidad and Tobago,TTO,2017,17
+Trinidad and Tobago,TTO,2018,17
+Trinidad and Tobago,TTO,2019,17
+Tropical Latin America,,1990,33662
+Tropical Latin America,,1991,31418
+Tropical Latin America,,1992,29066
+Tropical Latin America,,1993,27044
+Tropical Latin America,,1994,24777
+Tropical Latin America,,1995,22289
+Tropical Latin America,,1996,20181
+Tropical Latin America,,1997,18302
+Tropical Latin America,,1998,16919
+Tropical Latin America,,1999,15347
+Tropical Latin America,,2000,13760
+Tropical Latin America,,2001,12747
+Tropical Latin America,,2002,11908
+Tropical Latin America,,2003,11161
+Tropical Latin America,,2004,10388
+Tropical Latin America,,2005,9666
+Tropical Latin America,,2006,8852
+Tropical Latin America,,2007,8083
+Tropical Latin America,,2008,7401
+Tropical Latin America,,2009,6803
+Tropical Latin America,,2010,6296
+Tropical Latin America,,2011,5895
+Tropical Latin America,,2012,5578
+Tropical Latin America,,2013,5326
+Tropical Latin America,,2014,4992
+Tropical Latin America,,2015,4807
+Tropical Latin America,,2016,4717
+Tropical Latin America,,2017,4577
+Tropical Latin America,,2018,4487
+Tropical Latin America,,2019,4421
+Tunisia,TUN,1990,172
+Tunisia,TUN,1991,157
+Tunisia,TUN,1992,144
+Tunisia,TUN,1993,132
+Tunisia,TUN,1994,122
+Tunisia,TUN,1995,114
+Tunisia,TUN,1996,105
+Tunisia,TUN,1997,99
+Tunisia,TUN,1998,94
+Tunisia,TUN,1999,91
+Tunisia,TUN,2000,88
+Tunisia,TUN,2001,85
+Tunisia,TUN,2002,83
+Tunisia,TUN,2003,82
+Tunisia,TUN,2004,81
+Tunisia,TUN,2005,81
+Tunisia,TUN,2006,82
+Tunisia,TUN,2007,83
+Tunisia,TUN,2008,84
+Tunisia,TUN,2009,85
+Tunisia,TUN,2010,87
+Tunisia,TUN,2011,89
+Tunisia,TUN,2012,88
+Tunisia,TUN,2013,86
+Tunisia,TUN,2014,85
+Tunisia,TUN,2015,83
+Tunisia,TUN,2016,81
+Tunisia,TUN,2017,80
+Tunisia,TUN,2018,78
+Tunisia,TUN,2019,76
+Turkey,TUR,1990,2559
+Turkey,TUR,1991,2391
+Turkey,TUR,1992,2263
+Turkey,TUR,1993,2185
+Turkey,TUR,1994,2158
+Turkey,TUR,1995,2135
+Turkey,TUR,1996,2065
+Turkey,TUR,1997,2025
+Turkey,TUR,1998,1980
+Turkey,TUR,1999,1911
+Turkey,TUR,2000,1782
+Turkey,TUR,2001,1679
+Turkey,TUR,2002,1598
+Turkey,TUR,2003,1308
+Turkey,TUR,2004,1133
+Turkey,TUR,2005,995
+Turkey,TUR,2006,919
+Turkey,TUR,2007,853
+Turkey,TUR,2008,800
+Turkey,TUR,2009,702
+Turkey,TUR,2010,645
+Turkey,TUR,2011,608
+Turkey,TUR,2012,580
+Turkey,TUR,2013,563
+Turkey,TUR,2014,542
+Turkey,TUR,2015,519
+Turkey,TUR,2016,507
+Turkey,TUR,2017,494
+Turkey,TUR,2018,480
+Turkey,TUR,2019,469
+Turkmenistan,TKM,1990,1007
+Turkmenistan,TKM,1991,886
+Turkmenistan,TKM,1992,853
+Turkmenistan,TKM,1993,860
+Turkmenistan,TKM,1994,936
+Turkmenistan,TKM,1995,944
+Turkmenistan,TKM,1996,915
+Turkmenistan,TKM,1997,860
+Turkmenistan,TKM,1998,776
+Turkmenistan,TKM,1999,677
+Turkmenistan,TKM,2000,544
+Turkmenistan,TKM,2001,444
+Turkmenistan,TKM,2002,360
+Turkmenistan,TKM,2003,291
+Turkmenistan,TKM,2004,244
+Turkmenistan,TKM,2005,213
+Turkmenistan,TKM,2006,185
+Turkmenistan,TKM,2007,164
+Turkmenistan,TKM,2008,147
+Turkmenistan,TKM,2009,130
+Turkmenistan,TKM,2010,111
+Turkmenistan,TKM,2011,95
+Turkmenistan,TKM,2012,78
+Turkmenistan,TKM,2013,68
+Turkmenistan,TKM,2014,57
+Turkmenistan,TKM,2015,53
+Turkmenistan,TKM,2016,53
+Turkmenistan,TKM,2017,51
+Turkmenistan,TKM,2018,49
+Turkmenistan,TKM,2019,47
+Tuvalu,TUV,1990,3
+Tuvalu,TUV,1991,2
+Tuvalu,TUV,1992,2
+Tuvalu,TUV,1993,2
+Tuvalu,TUV,1994,2
+Tuvalu,TUV,1995,2
+Tuvalu,TUV,1996,2
+Tuvalu,TUV,1997,2
+Tuvalu,TUV,1998,2
+Tuvalu,TUV,1999,2
+Tuvalu,TUV,2000,1
+Tuvalu,TUV,2001,1
+Tuvalu,TUV,2002,1
+Tuvalu,TUV,2003,1
+Tuvalu,TUV,2004,1
+Tuvalu,TUV,2005,1
+Tuvalu,TUV,2006,1
+Tuvalu,TUV,2007,1
+Tuvalu,TUV,2008,1
+Tuvalu,TUV,2009,1
+Tuvalu,TUV,2010,1
+Tuvalu,TUV,2011,1
+Tuvalu,TUV,2012,1
+Tuvalu,TUV,2013,1
+Tuvalu,TUV,2014,1
+Tuvalu,TUV,2015,1
+Tuvalu,TUV,2016,1
+Tuvalu,TUV,2017,1
+Tuvalu,TUV,2018,1
+Tuvalu,TUV,2019,1
+Uganda,UGA,1990,18850
+Uganda,UGA,1991,19351
+Uganda,UGA,1992,19578
+Uganda,UGA,1993,19692
+Uganda,UGA,1994,19677
+Uganda,UGA,1995,19574
+Uganda,UGA,1996,19196
+Uganda,UGA,1997,18857
+Uganda,UGA,1998,18223
+Uganda,UGA,1999,17302
+Uganda,UGA,2000,16254
+Uganda,UGA,2001,15393
+Uganda,UGA,2002,14435
+Uganda,UGA,2003,13209
+Uganda,UGA,2004,12796
+Uganda,UGA,2005,12135
+Uganda,UGA,2006,11615
+Uganda,UGA,2007,11243
+Uganda,UGA,2008,10738
+Uganda,UGA,2009,10399
+Uganda,UGA,2010,10336
+Uganda,UGA,2011,10191
+Uganda,UGA,2012,10485
+Uganda,UGA,2013,11373
+Uganda,UGA,2014,11776
+Uganda,UGA,2015,11391
+Uganda,UGA,2016,11210
+Uganda,UGA,2017,10471
+Uganda,UGA,2018,9881
+Uganda,UGA,2019,9199
+Ukraine,UKR,1990,116
+Ukraine,UKR,1991,110
+Ukraine,UKR,1992,110
+Ukraine,UKR,1993,114
+Ukraine,UKR,1994,162
+Ukraine,UKR,1995,125
+Ukraine,UKR,1996,105
+Ukraine,UKR,1997,95
+Ukraine,UKR,1998,84
+Ukraine,UKR,1999,80
+Ukraine,UKR,2000,69
+Ukraine,UKR,2001,60
+Ukraine,UKR,2002,54
+Ukraine,UKR,2003,48
+Ukraine,UKR,2004,45
+Ukraine,UKR,2005,42
+Ukraine,UKR,2006,41
+Ukraine,UKR,2007,41
+Ukraine,UKR,2008,42
+Ukraine,UKR,2009,39
+Ukraine,UKR,2010,40
+Ukraine,UKR,2011,41
+Ukraine,UKR,2012,43
+Ukraine,UKR,2013,44
+Ukraine,UKR,2014,43
+Ukraine,UKR,2015,50
+Ukraine,UKR,2016,49
+Ukraine,UKR,2017,47
+Ukraine,UKR,2018,46
+Ukraine,UKR,2019,44
+United Arab Emirates,ARE,1990,15
+United Arab Emirates,ARE,1991,15
+United Arab Emirates,ARE,1992,15
+United Arab Emirates,ARE,1993,14
+United Arab Emirates,ARE,1994,15
+United Arab Emirates,ARE,1995,14
+United Arab Emirates,ARE,1996,14
+United Arab Emirates,ARE,1997,14
+United Arab Emirates,ARE,1998,14
+United Arab Emirates,ARE,1999,14
+United Arab Emirates,ARE,2000,14
+United Arab Emirates,ARE,2001,15
+United Arab Emirates,ARE,2002,15
+United Arab Emirates,ARE,2003,15
+United Arab Emirates,ARE,2004,15
+United Arab Emirates,ARE,2005,15
+United Arab Emirates,ARE,2006,15
+United Arab Emirates,ARE,2007,15
+United Arab Emirates,ARE,2008,17
+United Arab Emirates,ARE,2009,18
+United Arab Emirates,ARE,2010,18
+United Arab Emirates,ARE,2011,19
+United Arab Emirates,ARE,2012,19
+United Arab Emirates,ARE,2013,20
+United Arab Emirates,ARE,2014,21
+United Arab Emirates,ARE,2015,22
+United Arab Emirates,ARE,2016,23
+United Arab Emirates,ARE,2017,24
+United Arab Emirates,ARE,2018,25
+United Arab Emirates,ARE,2019,26
+United Kingdom,GBR,1990,8
+United Kingdom,GBR,1991,9
+United Kingdom,GBR,1992,10
+United Kingdom,GBR,1993,11
+United Kingdom,GBR,1994,12
+United Kingdom,GBR,1995,14
+United Kingdom,GBR,1996,16
+United Kingdom,GBR,1997,18
+United Kingdom,GBR,1998,21
+United Kingdom,GBR,1999,25
+United Kingdom,GBR,2000,29
+United Kingdom,GBR,2001,35
+United Kingdom,GBR,2002,42
+United Kingdom,GBR,2003,51
+United Kingdom,GBR,2004,59
+United Kingdom,GBR,2005,68
+United Kingdom,GBR,2006,77
+United Kingdom,GBR,2007,79
+United Kingdom,GBR,2008,74
+United Kingdom,GBR,2009,66
+United Kingdom,GBR,2010,59
+United Kingdom,GBR,2011,53
+United Kingdom,GBR,2012,49
+United Kingdom,GBR,2013,46
+United Kingdom,GBR,2014,42
+United Kingdom,GBR,2015,41
+United Kingdom,GBR,2016,39
+United Kingdom,GBR,2017,38
+United Kingdom,GBR,2018,40
+United Kingdom,GBR,2019,40
+United States,USA,1990,84
+United States,USA,1991,91
+United States,USA,1992,98
+United States,USA,1993,110
+United States,USA,1994,122
+United States,USA,1995,136
+United States,USA,1996,154
+United States,USA,1997,182
+United States,USA,1998,220
+United States,USA,1999,289
+United States,USA,2000,366
+United States,USA,2001,389
+United States,USA,2002,413
+United States,USA,2003,428
+United States,USA,2004,440
+United States,USA,2005,457
+United States,USA,2006,480
+United States,USA,2007,477
+United States,USA,2008,467
+United States,USA,2009,438
+United States,USA,2010,410
+United States,USA,2011,414
+United States,USA,2012,410
+United States,USA,2013,405
+United States,USA,2014,399
+United States,USA,2015,393
+United States,USA,2016,384
+United States,USA,2017,374
+United States,USA,2018,378
+United States,USA,2019,382
+United States Virgin Islands,VIR,1990,1
+United States Virgin Islands,VIR,1991,1
+United States Virgin Islands,VIR,1992,1
+United States Virgin Islands,VIR,1993,1
+United States Virgin Islands,VIR,1994,1
+United States Virgin Islands,VIR,1995,1
+United States Virgin Islands,VIR,1996,1
+United States Virgin Islands,VIR,1997,1
+United States Virgin Islands,VIR,1998,1
+United States Virgin Islands,VIR,1999,1
+United States Virgin Islands,VIR,2000,1
+United States Virgin Islands,VIR,2001,1
+United States Virgin Islands,VIR,2002,1
+United States Virgin Islands,VIR,2003,1
+United States Virgin Islands,VIR,2004,1
+United States Virgin Islands,VIR,2005,1
+United States Virgin Islands,VIR,2006,1
+United States Virgin Islands,VIR,2007,1
+United States Virgin Islands,VIR,2008,1
+United States Virgin Islands,VIR,2009,1
+United States Virgin Islands,VIR,2010,1
+United States Virgin Islands,VIR,2011,1
+United States Virgin Islands,VIR,2012,1
+United States Virgin Islands,VIR,2013,1
+United States Virgin Islands,VIR,2014,1
+United States Virgin Islands,VIR,2015,1
+United States Virgin Islands,VIR,2016,1
+United States Virgin Islands,VIR,2017,1
+United States Virgin Islands,VIR,2018,1
+United States Virgin Islands,VIR,2019,1
+Uruguay,URY,1990,72
+Uruguay,URY,1991,70
+Uruguay,URY,1992,63
+Uruguay,URY,1993,59
+Uruguay,URY,1994,56
+Uruguay,URY,1995,56
+Uruguay,URY,1996,54
+Uruguay,URY,1997,53
+Uruguay,URY,1998,52
+Uruguay,URY,1999,51
+Uruguay,URY,2000,48
+Uruguay,URY,2001,46
+Uruguay,URY,2002,47
+Uruguay,URY,2003,50
+Uruguay,URY,2004,51
+Uruguay,URY,2005,50
+Uruguay,URY,2006,50
+Uruguay,URY,2007,54
+Uruguay,URY,2008,54
+Uruguay,URY,2009,54
+Uruguay,URY,2010,59
+Uruguay,URY,2011,63
+Uruguay,URY,2012,66
+Uruguay,URY,2013,67
+Uruguay,URY,2014,66
+Uruguay,URY,2015,65
+Uruguay,URY,2016,62
+Uruguay,URY,2017,60
+Uruguay,URY,2018,58
+Uruguay,URY,2019,57
+Uzbekistan,UZB,1990,2584
+Uzbekistan,UZB,1991,2503
+Uzbekistan,UZB,1992,2453
+Uzbekistan,UZB,1993,2321
+Uzbekistan,UZB,1994,2158
+Uzbekistan,UZB,1995,1910
+Uzbekistan,UZB,1996,1593
+Uzbekistan,UZB,1997,1276
+Uzbekistan,UZB,1998,966
+Uzbekistan,UZB,1999,720
+Uzbekistan,UZB,2000,558
+Uzbekistan,UZB,2001,440
+Uzbekistan,UZB,2002,344
+Uzbekistan,UZB,2003,274
+Uzbekistan,UZB,2004,223
+Uzbekistan,UZB,2005,195
+Uzbekistan,UZB,2006,193
+Uzbekistan,UZB,2007,180
+Uzbekistan,UZB,2008,165
+Uzbekistan,UZB,2009,148
+Uzbekistan,UZB,2010,143
+Uzbekistan,UZB,2011,137
+Uzbekistan,UZB,2012,129
+Uzbekistan,UZB,2013,117
+Uzbekistan,UZB,2014,107
+Uzbekistan,UZB,2015,104
+Uzbekistan,UZB,2016,101
+Uzbekistan,UZB,2017,95
+Uzbekistan,UZB,2018,90
+Uzbekistan,UZB,2019,86
+Vanuatu,VUT,1990,52
+Vanuatu,VUT,1991,52
+Vanuatu,VUT,1992,53
+Vanuatu,VUT,1993,53
+Vanuatu,VUT,1994,53
+Vanuatu,VUT,1995,53
+Vanuatu,VUT,1996,53
+Vanuatu,VUT,1997,52
+Vanuatu,VUT,1998,52
+Vanuatu,VUT,1999,54
+Vanuatu,VUT,2000,53
+Vanuatu,VUT,2001,54
+Vanuatu,VUT,2002,53
+Vanuatu,VUT,2003,52
+Vanuatu,VUT,2004,52
+Vanuatu,VUT,2005,54
+Vanuatu,VUT,2006,54
+Vanuatu,VUT,2007,55
+Vanuatu,VUT,2008,55
+Vanuatu,VUT,2009,55
+Vanuatu,VUT,2010,54
+Vanuatu,VUT,2011,54
+Vanuatu,VUT,2012,54
+Vanuatu,VUT,2013,54
+Vanuatu,VUT,2014,55
+Vanuatu,VUT,2015,55
+Vanuatu,VUT,2016,56
+Vanuatu,VUT,2017,57
+Vanuatu,VUT,2018,56
+Vanuatu,VUT,2019,56
+Venezuela,VEN,1990,2604
+Venezuela,VEN,1991,2137
+Venezuela,VEN,1992,2150
+Venezuela,VEN,1993,2159
+Venezuela,VEN,1994,2295
+Venezuela,VEN,1995,2135
+Venezuela,VEN,1996,2018
+Venezuela,VEN,1997,1809
+Venezuela,VEN,1998,1672
+Venezuela,VEN,1999,1489
+Venezuela,VEN,2000,1328
+Venezuela,VEN,2001,1258
+Venezuela,VEN,2002,1252
+Venezuela,VEN,2003,1420
+Venezuela,VEN,2004,1227
+Venezuela,VEN,2005,1100
+Venezuela,VEN,2006,958
+Venezuela,VEN,2007,869
+Venezuela,VEN,2008,801
+Venezuela,VEN,2009,756
+Venezuela,VEN,2010,710
+Venezuela,VEN,2011,683
+Venezuela,VEN,2012,669
+Venezuela,VEN,2013,658
+Venezuela,VEN,2014,683
+Venezuela,VEN,2015,689
+Venezuela,VEN,2016,699
+Venezuela,VEN,2017,708
+Venezuela,VEN,2018,726
+Venezuela,VEN,2019,773
+Vietnam,VNM,1990,6475
+Vietnam,VNM,1991,6158
+Vietnam,VNM,1992,5904
+Vietnam,VNM,1993,5474
+Vietnam,VNM,1994,5125
+Vietnam,VNM,1995,4741
+Vietnam,VNM,1996,4326
+Vietnam,VNM,1997,3995
+Vietnam,VNM,1998,3721
+Vietnam,VNM,1999,3434
+Vietnam,VNM,2000,3163
+Vietnam,VNM,2001,2894
+Vietnam,VNM,2002,2664
+Vietnam,VNM,2003,2517
+Vietnam,VNM,2004,2382
+Vietnam,VNM,2005,2236
+Vietnam,VNM,2006,2109
+Vietnam,VNM,2007,1983
+Vietnam,VNM,2008,1865
+Vietnam,VNM,2009,1765
+Vietnam,VNM,2010,1670
+Vietnam,VNM,2011,1586
+Vietnam,VNM,2012,1510
+Vietnam,VNM,2013,1441
+Vietnam,VNM,2014,1405
+Vietnam,VNM,2015,1370
+Vietnam,VNM,2016,1341
+Vietnam,VNM,2017,1325
+Vietnam,VNM,2018,1285
+Vietnam,VNM,2019,1251
+WHO region,,1990,2440868
+WHO region,,1991,2449751
+WHO region,,1992,2424587
+WHO region,,1993,2360166
+WHO region,,1994,2309051
+WHO region,,1995,2252059
+WHO region,,1996,2202569
+WHO region,,1997,2170826
+WHO region,,1998,2139936
+WHO region,,1999,2098446
+WHO region,,2000,2048857
+WHO region,,2001,1993068
+WHO region,,2002,1934070
+WHO region,,2003,1872377
+WHO region,,2004,1804751
+WHO region,,2005,1766789
+WHO region,,2006,1751356
+WHO region,,2007,1722058
+WHO region,,2008,1693533
+WHO region,,2009,1634673
+WHO region,,2010,1591471
+WHO region,,2011,1565414
+WHO region,,2012,1503862
+WHO region,,2013,1460781
+WHO region,,2014,1405421
+WHO region,,2015,1362329
+WHO region,,2016,1326927
+WHO region,,2017,1318723
+WHO region,,2018,1269605
+WHO region,,2019,1229503
+Wales,,1990,1
+Wales,,1991,1
+Wales,,1992,1
+Wales,,1993,1
+Wales,,1994,1
+Wales,,1995,1
+Wales,,1996,1
+Wales,,1997,1
+Wales,,1998,1
+Wales,,1999,2
+Wales,,2000,2
+Wales,,2001,2
+Wales,,2002,3
+Wales,,2003,3
+Wales,,2004,4
+Wales,,2005,4
+Wales,,2006,5
+Wales,,2007,5
+Wales,,2008,5
+Wales,,2009,5
+Wales,,2010,5
+Wales,,2011,4
+Wales,,2012,4
+Wales,,2013,3
+Wales,,2014,3
+Wales,,2015,3
+Wales,,2016,2
+Wales,,2017,2
+Wales,,2018,2
+Wales,,2019,2
+Western Europe,,1990,232
+Western Europe,,1991,232
+Western Europe,,1992,229
+Western Europe,,1993,226
+Western Europe,,1994,220
+Western Europe,,1995,219
+Western Europe,,1996,219
+Western Europe,,1997,217
+Western Europe,,1998,224
+Western Europe,,1999,232
+Western Europe,,2000,246
+Western Europe,,2001,254
+Western Europe,,2002,281
+Western Europe,,2003,314
+Western Europe,,2004,333
+Western Europe,,2005,364
+Western Europe,,2006,394
+Western Europe,,2007,425
+Western Europe,,2008,447
+Western Europe,,2009,459
+Western Europe,,2010,462
+Western Europe,,2011,452
+Western Europe,,2012,457
+Western Europe,,2013,461
+Western Europe,,2014,461
+Western Europe,,2015,476
+Western Europe,,2016,478
+Western Europe,,2017,465
+Western Europe,,2018,461
+Western Europe,,2019,458
+Western Pacific Region,,1990,116532
+Western Pacific Region,,1991,110172
+Western Pacific Region,,1992,101964
+Western Pacific Region,,1993,94531
+Western Pacific Region,,1994,88137
+Western Pacific Region,,1995,80115
+Western Pacific Region,,1996,73263
+Western Pacific Region,,1997,66524
+Western Pacific Region,,1998,61269
+Western Pacific Region,,1999,56890
+Western Pacific Region,,2000,51885
+Western Pacific Region,,2001,46899
+Western Pacific Region,,2002,42560
+Western Pacific Region,,2003,38800
+Western Pacific Region,,2004,35061
+Western Pacific Region,,2005,32718
+Western Pacific Region,,2006,30214
+Western Pacific Region,,2007,27858
+Western Pacific Region,,2008,26181
+Western Pacific Region,,2009,25036
+Western Pacific Region,,2010,23566
+Western Pacific Region,,2011,22537
+Western Pacific Region,,2012,21792
+Western Pacific Region,,2013,20858
+Western Pacific Region,,2014,20290
+Western Pacific Region,,2015,20013
+Western Pacific Region,,2016,19870
+Western Pacific Region,,2017,19449
+Western Pacific Region,,2018,18485
+Western Pacific Region,,2019,17924
+Western sub-Saharan Africa,,1990,441267
+Western sub-Saharan Africa,,1991,453990
+Western sub-Saharan Africa,,1992,438175
+Western sub-Saharan Africa,,1993,434186
+Western sub-Saharan Africa,,1994,433090
+Western sub-Saharan Africa,,1995,431596
+Western sub-Saharan Africa,,1996,433471
+Western sub-Saharan Africa,,1997,428511
+Western sub-Saharan Africa,,1998,426360
+Western sub-Saharan Africa,,1999,425442
+Western sub-Saharan Africa,,2000,423673
+Western sub-Saharan Africa,,2001,422063
+Western sub-Saharan Africa,,2002,419122
+Western sub-Saharan Africa,,2003,409196
+Western sub-Saharan Africa,,2004,400018
+Western sub-Saharan Africa,,2005,392409
+Western sub-Saharan Africa,,2006,393630
+Western sub-Saharan Africa,,2007,387312
+Western sub-Saharan Africa,,2008,375772
+Western sub-Saharan Africa,,2009,368927
+Western sub-Saharan Africa,,2010,361411
+Western sub-Saharan Africa,,2011,347024
+Western sub-Saharan Africa,,2012,336704
+Western sub-Saharan Africa,,2013,331387
+Western sub-Saharan Africa,,2014,325148
+Western sub-Saharan Africa,,2015,318857
+Western sub-Saharan Africa,,2016,317882
+Western sub-Saharan Africa,,2017,315878
+Western sub-Saharan Africa,,2018,300256
+Western sub-Saharan Africa,,2019,288745
+World,OWID_WRL,1990,2442071
+World,OWID_WRL,1991,2450944
+World,OWID_WRL,1992,2425768
+World,OWID_WRL,1993,2361330
+World,OWID_WRL,1994,2310205
+World,OWID_WRL,1995,2253179
+World,OWID_WRL,1996,2203646
+World,OWID_WRL,1997,2171865
+World,OWID_WRL,1998,2140947
+World,OWID_WRL,1999,2099432
+World,OWID_WRL,2000,2049815
+World,OWID_WRL,2001,1994001
+World,OWID_WRL,2002,1934978
+World,OWID_WRL,2003,1873268
+World,OWID_WRL,2004,1805631
+World,OWID_WRL,2005,1767662
+World,OWID_WRL,2006,1752216
+World,OWID_WRL,2007,1722904
+World,OWID_WRL,2008,1694361
+World,OWID_WRL,2009,1635490
+World,OWID_WRL,2010,1592303
+World,OWID_WRL,2011,1566354
+World,OWID_WRL,2012,1504617
+World,OWID_WRL,2013,1461535
+World,OWID_WRL,2014,1406151
+World,OWID_WRL,2015,1363038
+World,OWID_WRL,2016,1327637
+World,OWID_WRL,2017,1319414
+World,OWID_WRL,2018,1270273
+World,OWID_WRL,2019,1230154
+Yemen,YEM,1990,16444
+Yemen,YEM,1991,16410
+Yemen,YEM,1992,16492
+Yemen,YEM,1993,16545
+Yemen,YEM,1994,16543
+Yemen,YEM,1995,16515
+Yemen,YEM,1996,16328
+Yemen,YEM,1997,16198
+Yemen,YEM,1998,15992
+Yemen,YEM,1999,15759
+Yemen,YEM,2000,15418
+Yemen,YEM,2001,14837
+Yemen,YEM,2002,14643
+Yemen,YEM,2003,14098
+Yemen,YEM,2004,13190
+Yemen,YEM,2005,12179
+Yemen,YEM,2006,11227
+Yemen,YEM,2007,10942
+Yemen,YEM,2008,10343
+Yemen,YEM,2009,9593
+Yemen,YEM,2010,8759
+Yemen,YEM,2011,8161
+Yemen,YEM,2012,7108
+Yemen,YEM,2013,6381
+Yemen,YEM,2014,5645
+Yemen,YEM,2015,5228
+Yemen,YEM,2016,5317
+Yemen,YEM,2017,6164
+Yemen,YEM,2018,5486
+Yemen,YEM,2019,5351
+Zambia,ZMB,1990,10398
+Zambia,ZMB,1991,11267
+Zambia,ZMB,1992,11376
+Zambia,ZMB,1993,11328
+Zambia,ZMB,1994,11287
+Zambia,ZMB,1995,11599
+Zambia,ZMB,1996,11796
+Zambia,ZMB,1997,11900
+Zambia,ZMB,1998,12023
+Zambia,ZMB,1999,12450
+Zambia,ZMB,2000,12226
+Zambia,ZMB,2001,14385
+Zambia,ZMB,2002,11389
+Zambia,ZMB,2003,11144
+Zambia,ZMB,2004,11266
+Zambia,ZMB,2005,10773
+Zambia,ZMB,2006,10138
+Zambia,ZMB,2007,9385
+Zambia,ZMB,2008,9006
+Zambia,ZMB,2009,8449
+Zambia,ZMB,2010,8039
+Zambia,ZMB,2011,7788
+Zambia,ZMB,2012,7279
+Zambia,ZMB,2013,7229
+Zambia,ZMB,2014,7049
+Zambia,ZMB,2015,6927
+Zambia,ZMB,2016,6876
+Zambia,ZMB,2017,6864
+Zambia,ZMB,2018,6255
+Zambia,ZMB,2019,5915
+Zimbabwe,ZWE,1990,2933
+Zimbabwe,ZWE,1991,2974
+Zimbabwe,ZWE,1992,3300
+Zimbabwe,ZWE,1993,3359
+Zimbabwe,ZWE,1994,3223
+Zimbabwe,ZWE,1995,3175
+Zimbabwe,ZWE,1996,3041
+Zimbabwe,ZWE,1997,3057
+Zimbabwe,ZWE,1998,3140
+Zimbabwe,ZWE,1999,3343
+Zimbabwe,ZWE,2000,3441
+Zimbabwe,ZWE,2001,3334
+Zimbabwe,ZWE,2002,3505
+Zimbabwe,ZWE,2003,3433
+Zimbabwe,ZWE,2004,3533
+Zimbabwe,ZWE,2005,3767
+Zimbabwe,ZWE,2006,4040
+Zimbabwe,ZWE,2007,4198
+Zimbabwe,ZWE,2008,6175
+Zimbabwe,ZWE,2009,6906
+Zimbabwe,ZWE,2010,4888
+Zimbabwe,ZWE,2011,5058
+Zimbabwe,ZWE,2012,4959
+Zimbabwe,ZWE,2013,4703
+Zimbabwe,ZWE,2014,4463
+Zimbabwe,ZWE,2015,4336
+Zimbabwe,ZWE,2016,4244
+Zimbabwe,ZWE,2017,4193
+Zimbabwe,ZWE,2018,4013
+Zimbabwe,ZWE,2019,3914
